@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: postwebinar
+content_type: postclass
 optional: false
 expectsubmission: true
 title: In-Depth Analysis
