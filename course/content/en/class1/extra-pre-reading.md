@@ -2,7 +2,7 @@
 published: true
 content_type: pre
 optional: true
-title: Extra Pre-Reading
+title: Evidence in Action - Four Corners Examples
 description: >-
   We have selected 5 key photographs from the World Press Photo Foundation
   archive and made them into Four Corners images to demonstrate how to use
