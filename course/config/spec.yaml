@@ -25,6 +25,9 @@ classes:
         url: extra-pre-reading.md
         slug: prereading
       -
+        url: homework.md
+        slug: homework
+      -
         url: class.md
         slug: liveclass
         schedule:
