@@ -16,7 +16,7 @@ classes:
         url: intro.md
         slug: intro
       -
-      	url: fourcorners.md
+        url: fourcorners.md
         slug: fourcorners
       -
         slug: question1
