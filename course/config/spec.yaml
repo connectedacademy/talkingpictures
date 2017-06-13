@@ -45,6 +45,9 @@ classes:
         url: extended.md
         slug: extended
       -
+        url: homework1.md
+        slug: homework1
+      -
         slug: question3
         content_type: question
       -
