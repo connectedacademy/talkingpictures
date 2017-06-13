@@ -11,7 +11,7 @@ description: >-
   you should read the preparation material and submit your first __Four
   Corners__ image. You can then get peer feedback and join discussion about your
   submission before the live class starts later in the week.
-expectsubmission: true
+expectsubmission: false
 ---
 # Week 1 - Evidence
 
