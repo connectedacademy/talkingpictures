@@ -22,15 +22,3 @@ Here is some more audio to frame your work this week:
 ## Saree Makdisi
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326135511%3Fsecret_token%3Ds-5mUDB&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-----
-
-## Preparation
-
-Having participated in the live class, produce a **Four Corners** image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
-
-Follow [the instructions](/fourcorners.md) to create and upload your submission.
-
-**Put the link to your submission here**
-
-@[submission](fourcorners,evidence,extended)
