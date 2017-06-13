@@ -1,8 +1,8 @@
 ---
 published: true
-content_type: title
+content_type: postclass
 optional: false
-expectsubmission: false
+expectsubmission: true
 title: Homework
 ---
 
