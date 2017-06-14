@@ -94,10 +94,10 @@ _absence, relatives, missing, displacement, refugees, social link_
 
 _You can find more images from the World Press Photo Archive at https://www.worldpressphoto.org/collection_
 
-@[thumbnail]('https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg', 'https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg')
+@[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg, https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg)
 
-@[thumbnail]('https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg', 'https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg')
+@[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg, https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg)
 
-@[thumbnail]('https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg', 'https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg')
+@[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg, https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg)
 
-@[thumbnail]('https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg', https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg)
+@[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg, https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg)
