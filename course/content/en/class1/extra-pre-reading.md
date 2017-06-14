@@ -8,10 +8,10 @@ description: >-
   archive and made them into Four Corners images to demonstrate how to use
   evidence as part of your work. Check them out.
 
-  @[thumbnail]('week1-picture1.jpg', 'week1-picture1.jpg')
-  @[thumbnail]('week1-picture2.jpg', 'week1-picture2.jpg')
-  @[thumbnail]('week1-picture3.jpg', 'week1-picture3.jpg')
-  @[thumbnail]('week1-picture4.jpg', 'week1-picture4.jpg')
+  @[thumbnail]('week1-picture1.jpg, week1-picture1.jpg')
+  @[thumbnail]('week1-picture2.jpg, week1-picture2.jpg')
+  @[thumbnail]('week1-picture3.jpg, week1-picture3.jpg')
+  @[thumbnail]('week1-picture4.jpg, week1-picture4.jpg')
 expectsubmission: false
 ---
 
