@@ -18,7 +18,7 @@ description: >-
   'https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg')
 
   @[thumbnail]('https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg',
-  https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg)
+  'https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg')
 expectsubmission: false
 ---
 
