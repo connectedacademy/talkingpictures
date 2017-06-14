@@ -8,15 +8,17 @@ description: >-
   archive and made them into Four Corners images to demonstrate how to use
   evidence as part of your work. Check them out.
 
-  <div class="md-thumbnail-row"> <div class="md-thumbnail"> <img
-  src="https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg">
-  </div> <div class="md-thumbnail"> <img
-  src="https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg">
-  </div> <div class="md-thumbnail"> <img
-  src="https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg">
-  </div> <div class="md-thumbnail"> <img
-  src="https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg">
-  </div> </div>
+  @[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg,
+  https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg)
+
+  @[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg,
+  https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg)
+
+  @[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg,
+  https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg)
+
+  @[thumbnail](https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg,
+  https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg)
 expectsubmission: false
 ---
 
