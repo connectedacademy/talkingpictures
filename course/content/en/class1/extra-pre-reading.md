@@ -5,7 +5,8 @@ optional: true
 title: Evidence in Action - Four Corners Examples
 expectsubmission: false
 thumbnails:
-  - 'image:''https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg''': null
+  - image: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg
     'link:''https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg''': null
   - 'image:''https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg''': null
     'link:''https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg''': null
