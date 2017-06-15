@@ -8,7 +8,7 @@ description: >-
   archive and made them into Four Corners images to demonstrate how to use
   evidence as part of your work. Check them out.
 
-  @[thumbnails](https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg,https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg,https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg,https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg)
+  @[thumbnails](week1-picture1.jpg,week1-picture2.jpg,week1-picture3.jpg,week1-picture4.jpg)
 expectsubmission: false
 ---
 
