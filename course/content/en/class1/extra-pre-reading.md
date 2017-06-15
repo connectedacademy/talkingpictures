@@ -4,6 +4,7 @@ content_type: pre
 optional: true
 title: Evidence in Action - Four Corners Examples
 expectsubmission: false
+thumbnails: 'week1-picture1.jpg,week1-picture2.jpg,week1-picture3.jpg,week1-picture4.jpg'
 ---
 
 The photo was of a motor-cross competitor taking a tumble from his motorcycle. The date, 1955. The award, the first ever World Press Photo of the Year.
