@@ -3,12 +3,6 @@ published: true
 content_type: pre
 optional: true
 title: Evidence in Action - Four Corners Examples
-description: >-
-  We have selected 5 key photographs from the World Press Photo Foundation
-  archive and made them into Four Corners images to demonstrate how to use
-  evidence as part of your work. Check them out.
-
-  @[thumbnails](week1-picture1.jpg,week1-picture2.jpg,week1-picture3.jpg,week1-picture4.jpg)
 expectsubmission: false
 ---
 
