@@ -5,15 +5,26 @@ optional: true
 title: Evidence in Action - Four Corners Examples
 expectsubmission: false
 thumbnails:
-  - image: >-
+  '1':
+    image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg
-    'link:''https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg''': null
-  - 'image:''https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg''': null
-    'link:''https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg''': null
-  - 'image:''https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg''': null
-    'link:''https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg''': null
-  - 'image:''https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg''': null
-    'link:''https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg''': null
+    link: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg
+  '2':
+    image: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
+    link: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
+  '3':
+    image: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
+    link: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
+  '4':
+    image: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg
+    link: >-
+      https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg
 ---
 
 The photo was of a motor-cross competitor taking a tumble from his motorcycle. The date, 1955. The award, the first ever World Press Photo of the Year.
