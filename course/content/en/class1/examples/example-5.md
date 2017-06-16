@@ -5,10 +5,6 @@ optional: false
 expectsubmission: false
 title: Example 5
 ---
-## Four Corners Example 5
-
-This is Four Corners Example 5
-
 <img src="{{site.baseurl}}/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
 
 **John Stanmeyer, 2014**
