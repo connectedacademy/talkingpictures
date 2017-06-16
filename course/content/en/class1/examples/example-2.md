@@ -5,10 +5,6 @@ optional: false
 expectsubmission: false
 title: Example 2
 ---
-## Four Corners Example 2
-
-This is Four Corners Example 2
-
 <img src="{{site.baseurl}}/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
 
 **Françoise Demulder, 1977 (first female winner of WPP)**
