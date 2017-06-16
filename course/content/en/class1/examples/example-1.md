@@ -3,12 +3,8 @@ published: true
 content_type: pre
 optional: false
 expectsubmission: false
-title: example-1
+title: Example 1
 ---
-## Four Corners Example 1
-
-This is Four Corners Example 1
-
 <img src="{{site.baseurl}}/course/content/media/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
 
 **Don McCullin, 1964**
