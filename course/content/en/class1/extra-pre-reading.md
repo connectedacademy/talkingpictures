@@ -15,11 +15,11 @@ thumbnails:
     link: /markdown/class1%2Fexamples%2Fexample-2.md
   '3':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
+      https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
     link: /markdown/class1%2Fexamples%2Fexample-3.md
   '4':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg
+      https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
     link: /markdown/class1%2Fexamples%2Fexample-4.md
 ---
 
