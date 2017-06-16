@@ -8,22 +8,19 @@ thumbnails:
   '1':
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg
-    link: markdown/class1%2Fexample-1.md
+    link: /markdown/class1%2Fexamples%2Fexample-1.md
   '2':
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
-    link: >-
-      https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-2.md
   '3':
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
-    link: >-
-      https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-3.md
   '4':
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg
-    link: >-
-      https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-4.md
 ---
 
 The photo was of a motor-cross competitor taking a tumble from his motorcycle. The date, 1955. The award, the first ever World Press Photo of the Year.
