@@ -8,9 +8,7 @@ thumbnails:
   '1':
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg
-    link: >-
-      markdown/class1%2Fexample-1.md
-      https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg
+    link: markdown/class1%2Fexample-1.md
   '2':
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
