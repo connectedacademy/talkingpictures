@@ -2,7 +2,7 @@
 published: true
 content_type: pre
 optional: true
-title: Evidence in Action - Four Corners Examples
+title: From the Archive - Four Corners Examples
 expectsubmission: false
 thumbnails:
   '1':
@@ -21,6 +21,12 @@ thumbnails:
     image: >-
       https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg
     link: /markdown/class1%2Fexamples%2Fexample-4.md
+description: >-
+  The World Press Photo Foundation Archive contains over sixty years of iconic
+  images. We have selected photographs from each decade that relate to the
+  issues being covered in the session, and reimagined them as Four Corners
+  Images. It is an example of how 4C can be creatively adapted to add rich
+  meta-date to historical images.
 ---
 
 The photo was of a motor-cross competitor taking a tumble from his motorcycle. The date, 1955. The award, the first ever World Press Photo of the Year.
