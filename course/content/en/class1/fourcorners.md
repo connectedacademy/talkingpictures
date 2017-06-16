@@ -13,6 +13,7 @@ description: >-
   Talking Pictures because it enables the reader to interrogate the photograph
   and better understand the motivation, perspective and values of the
   photographer.
+fourcornersintro: true
 ---
 ## About Four Corners
 
