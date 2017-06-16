@@ -11,7 +11,7 @@ thumbnails:
     link: /markdown/class1%2Fexamples%2Fexample-1.md
   '2':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg
+      https://testclass.connectedacademy.io/course/content/media/week1-picture5.jpg
     link: /markdown/class1%2Fexamples%2Fexample-2.md
   '3':
     image: >-
