@@ -3,7 +3,7 @@ published: true
 content_type: pre
 optional: false
 expectsubmission: false
-title: example-2
+title: Example 2
 ---
 ## Four Corners Example 2
 
