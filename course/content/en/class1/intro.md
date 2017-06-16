@@ -14,6 +14,8 @@ description: >-
   war.
 expectsubmission: false
 ---
+## Evidence - Introduction
+
 We’re used to photographs being evidential. The first hundred years of photography’s history established its reputation as trace representation, a quotation from appearances **link to ritchin’s after photography**. It was something that required a human to make, but once the shutter was released, the moment was captured and locked within an independent chemical process. Even still, it represented a point of view, both literally and figuratively. Digital photography does enable us to make a lot more photographs, quicker and cheaper, but we still have to choose how to edit the world, in order to tell our story clearly. We discern between important visual information and extraneous visual noise and we have to do this within messy, chaotic and often very personal situations.
 
 In this session we hear from Dalia Khamissy and subjects from her project; “The Missing”. We hear how she tells the stories of people, through their homes, their possessions and their relatives. We hear from those relatives what the process of sharing their stories is like for them, and we hear film-maker Benjamin Chesterton describe the responsibilities of the professional storyteller as well as suggestions for what we, as audience, might reflect on.
