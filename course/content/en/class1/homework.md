@@ -7,6 +7,7 @@ title: Homework
 description: >-
   Submit your own photo as a Four Corners enabled image. Particularly focus on
   how evidence is represented in your metadata and image.
+homework: true
 ---
 # Homework
 
