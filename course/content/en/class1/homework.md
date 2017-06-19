@@ -34,4 +34,4 @@ Follow [the instructions](/fourcorners.md) to create and upload your submission.
 
 **Put the link to your submission here**
 
-@[submission](fourcorners, evidence, intro)
+@[submission](fourcorners, evidence, homework)
