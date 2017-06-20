@@ -12,7 +12,6 @@ description: >-
   Dalia Khamissy re-united with some of the subjects from her long-term project
   on the families of people ‘forcibly-disappeared’ during the country’s civil
   war.
-
   ![Dalia_cropped.jpg]({{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
   Born and based in Beirut, Dalia Khamissy earned her diploma in photography
   from USEK, Lebanon in 1999.
@@ -27,3 +26,20 @@ In this session we hear from Dalia Khamissy and subjects from her project; “Th
 All of us are the audience today, many of us will also think of ourselves as photographers and some of us will understand what it is to be a subject. As we listen to the audio piece consider how each person’s motivation is reflected. Is the historical account an unbiased one? What is Dalia’s motivation and how have her outlets for that motivation evolved? What is the motivation of the subjects, why do they agree to submit to such a painful procedure? And what does Benjamin hope to achieve? What or who is the common ground that these various stakeholders share? In a world where every person in this piece can publish their own story and make their own photographs, what are the various roles of the 21st century photographer?
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
+
+![Dalia_cropped.jpg]({{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
+
+**Dalia Khamissy**
+
+![benjamin.jpg]({{site.baseurl}}/course/content/media/benjamin.jpg)
+
+**Benjamin Chesterton**
+
+![saree_cropped.jpg]({{site.baseurl}}/course/content/media/saree_cropped.jpg)
+
+**Saree Makdis**
+
+![jw_by_gw-768x774.jpg]({{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
+
+
+**Jonathan Worth**
