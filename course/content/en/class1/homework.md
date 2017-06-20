@@ -22,8 +22,8 @@ Use each of the corners creatively and do not feel restricted by our examples. A
 
 Thinking of Dalia's _Abandoned Spaces_ and _The Missing_ here are some examples of the kind of things you might submit:
 
-- A Place: a politically or personally significant location. Can historical or geo-located images be used or linked to enrich your metadata (TL, TR)?
 - A Person: the story of a life, or moment within a life. It could be yours or someone else's. Can this story be told through associated objects or other people (TL,BL)?  
+- A Place: a politically or personally significant location. Can historical or geo-located images be used or linked to enrich your metadata (TL, TR)?
 - An Event: a birthday party, a football match, an election. Tell us this story through ther evidence left behind. Can contemporaneous accounts (media/social-media) be used or linked to enrich the metadata (TL,TR)?
 
 When creating your image, think carefully about the 4C metadata, and how using it makes you and your story more believable. Take a look at the [Four Corners Examples](/markdown/class1/extra-pre-reading.md).
