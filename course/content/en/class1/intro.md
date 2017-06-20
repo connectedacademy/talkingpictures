@@ -3,7 +3,7 @@ published: true
 content_type: pre
 optional: false
 title: Evidence - Introduction
-description: |
+description: >-
   When everyone has the means to make and publish photographic images, what
   makes some stories more believable than others? What makes some photographers
   more believable than others? Welcome to the first instalment of **Talking
@@ -13,7 +13,7 @@ description: |
   This week sees Lebanese photographer Dalia Khamissy re-united with some of the
   subjects from her long-term project on the families of people
   ‘forcibly-disappeared’ during the country’s civil war.
-  
+
   @[bio](Dalia Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
   Born and based in Beirut, Dalia Khamissy earned her diploma in photography
   from USEK, Lebanon in 1999.
@@ -29,9 +29,11 @@ All of us are the audience today, many of us will also think of ourselves as pho
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
-@[bio](Dalia Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
+
 
 @[bio](Benjamin Chesterton,{{site.baseurl}}/course/content/media/benjamin.jpg)
+
+@[bio](Dalia Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
 
 @[bio](Saree Makdis,{{site.baseurl}}/course/content/media/saree_cropped.jpg)
 
