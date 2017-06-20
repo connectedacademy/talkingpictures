@@ -21,6 +21,7 @@ prose:
             - webinar
             - postwebinar
             - question
+            - nextclass
       - name: description
         field:
           element: textarea
