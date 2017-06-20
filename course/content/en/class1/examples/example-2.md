@@ -3,13 +3,13 @@ published: true
 content_type: pre
 optional: false
 expectsubmission: false
-title: Example 2
+title: 'Françoise Demulder, 1977'
 ---
 <img src="{{site.baseurl}}/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
 
 **Françoise Demulder, 1977 (first female winner of WPP)**
 
-_Lebanon civil war, war photography, massacre, killings, civilians_
+*Lebanon civil war, war photography, massacre, killings, civilians*
 
 
 <script type="text/json" data-4c-meta="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620">
