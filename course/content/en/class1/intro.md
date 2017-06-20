@@ -27,6 +27,8 @@ All of us are the audience today, many of us will also think of ourselves as pho
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
+@[bio](Dalia Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
+
 ![Dalia_cropped.jpg]({{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
 
 **Dalia Khamissy**
