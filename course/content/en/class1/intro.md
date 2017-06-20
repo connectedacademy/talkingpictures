@@ -3,7 +3,7 @@ published: true
 content_type: pre
 optional: false
 title: Evidence - Introduction
-description: |
+description: >-
   When everyone has the means to make and publish photographic images, what
   makes some stories more believable than others? What makes some photographers
   more believable than others? Welcome to the first instalment of **Talking
@@ -30,19 +30,8 @@ Other questions will appear in the transcript and you will have your own, please
 
 @[bio](Dalia Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
 
-![Dalia_cropped.jpg]({{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
+@[bio](Benjamin Chesterton,{{site.baseurl}}/course/content/media/benjamin.jpg)
 
-**Dalia Khamissy**
+@[bio](Saree Makdis,{{site.baseurl}}/course/content/media/saree_cropped.jpg)
 
-![benjamin.jpg]({{site.baseurl}}/course/content/media/benjamin.jpg)
-
-**Benjamin Chesterton**
-
-![saree_cropped.jpg]({{site.baseurl}}/course/content/media/saree_cropped.jpg)
-
-**Saree Makdis**
-
-![jw_by_gw-768x774.jpg]({{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
-
-
-**Jonathan Worth**
+@[bio](Jonathan Worth,{{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
