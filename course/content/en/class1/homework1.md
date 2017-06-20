@@ -7,7 +7,7 @@ title: Homework
 ---
 
 
-## Preparation
+## Re-visit
 
 Having now had access to all of the learning resources including the audio montage, the connected class-notes, World Press Photo Archive examples, full interviews including deep-dive interview with Rena Effendi, having seen other people's work and had the chance to give and receive feedback on yours, you should either re-visit and re-work your original submission, or create a new one. 
 
