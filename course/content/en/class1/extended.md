@@ -4,10 +4,7 @@ content_type: postclass
 optional: true
 expectsubmission: false
 title: Additional Watching
-description: >-
-  Extended interviews and commentary from *Dalia Khamissy*, *Benjamin
-  Chesterton* and *Saree Makdisi* as well as instructions on submitting your
-  next *Four Corners* image.
+description: JW TO FILL IN CONTENT HERE
 ---
 Here you can access the original extended interviews individually.
 
