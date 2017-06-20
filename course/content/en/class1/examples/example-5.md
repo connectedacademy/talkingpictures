@@ -9,7 +9,7 @@ title: Example 5
 
 **John Stanmeyer, 2014**
 
-_absence, relatives, missing, displacement, refugees, social link_
+*absence, relatives, missing, displacement, refugees, social link*
 
 
 
