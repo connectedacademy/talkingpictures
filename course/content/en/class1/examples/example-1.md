@@ -3,13 +3,13 @@ published: true
 content_type: pre
 optional: false
 expectsubmission: false
-title: Example 1
+title: 'Don McCullin, 1964'
 ---
 <img src="{{site.baseurl}}/course/content/media/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
 
 **Don McCullin, 1964**
 
-_Key words: grief, civil war, family, loss, trauma, absence, testimony_
+*Key words: grief, civil war, family, loss, trauma, absence, testimony*
 
 
 <script type="text/json" data-4c-meta="885126f7-02a8-701f-1c12-7e38205475a5">
