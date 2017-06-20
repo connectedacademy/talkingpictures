@@ -9,9 +9,9 @@ title: Homework
 
 ## Preparation
 
-Having participated in the live class, produce a **Four Corners** image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
+Having now had access to all of the learning resources including the audio montage, the connected class-notes, World Press Photo Archive examples, full interviews including deep-dive interview with Rena Effendi, having seen other people's work and had the chance to give and receive feedback on yours, you should either re-visit and re-work your original submission, or create a new one. 
 
-Follow [the instructions](/fourcorners.md) to create and upload your submission.
+Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice. If you need to, follow [the instructions](/fourcorners.md) to create and upload your submission.
 
 **Put the link to your submission here**
 
