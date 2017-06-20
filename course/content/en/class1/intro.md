@@ -3,7 +3,7 @@ published: true
 content_type: pre
 optional: false
 title: Evidence - Introduction
-description: >-
+description: |
   When everyone has the means to make and publish photographic images, what
   makes some stories more believable than others? What makes some photographers
   more believable than others? Welcome to the first instalment of **Talking
