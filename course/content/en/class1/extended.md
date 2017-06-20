@@ -35,7 +35,7 @@ I am Professor of English and Comparative Literature at UCLA, and the author of 
 
 *Birmingham, UK.*
 
-![bvenjamin (1).jpg]({{site.baseurl}}/course/content/media/bvenjamin (1).jpg)
+![benjamin.jpg]({{site.baseurl}}/course/content/media/benjamin.jpg)
 
 Benjamin Chesterton is a former dishwasher, cook, teacher and BBC Radio documentary producer. In 2008 he co-founded the company duckrabit with a view to marrying his passion for telling peoples stories with his love of photography.  The company has evolved into making films and has worked on photography and film projects with MSF in the Congo, Oxfam in Zimbabwe, the HIV Aids Alliance in Uganda, and on BBC documentaries presented by photographers in Sweden, Papua New Guinea and Lebanon. Benjamin is currently working on a series of films about extremism.
 
