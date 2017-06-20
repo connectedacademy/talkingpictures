@@ -27,24 +27,13 @@ All of us are the audience today, many of us will also think of ourselves as pho
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
-@[testexample](1)
+@[bio](Benjamin Chesterton|{{site.baseurl}}/course/content/media/benjamin.jpg)
 
-@[testexample](2)
 
-@[testexample](3)
+@[bio](Dalia Khamissy|{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
 
-@[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 
-@[youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=feedrec_centerforopenscience_index)
+@[bio](Saree Makdis|{{site.baseurl}}/course/content/media/saree_cropped.jpg)
 
-@[youtube](http://www.youtube.com/user/IngridMichaelsonVEVO#p/a/u/1/QdK8U-VIH_o)
 
-@[youtube](http://www.youtube.com/v/dQw4w9WgXcQ?fs=1&amp;hl=en_US&amp;rel=0)
-
-@[bio](Benjamin Chesterton,{{site.baseurl}}/course/content/media/benjamin.jpg)
-
-@[bio](Dalia Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
-
-@[bio](Saree Makdis,{{site.baseurl}}/course/content/media/saree_cropped.jpg)
-
-@[bio](Jonathan Worth,{{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
+@[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
