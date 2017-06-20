@@ -5,8 +5,11 @@ optional: false
 expectsubmission: true
 title: Homework
 description: >-
-  Submit your own photo as a Four Corners enabled image. Particularly focus on
-  how evidence is represented in your metadata and image.
+  ‘Tell us the story of something that isn’t there.’ In preparation for the
+  class you should use the Four Corners editor to add rich meta-data to an image
+  that addresses the theme of absence. Whether the image is new or old, one of
+  yours or someone else’s, is up to you but the information within the corners
+  should add new layers of meaning for the reader.
 homework: true
 ---
 # Homework
