@@ -5,9 +5,7 @@ optional: false
 title: Live Classroom
 transcript: transcripts/SI0kWdWG0JY.json
 video: SI0kWdWG0JY
-description: >-
-  The live class is now open, we welcome you to participate by tweeting your
-  thoughts and questions during the session.
+description: JW TO FILL IN CONTENT HERE
 duration: '1846'
 expectsubmission: false
 prompts: transcripts/SI0kWdWG0JY_prompts.json
