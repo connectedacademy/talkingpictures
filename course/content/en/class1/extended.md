@@ -9,7 +9,7 @@ description: >-
   Chesterton* and *Saree Makdisi* as well as instructions on submitting your
   next *Four Corners* image.
 ---
-Here you can access the extended interviews individually.
+Here you can access the original extended interviews individually.
 
 ## Photographer - Dalia Khamissy
 
