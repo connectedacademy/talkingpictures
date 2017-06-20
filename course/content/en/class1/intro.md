@@ -29,6 +29,9 @@ All of us are the audience today, many of us will also think of ourselves as pho
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
+@[example](1)
+@[example](2)
+@[example](3)
 
 
 @[bio](Benjamin Chesterton,{{site.baseurl}}/course/content/media/benjamin.jpg)
