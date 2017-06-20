@@ -12,9 +12,9 @@ description: >-
   Dalia Khamissy re-united with some of the subjects from her long-term project
   on the families of people ‘forcibly-disappeared’ during the country’s civil
   war. @[bio](Dalia
-  Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg) Born and
+  Khamissy,{{site.baseurl}}/course/content/media/Dalia_cropped.jpg,Born and
   based in Beirut, Dalia Khamissy earned her diploma in photography from USEK,
-  Lebanon in 1999.
+  Lebanon in 1999.)
 expectsubmission: false
 ---
 ## Evidence - Introduction
