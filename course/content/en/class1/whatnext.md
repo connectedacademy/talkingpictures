@@ -1,9 +1,7 @@
 ---
 published: true
-content_type: postwebinar
+content_type: nextclass
 optional: false
 expectsubmission: false
 title: What Next
-description: Prepare for next week's class by reading the introduction...
 ---
-Prepare for next week's class by reading the introduction when it becomes available...
