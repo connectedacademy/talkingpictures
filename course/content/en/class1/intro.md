@@ -12,6 +12,8 @@ description: >-
   Dalia Khamissy re-united with some of the subjects from her long-term project
   on the families of people ‘forcibly-disappeared’ during the country’s civil
   war.
+
+  [profile bio]()
 expectsubmission: false
 ---
 ## Evidence - Introduction
