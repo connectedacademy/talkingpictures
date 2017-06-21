@@ -26,11 +26,11 @@ Thinking of Dalia's _Abandoned Spaces_ and _The Missing_ here are some examples 
 - A Place: a politically or personally significant location. Can historical or geo-located images be used or linked to enrich your metadata (TL, TR)?
 - An Event: a birthday party, a football match, an election. Tell us this story through ther evidence left behind. Can contemporaneous accounts (media/social-media) be used or linked to enrich the metadata (TL,TR)?
 
-When creating your image, think carefully about the 4C metadata, and how using it makes you and your story more believable. Take a look at the [Four Corners Examples](/markdown/class1/extra-pre-reading.md).
+When creating your image, think carefully about the 4C metadata, and how using it makes you and your story more believable. Take a look at the [Four Corners Examples](/class1/extra-pre-reading.md).
 
 
 ## Preparation
 
 In advance of this Class, Using the **Four Corners** template, produce an image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
-Follow [the instructions](../fourcorners.md) to create and upload your submission.
+Follow [the instructions](/class/fourcorners.md) to create and upload your submission.
