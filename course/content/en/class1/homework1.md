@@ -14,6 +14,4 @@ Having now had access to all of the learning resources including the audio monta
 
 Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice. If you need to, follow [the instructions](/fourcorners.md) to create and upload your submission.
 
-**Put the link to your submission here**
-
-@[submission](fourcorners,evidence,extended)
+@[submission](fourcorners,evidence,homework1)
