@@ -11,4 +11,5 @@ description: >-
 duration: '1846'
 expectsubmission: false
 prompts: transcripts/SI0kWdWG0JY_prompts.json
+images: transcripts/SI0kWdWG0JY_images.json
 ---
