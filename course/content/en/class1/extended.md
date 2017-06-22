@@ -3,7 +3,7 @@ published: true
 content_type: postclass
 optional: true
 expectsubmission: false
-title: Additional Watching
+title: Extended Content
 description: JW TO FILL IN CONTENT HERE
 ---
 Here you can access the original extended interviews individually.
