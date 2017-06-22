@@ -9,8 +9,7 @@ description: >-
   Mohamed Somji and Founder of Addis Foto Fest Aïda Muluneh as they review
   responses to this week’s session and discuss the emergent themes.
 
-  @[bio](Magdalena
-  Herrera|https://www.worldpressphoto.org/sites/default/files/styles/carousal/public/photographers/portrait%20Magdalena%20Herrera.jpg?itok=yekkU7Kt|Magdalena
+  @[bio](Magdalena Herrera|https://www.worldpressphoto.org/sites/default/files/styles/carousal/public/photographers/portrait%20Magdalena%20Herrera.jpg?itok=yekkU7Kt|Magdalena
   Herrera is the director of photography for Geo, France. She was also the art
   director and head of photography at National Geographic magazine in France
   from 1999 to 2009|https://www.worldpressphoto.org/people/magdalena-herrera)
@@ -24,8 +23,7 @@ description: >-
   a view to nurturing and developing photography talent in the
   region|http://www.mohamedsomji.com/#/About)
 
-  @[bio](Aïda
-  Muluneh|https://www.worldpressphoto.org/sites/default/files/styles/carousal/public/people_profile/aida_muluneh_by_aron_simeneh.jpg?itok=-7zEySH0|Born
+  @[bio](Aïda Muluneh|https://www.worldpressphoto.org/sites/default/files/styles/carousal/public/people_profile/aida_muluneh_by_aron_simeneh.jpg?itok=-7zEySH0|Born
   in Ethiopia in 1974, Aïda Muluneh left the country at a young age and spent an
   itinerant childhood between Yemen and England. She is the 2007 recipient of
   the European Union Prize in the Rencontres Africaines de la Photographie, in
