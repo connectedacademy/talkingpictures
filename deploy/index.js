@@ -102,14 +102,23 @@ describe('Docs Build',function(){
 
     describe('Build Chain',function(){
         
-        let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media'});
+        let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media', filter: (p)=>{
+            if (_.endsWith(p.path,'.jpg') || _.endsWith(p.path,'.png'))
+                return false;
+            else
+                return true;
+        }});
+
         it ('should replace all links',function(cb){
             // Find / Replace assets in the content:
             for (let p of paths)
             {
-                let contents = fs.readFileSync(p.path).toString();
-                contents = contents.replace(/{{site\.baseurl}}/g,domain);
-                fs.writeFileSync(p.path, contents);
+                if (path.extname(p.path)=='.md')
+                {
+                    let contents = fs.readFileSync(p.path).toString();
+                    contents = contents.replace(/{{site\.baseurl}}/g,domain);
+                    fs.writeFileSync(p.path, contents);
+                }
             }
             cb();
         });
