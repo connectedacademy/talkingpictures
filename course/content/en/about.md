@@ -17,6 +17,6 @@ The paedagogy has been designed by Jonathan Worth, Open Lab, Newcastle Universit
 - ArtEZ University, the Netherlands
 - University of California Irvine, USA.
 
-The software and instructure was designed and provided by Open Lab, Newcastle University.
+The software and infrastructure was designed and provided by Open Lab, Newcastle University.
 
 > Find out more about how you can run your own course at http://connectedacademy.io
