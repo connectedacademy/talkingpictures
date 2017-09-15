@@ -7,7 +7,7 @@ langs:
   - en
 about: about.md
 info: info.md
-slug: testclass
+slug: talkingpictures
 classes:
   -
     dir: class1
