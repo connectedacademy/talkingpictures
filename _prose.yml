@@ -1,8 +1,8 @@
 prose:
-  siteurl: https://testclass.connectedacademy.io
+  siteurl: https://talkingpictures.connectedacademy.io
   rooturl: course
   media: 'course/content/media'
-  relativeLinks: https://testclass.connectedacademy.io/links.jsonp
+  relativeLinks: https://talkingpictures.connectedacademy.io/links.jsonp
   metadata:
     'course/content':
       - name: title

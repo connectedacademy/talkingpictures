@@ -1,21 +1,21 @@
 {
-  "name": "testclass",
+  "name": "talkingpictures",
   "version": "1.0.0",
-  "description": "Structure and content for the Test Class, for Connected Academy development.",
+  "description": "A course on Talking Pictures",
   "main": "index.js",
   "scripts": {
     "generate": "mocha --harmony-async-await deploy/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connectedacademy/testclass.git"
+    "url": "git+https://github.com/connectedacademy/talkingpictures.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/connectedacademy/testclass/issues"
+    "url": "https://github.com/connectedacademy/talkingpictures/issues"
   },
-  "homepage": "https://github.com/connectedacademy/testclass#readme",
+  "homepage": "https://github.com/connectedacademy/talkingpictures#readme",
   "dependencies": {
     "js-yaml": "^3.8.3",
     "klaw-sync":"2.1.0",
@@ -24,6 +24,8 @@
     "mocha":"3.3.0",
     "chai": "3.5.0",
     "chai-fs":"1.0.0",
-    "parse-srt":"1.0.0-alpha"
+    "parse-srt":"1.0.0-alpha",
+    "sharp":"0.18.3",
+    "fs-extra": "4.0.2"
   }
 }
