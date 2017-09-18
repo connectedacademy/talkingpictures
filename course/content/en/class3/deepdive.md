@@ -18,4 +18,5 @@ In this extended interview full-time carer and photographer Jim Mortram reflects
 ![]({{site.baseurl}}/course/content/media/LIBYA_MISSING_0001.jpg)
 ![]({{site.baseurl}}/course/content/media/performance%20of%20protest.jpg)
 ![]({{site.baseurl}}/course/content/media/The%20Birdcage.jpg)
-![]({{site.baseurl}}/course/content/media/The%20End%20of%20a%20curfew.jpg)
+![]({{site.baseurl}}/course/content/media/The%20End%20of%20a%20curfew.jpg)![LIBYA_MISSING_0001.jpg]({{site.baseurl}}/course/content/media/LIBYA_MISSING_0001.jpg)
+
