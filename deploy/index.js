@@ -104,14 +104,14 @@ describe('Docs Build',function(){
     describe('Build Chain',function(){
         
         let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media', filter: (p)=>{
-            if (_.endsWith(p.path,'.jpg') || _.endsWith(p.path,'.png'))
+            if (_.endsWith(p.path,'.jpg') || _.endsWith(p.path,'.png') || _.endsWith(p.path,'.jpeg'))
                 return false;
             else
                 return true;
         }});
 
         let images = walk(__dirname + '/../course/content/',{nodir: true, filter: (p)=>{
-            if (_.endsWith(p.path,'.jpg') || _.endsWith(p.path,'.png'))
+            if (_.endsWith(p.path,'.jpg') || _.endsWith(p.path,'.png') || _.endsWith(p.path,'.jpeg'))
                 return true;
             else
                 return false;
@@ -131,7 +131,7 @@ describe('Docs Build',function(){
                 await fs.ensureDir(path.join(pp,'large'));
                 
                 await sharp(p.path).resize(120,120).crop().jpeg().toFile(path.join(pp,'thumb',filename));
-                await sharp(p.path).resize(240).max().jpeg().toFile(path.join(pp,'small', filename));
+                await sharp(p.path).resize(240).max().jpeg({quality:60}).toFile(path.join(pp,'small', filename));
                 await sharp(p.path).resize(480).max().jpeg().toFile(path.join(pp,'medium', filename));
                 await sharp(p.path).resize(1200).max().jpeg().toFile(path.join(pp,'large', filename));
 
