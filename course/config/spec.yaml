@@ -33,7 +33,7 @@ classes:
         slug: liveclass
         schedule:
           -
-            release_at: "2018-04-05T10:57:37+01:00"
+            release_at: "2017-04-02T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
       -
