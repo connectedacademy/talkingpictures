@@ -17,6 +17,7 @@ jobs:
       - checkout
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
+      - restore_cache:
           key: elevator-cache-{{ checksum "ELEVATOR_VERSION" }}
       - run: npm install
       - save_cache:
