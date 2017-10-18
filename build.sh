@@ -1,12 +1,14 @@
 #!/bin/bash
 
 cd /tmp
-
-GIT_COMMIT_DESC= $(git log --format=oneline -n 1 $CIRCLE_SHA1)
-git clone --depth=1 git@github.com:connectedacademy/elevator.git 
-# ls /tmp/elevator
-cp -r /tmp/elevator/docs/* ~/connectedacademy
-
+"$(ls -1)"
+GIT_COMMIT_DESC="$(git log --format=oneline -n 1)"
+if [[ $string == *"[upgrade]"* ]]; then
+    echo "PERFORMING ELEVATOR UI UPGRADE"
+    git clone --depth=1 git@github.com:connectedacademy/elevator.git 
+    # ls /tmp/elevator
+    cp -r /tmp/elevator/docs/* ~/connectedacademy
+fi
 
 cd ~/connectedacademy
 # upgrade changes
