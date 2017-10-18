@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd /tmp
 GIT_COMMIT_DESC="$(git log --format=oneline -n 1)"
+cd /tmp
 if [[ $string == *"[upgrade]"* ]]; then
     echo "PERFORMING ELEVATOR UI UPGRADE"
     git clone --depth=1 git@github.com:connectedacademy/elevator.git 
