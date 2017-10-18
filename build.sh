@@ -1,7 +1,6 @@
 #!/bin/bash
 
 cd /tmp
-"$(ls -1)"
 GIT_COMMIT_DESC="$(git log --format=oneline -n 1)"
 if [[ $string == *"[upgrade]"* ]]; then
     echo "PERFORMING ELEVATOR UI UPGRADE"
