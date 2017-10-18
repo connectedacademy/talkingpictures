@@ -1,14 +1,16 @@
 #!/bin/bash
 
-GIT_COMMIT_DESC="$(git log --format=oneline -n 1)"
-echo GIT_COMMIT_DESC
-cd /tmp
-if [[ $string == *"[upgrade]"* ]]; then
-    echo "PERFORMING ELEVATOR UI UPGRADE"
-    git clone --depth=1 git@github.com:connectedacademy/elevator.git 
-    # ls /tmp/elevator
-    cp -r /tmp/elevator/docs/* ~/connectedacademy
-fi
+# GIT_COMMIT_DESC="$(git log --format=oneline -n 1)"
+GIT_REF=`cat ELEVATOR_VERSION`
+mkdir /repos
+cd /repos
+git clone git@github.com:connectedacademy/elevator.git
+echo "Cloned Elevator UI"
+cd elevator
+git reset --hard ${GIT_REF}
+echo "Switched to commit @ $GIT_REF"
+cp -r /repos/elevator/docs/* ~/connectedacademy
+echo "Copied UI to local repo"
 
 cd ~/connectedacademy
 # upgrade changes
