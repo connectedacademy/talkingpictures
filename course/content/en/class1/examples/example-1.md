@@ -5,7 +5,7 @@ optional: false
 expectsubmission: false
 title: 'Don McCullin, 1964'
 ---
-<img src="{{site.baseurl}}/course/content/media/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
+<img src="{{site.baseurl}}/course/content/media/medium/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
 
 **Don McCullin, 1964**
 

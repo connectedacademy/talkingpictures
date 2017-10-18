@@ -5,7 +5,7 @@ optional: false
 expectsubmission: false
 title: 'John Stanmeyer, 2014'
 ---
-<img src="{{site.baseurl}}/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
+<img src="{{site.baseurl}}/course/content/media/medium/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
 
 **John Stanmeyer, 2014**
 

@@ -5,7 +5,7 @@ optional: false
 expectsubmission: false
 title: 'Robin Moyer, 1982'
 ---
-<img src="{{site.baseurl}}/course/content/media/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
+<img src="{{site.baseurl}}/course/content/media/medium/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
 
 **Robin Moyer, 1982**
 

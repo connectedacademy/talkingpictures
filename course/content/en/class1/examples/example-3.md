@@ -5,7 +5,7 @@ optional: false
 expectsubmission: false
 title: 'James Nachtwey, 1995'
 ---
-<img src="{{site.baseurl}}/course/content/media/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
+<img src="{{site.baseurl}}/course/content/media/medium/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
 
 **James Nachtwey, 1995**
 

@@ -1,6 +1,6 @@
 # Test Class Course
 
-[![CircleCI](https://circleci.com/gh/connectedacademy/testclass/tree/master.svg?style=svg)](https://circleci.com/gh/connectedacademy/testclass/tree/master)
+[![CircleCI](https://circleci.com/gh/connectedacademy/testclass/tree/master.svg?style=svg)](https://circleci.com/gh/connectedacademy/talkingpictures/tree/master)
 
 
 Structure and content for the Test Class, for Connected Academy development.
