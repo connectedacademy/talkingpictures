@@ -17,7 +17,7 @@ jobs:
       - checkout
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
-          key: elevator-cache-{{ checksum "ELEVATORVERSION" }}
+          key: elevator-cache-{{ checksum "ELEVATOR_VERSION" }}
       - run: npm install
       - save_cache:
           key: dependency-cache-{{ checksum "package.json" }}
@@ -28,6 +28,6 @@ jobs:
       - run: chmod +x ./build.sh
       - run: ./build.sh
       - save_cache:
-          key: elevator-cache-{{ checksum "ELEVATORVERSION" }}
+          key: elevator-cache-{{ checksum "ELEVATOR_VERSION" }}
           paths:
             - /repos/elevator
