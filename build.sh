@@ -1,6 +1,8 @@
 #!/bin/bash
 
 cd /tmp
+
+GIT_COMMIT_DESC= $(git log --format=oneline -n 1 $CIRCLE_SHA1)
 git clone --depth=1 git@github.com:connectedacademy/elevator.git 
 # ls /tmp/elevator
 cp -r /tmp/elevator/docs/* ~/connectedacademy
