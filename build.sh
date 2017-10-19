@@ -1,7 +1,12 @@
 #!/bin/bash
 
-# GIT_COMMIT_DESC="$(git log --format=oneline -n 1)"
-GIT_REF=`cat ELEVATOR_VERSION`
+if [ -e ELEVATOR_VERSION ]
+then
+    GIT_REF=`cat ELEVATOR_VERSION`
+else
+    GIT_REF="master"
+fi
+
 mkdir /repos
 cd /repos
 git clone git@github.com:connectedacademy/elevator.git
