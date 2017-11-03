@@ -26,6 +26,7 @@ if [ -e colors.styl ]
 then
     echo "Using Brand customisation in colors.styl"
     cp colors.styl /repos/elevator/src/assets/stylus/buildvariant/colors.styl
+    cd /repos/elevator
     npm i --silent
     npm run build
     echo "Build Complete"
