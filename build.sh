@@ -22,18 +22,22 @@ echo "Switched to commit @ $GIT_REF"
 
 # Brand Customisation
 cd $DIR
-if [ -e colors.styl ]
+if [ -z `find branding -type f` ]
 then
-    echo "Using Brand customisation in colors.styl"
-    cp colors.styl /repos/elevator/src/assets/stylus/buildvariant/colors.styl
+    echo "Using Stock colors"
+else
+    echo "Using Brand customisation"
+    cp ~/branding/stylus/* /repos/elevator/src/assets/stylus/buildvariant/
+    cp ~/branding/images/* /repos/elevator/src/assets/images/
+    cp ~/branding/fonts/* /repos/elevator/src/assets/fonts/
+
     cd /repos/elevator
     npm i --silent
     npm run build
     echo "Build Complete"
-else
-    echo "Using Stock colors"
 fi
 
+cd $DIR
 cp -r /repos/elevator/docs/* ~/connectedacademy
 echo "Copied UI to local repo"
 
