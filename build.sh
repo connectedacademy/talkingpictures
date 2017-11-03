@@ -27,9 +27,9 @@ then
     echo "Using Stock colors"
 else
     echo "Using Brand customisation"
-    cp ~/branding/stylus/* /repos/elevator/src/assets/stylus/buildvariant/
-    cp ~/branding/images/* /repos/elevator/src/assets/images/
-    cp ~/branding/fonts/* /repos/elevator/src/assets/fonts/
+    cp ~/connectedacademy/branding/stylus/* /repos/elevator/src/assets/stylus/buildvariant/
+    cp ~/connectedacademy/branding/images/* /repos/elevator/src/assets/images/
+    cp ~/connectedacademy/branding/fonts/* /repos/elevator/src/assets/fonts/
 
     cd /repos/elevator
     npm i --silent
