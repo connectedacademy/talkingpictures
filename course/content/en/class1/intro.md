@@ -31,6 +31,12 @@ Other questions will appear in the transcript and you will have your own, please
 
 @[bio](Dalia Khamissy|{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
 
+@[bio](Lina-Geadah|{{site.baseurl}}/course/content/media/Lina-Geadah.jpg)
+
+@[bio](Jeanette-Youssef|{{site.baseurl}}/course/content/media/Jeanette-Youssef.jpg)
+
+@[bio] (Aida-Geadah.jpg|{{site.baseurl}}/course/content/media/Aida-Geadah.jpg)
+
 @[bio](Saree Makdis|{{site.baseurl}}/course/content/media/saree_cropped.jpg)
 
 @[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
