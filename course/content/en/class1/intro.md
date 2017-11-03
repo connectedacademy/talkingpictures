@@ -35,7 +35,7 @@ Other questions will appear in the transcript and you will have your own, please
 
 @[bio](Jeanette-Youssef|{{site.baseurl}}/course/content/media/Jeanette-Youssef.jpg)
 
-@[bio] (Aida-Geadah.jpg|{{site.baseurl}}/course/content/media/Aida-Geadah.jpg)
+@[bio](Aida-Geadah.jpg|{{site.baseurl}}/course/content/media/Aida-Geadah.jpg)
 
 @[bio](Saree Makdis|{{site.baseurl}}/course/content/media/saree_cropped.jpg)
 
