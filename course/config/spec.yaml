@@ -59,39 +59,37 @@ classes:
         url: intro.md
         slug: intro
       -
-        slug: question1
-        content_type: question
+        url: fourcorners.md
+        slug: fourcorners
       -
         url: extra-pre-reading.md
         slug: prereading
+      -
+        url: prework.md
+        slug: prework
       -
         url: class.md
         slug: liveclass
         schedule:
           -
-            release_at: "2017-04-10T10:57:37+01:00"
+            release_at: "2017-04-02T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
-      -
-        slug: question2
-        content_type: question
-      -
-        url: extended.md
-        slug: extended
       -
         url: deepdive.md
         slug: deepdive
       -
-        slug: question3
-        content_type: question
+        url: extended.md
+        slug: extended
+      -
+        url: postwork.md
+        slug: postwork
       -
         url: webinar.md
         slug: webinar
         schedule:
           -
-            release_at: "2017-04-12T22:57:37-07:00"
-      -
-        content_type: question
+            release_at: "2017-04-08T22:57:37-07:00"
       -
         url: whatnext.md
         slug: whatnext
@@ -103,39 +101,37 @@ classes:
         url: intro.md
         slug: intro
       -
-        slug: question1
-        content_type: question
+        url: fourcorners.md
+        slug: fourcorners
       -
         url: extra-pre-reading.md
         slug: prereading
+      -
+        url: prework.md
+        slug: prework
       -
         url: class.md
         slug: liveclass
         schedule:
           -
-            release_at: "2017-04-15T10:57:37+01:00"
+            release_at: "2017-04-02T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
-      -
-        slug: question2
-        content_type: question
-      -
-        url: extended.md
-        slug: extended
       -
         url: deepdive.md
         slug: deepdive
       -
-        slug: question3
-        content_type: question
+        url: extended.md
+        slug: extended
+      -
+        url: postwork.md
+        slug: postwork
       -
         url: webinar.md
         slug: webinar
         schedule:
           -
-            release_at: "2017-04-17T22:57:37-07:00"
-      -
-        content_type: question
+            release_at: "2017-04-08T22:57:37-07:00"
       -
         url: whatnext.md
         slug: whatnext
@@ -147,39 +143,37 @@ classes:
         url: intro.md
         slug: intro
       -
-        slug: question1 
-        content_type: question
+        url: fourcorners.md
+        slug: fourcorners
       -
         url: extra-pre-reading.md
         slug: prereading
+      -
+        url: prework.md
+        slug: prework
       -
         url: class.md
         slug: liveclass
         schedule:
           -
-            release_at: "2017-04-20T10:57:37+01:00"
+            release_at: "2017-04-02T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
-      -
-        slug: question2
-        content_type: question
-      -
-        url: extended.md
-        slug: extended
       -
         url: deepdive.md
         slug: deepdive
       -
-        slug: question3
-        content_type: question
+        url: extended.md
+        slug: extended
+      -
+        url: postwork.md
+        slug: postwork
       -
         url: webinar.md
         slug: webinar
         schedule:
           -
-            release_at: "2017-04-22T22:57:37-07:00"
-      -
-        content_type: question
+            release_at: "2017-04-08T22:57:37-07:00"
       -
         url: whatnext.md
         slug: whatnext
@@ -191,39 +185,37 @@ classes:
         url: intro.md
         slug: intro
       -
-        slug: question1
-        content_type: question
+        url: fourcorners.md
+        slug: fourcorners
       -
         url: extra-pre-reading.md
         slug: prereading
+      -
+        url: prework.md
+        slug: prework
       -
         url: class.md
         slug: liveclass
         schedule:
           -
-            release_at: "2017-04-25T10:57:37+01:00"
+            release_at: "2017-04-02T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
-      -
-        slug: question2
-        content_type: question
-      -
-        url: extended.md
-        slug: extended
       -
         url: deepdive.md
         slug: deepdive
       -
-        slug: question3
-        content_type: question
+        url: extended.md
+        slug: extended
+      -
+        url: postwork.md
+        slug: postwork
       -
         url: webinar.md
         slug: webinar
         schedule:
           -
-            release_at: "2017-04-28T22:57:37-07:00"
-      -
-        content_type: question
+            release_at: "2017-04-08T22:57:37-07:00"
       -
         url: whatnext.md
         slug: whatnext
@@ -235,39 +227,37 @@ classes:
         url: intro.md
         slug: intro
       -
-        slug: question1
-        content_type: question
+        url: fourcorners.md
+        slug: fourcorners
       -
         url: extra-pre-reading.md
         slug: prereading
+      -
+        url: prework.md
+        slug: prework
       -
         url: class.md
         slug: liveclass
         schedule:
           -
-            release_at: "2017-05-01T10:57:37+01:00"
+            release_at: "2017-04-02T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
-      -
-        slug: question2
-        content_type: question
-      -
-        url: extended.md
-        slug: extended
       -
         url: deepdive.md
         slug: deepdive
       -
-        slug: question3
-        content_type: question
+        url: extended.md
+        slug: extended
+      -
+        url: postwork.md
+        slug: postwork
       -
         url: webinar.md
         slug: webinar
         schedule:
           -
-            release_at: "2017-05-03T22:57:37-07:00"
-      -
-        content_type: question
+            release_at: "2017-04-08T22:57:37-07:00"
       -
         url: whatnext.md
         slug: whatnext
