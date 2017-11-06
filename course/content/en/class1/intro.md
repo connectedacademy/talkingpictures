@@ -27,16 +27,16 @@ As we, the audience, listen, we should reflect on what moves us and interrogate 
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
-@[bio](Benjamin Chesterton|{{site.baseurl}}/course/content/media/benjamin.jpg)
+@[bio](Benjamin Chesterton|{{site.baseurl}}/course/content/media/medium/benjamin.jpg)
 
-@[bio](Dalia Khamissy|{{site.baseurl}}/course/content/media/Dalia_cropped.jpg)
+@[bio](Dalia Khamissy|{{site.baseurl}}/course/content/media/medium/Dalia_cropped.jpg)
 
-@[bio](Lina-Geadah|{{site.baseurl}}/course/content/media/Lina-Geadah.jpg)
+@[bio](Lina-Geadah|{{site.baseurl}}/course/content/media/medium/Lina-Geadah.jpg)
 
-@[bio](Jeanette-Youssef|{{site.baseurl}}/course/content/media/Jeanette-Youssef.jpg)
+@[bio](Jeanette-Youssef|{{site.baseurl}}/course/content/media/medium/Jeanette-Youssef.jpg)
 
-@[bio](Aida-Geadah.jpg|{{site.baseurl}}/course/content/media/Aida-Geadah.jpg)
+@[bio](Aida-Geadah|{{site.baseurl}}/course/content/media/medium/Aida-Geadah.jpg)
 
-@[bio](Saree Makdis|{{site.baseurl}}/course/content/media/saree_cropped.jpg)
+@[bio](Saree Makdis|{{site.baseurl}}/course/content/media/medium/saree_cropped.jpg)
 
-@[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg)
+@[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/medium/jw_by_gw-768x774.jpg)

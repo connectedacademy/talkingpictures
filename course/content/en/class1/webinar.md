@@ -3,7 +3,7 @@ published: true
 content_type: webinar
 optional: false
 title: Live Webinar
-video: 'https://www.youtube.com/embed/live_stream?channel=UC7cFRkdJrtOkMdg7Eddm58Q'
+video: ini7tlFLJuw
 description: >-
 Join Geo Director of photography **Magdalena Herrara**, Gulf Photo Plus Director **Mohamed Somji** and Founder of Addis Foto Fest **Aïda Muluneh** as they review responses to this week’s session and discuss the emergent themes.
 

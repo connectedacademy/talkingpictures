@@ -1,0 +1,1285 @@
+1
+00:00:00,020 --> 00:00:03,780
+Hello I'm Jonathan Worth and as well as being a freelance photographer I'm also
+
+2
+00:00:03,780 --> 00:00:07,980
+a Senior Researcher at Newcastle University's Open Lab in the UK.
+
+3
+00:00:08,180 --> 00:00:11,340
+The interviews you're about to hear are a part of a series that along with the web
+
+4
+00:00:11,340 --> 00:00:15,660
+platform and connected classes seeks to create a space for critical engagement
+
+5
+00:00:15,660 --> 00:00:19,170
+with visual storytelling. The audio montage is of several separate
+
+6
+00:00:19,170 --> 00:00:22,470
+interviews, including a photographer their subject and someone who represents
+
+7
+00:00:22,470 --> 00:00:27,720
+the audience. The photographer is Isadora
+Kosofsky and her two subjects are
+
+8
+00:00:27,720 --> 00:00:32,600
+Vincent and Felicia. The audience perspective is provided by Peter DiCampo.
+
+9
+00:00:32,880 --> 00:00:37,040
+Isadora is a Los Angeles-based photographer, she was also a 2014
+
+10
+00:00:37,060 --> 00:00:41,260
+World Press Photo Joop Swart Masterclass participant. She's received distinctions
+
+11
+00:00:41,260 --> 00:00:45,000
+for her work from Women and Photography International, Prix de la Photographie, Paris
+
+12
+00:00:45,000 --> 00:00:48,840
+and the New York Film Festival. Vincent and Felicia are subjects from
+
+13
+00:00:48,920 --> 00:00:53,940
+Isadora's project Vinnie and David 'Life and incarceration of a family'.
+
+14
+00:00:53,940 --> 00:00:57,540
+Peter is one of the cofounders of the Instagram project Everyday Africa,
+
+15
+00:00:57,540 --> 00:01:02,240
+a project that led him to think deeply on how different audiences interpret images.
+
+16
+00:01:02,420 --> 00:01:07,040
+Pete Brooke is our subject specialist and he gives a contextual overview.
+
+17
+00:01:07,040 --> 00:01:10,280
+Many will know Pete from his days writing for Wired, others will know him from his
+
+18
+00:01:10,290 --> 00:01:13,770
+prison photography project and its collation of the many different forms of
+
+19
+00:01:13,770 --> 00:01:17,460
+image making the related to mass incarceration. The starting point in
+
+20
+00:01:17,460 --> 00:01:21,479
+these interviews was thinking about who we as photographers are talking to,
+
+21
+00:01:21,480 --> 00:01:25,840
+sort of who are intended audiences are and how different audiences might interpret our work.
+
+22
+00:01:25,960 --> 00:01:29,480
+You'll hear Isadora describes her approach to storytelling, how she
+
+23
+00:01:29,490 --> 00:01:33,180
+searches out her subjects and when she
+finds them how she builds and commits to
+
+24
+00:01:33,180 --> 00:01:37,140
+long-term relationships with them. You're also going to hear about how the process
+
+25
+00:01:37,140 --> 00:01:40,860
+of doing the interviews for this course have affected Isadora, how they've made
+
+26
+00:01:40,860 --> 00:01:45,000
+her reflect on the impact she's had on her subjects. And as we listen, it is worth
+
+27
+00:01:45,000 --> 00:01:48,930
+considering how our own approaches to storytelling affect the story itself.
+
+28
+00:01:49,020 --> 00:01:52,520
+We're going to find that context is a recurring theme in this talk and in
+
+29
+00:01:52,530 --> 00:01:57,020
+different guises as we listen to Felicia describes her incomprehension and why
+
+30
+00:01:57,030 --> 00:02:00,810
+anyone would want to see photographs of their lowest moments. We might turn that
+
+31
+00:02:00,810 --> 00:02:04,110
+into a question for ourselves: 'What are the moments where we've considered
+
+32
+00:02:04,110 --> 00:02:08,340
+photographs unnecessary or inappropriate? Are there moments in life where
+
+33
+00:02:08,340 --> 00:02:12,840
+photography is entirely obsolete and how might that value question change with
+
+34
+00:02:12,840 --> 00:02:15,810
+context? What are the contextual ingredients
+
+35
+00:02:15,810 --> 00:02:20,489
+required for the mundane to become interesting or of consequence? As in the
+
+36
+00:02:20,489 --> 00:02:24,450
+case here where Felicia's darkest moments might have a deeper and wider social
+
+37
+00:02:24,450 --> 00:02:28,709
+resonance. Don't forget to use the platform to share your notes and to make
+
+38
+00:02:28,709 --> 00:02:32,849
+comments on other people's. Listen to the audio in your own time taking time to
+
+39
+00:02:32,849 --> 00:02:37,709
+pause reflect and interrogate any hot sections in the transcript. Make the most
+
+40
+00:02:37,709 --> 00:02:42,209
+of the connected classes and build your
+network of peers. Isadora:
+
+41
+00:02:42,209 --> 00:02:48,060
+My name is Isadora Kosofsky, I'm a documentary photographer and I'm
+
+42
+00:02:48,060 --> 00:02:55,400
+speaking to you from my studio apartment in Los Angeles, California.
+
+43
+00:02:55,560 --> 00:03:02,660
+Vinnie and David 'Life and incarceration of a family', a 5-year documentary photo essay that
+
+44
+00:03:02,660 --> 00:03:10,420
+I'm continuing to work on, begins with Vinnie who was 13 when the project began when
+
+45
+00:03:10,440 --> 00:03:15,689
+he was incarcerated for stabbing his mother's assailant and shadows him and
+
+46
+00:03:15,689 --> 00:03:22,980
+his older brother David then aged 19. The long-term photo essay focuses on the
+
+47
+00:03:22,980 --> 00:03:30,000
+brothers' lives in their family, community and respective incarcerations over five years
+
+48
+00:03:30,000 --> 00:03:38,519
+in Albuquerque, New Mexico. (Vinnie) My name is Vincent, I'm with the project of Vinnie
+
+49
+00:03:38,519 --> 00:03:45,989
+and David. The first time I met Dora I was in recreational time in the youth
+
+50
+00:03:45,989 --> 00:03:51,389
+detention center and I realized that she was taking photographs of other inmates
+
+51
+00:03:51,389 --> 00:03:56,549
+that were with me, she asked me if I would like to have an interview with her
+
+52
+00:03:56,549 --> 00:04:03,650
+and I responded with the answer yes. (Isadora) I was intrigued, I don't think that it was
+
+53
+00:04:03,650 --> 00:04:09,510
+entirely his appearance, there was something striking about how small he
+
+54
+00:04:09,510 --> 00:04:18,389
+was in stature, he was also striking that he was so confident, he evoked a depth
+
+55
+00:04:18,389 --> 00:04:23,340
+and maturity. I followed him into the unit
+
+56
+00:04:23,340 --> 00:04:28,840
+and he sat down in front of the television screen and he chose to sit
+
+57
+00:04:28,840 --> 00:04:36,240
+across from a number of boys who were sitting on the other side of the room,
+
+58
+00:04:36,240 --> 00:04:42,780
+he sat by himself in an empty row of chairs and I approached him, I sat down next to
+
+59
+00:04:42,790 --> 00:04:47,140
+him and I asked him what are you doing
+here?
+
+60
+00:04:47,140 --> 00:04:53,710
+(Vinnie) My mom started getting beat up by a male and I, I defended my mother and the right
+
+61
+00:04:53,710 --> 00:04:58,020
+way I was taught and the right way I knew, I wasn't trying to hurt nobody but
+
+62
+00:04:58,020 --> 00:05:04,920
+unfortunately I had no choice to, so, I got in trouble for defending my mom.
+
+63
+00:05:04,920 --> 00:05:10,660
+(Isadora) He had been arrested for stabbing the man who was assaulting his mother, who he had
+
+64
+00:05:10,660 --> 00:05:16,630
+already witnessed for many years being abused by men, he said that he couldn't
+
+65
+00:05:16,630 --> 00:05:23,350
+take seeing his mother get hurt anymore.
+Vinnie began telling me about his
+
+66
+00:05:23,350 --> 00:05:28,180
+relationship with his brother and of course speaking of the love for his
+
+67
+00:05:28,180 --> 00:05:32,560
+mother and his concern for her. (Vinnie) I really didn't know what to think about the
+
+68
+00:05:32,560 --> 00:05:39,220
+camera, when you started taking pictures it was kind of like hmm do I smile or do
+
+69
+00:05:39,220 --> 00:05:46,040
+I not smile? It was one of those. The main thing was, you paid attention.
+
+70
+00:05:46,040 --> 00:05:49,900
+You respected everything I said and you 
+listened, you didn't try to interrupt me,
+
+71
+00:05:50,400 --> 00:06:00,030
+and that matters. (Isadora) Had you ever spoken with a journalist before? (Vinnie) Not once in my life.
+
+72
+00:06:02,270 --> 00:06:07,410
+(Pete Brook) The United States is addicted to incarceration, only recently has the
+
+73
+00:06:07,410 --> 00:06:11,310
+country begun to admit as much. (Jonathan) Prison Photography blog founder Pete Brooke:
+
+74
+00:06:11,310 --> 00:06:17,460
+First, some facts: every year two million youth are arrested in the United States.
+
+75
+00:06:17,480 --> 00:06:22,920
+On any given night there are at least 60,000 children behind bars.
+
+76
+00:06:23,080 --> 00:06:28,940
+Some estimates have it as high as 65,000. With an average cost of $80,000 per year to
+
+77
+00:06:28,949 --> 00:06:34,289
+lock up a child, the US spends more than five billion dollars annually on
+
+78
+00:06:34,289 --> 00:06:39,840
+youth detention. In more wealthy states such as California, it can cost up to two
+
+79
+00:06:39,840 --> 00:06:44,210
+hundred thousand dollars per year to incarcerate a single child.
+
+80
+00:06:44,210 --> 00:06:49,590
+By contrast, spending in the California public school system ranges from seven
+
+81
+00:06:49,590 --> 00:06:55,740
+thousand to eighteen thousand per student per year. Why did the US juvenile
+
+82
+00:06:55,740 --> 00:07:02,310
+prison system grow so much? Well, throughout the 1980s and 1990s juvenile
+
+83
+00:07:02,310 --> 00:07:07,080
+detention began to mimic the adult system. Juvenile systems built facilities
+
+84
+00:07:07,080 --> 00:07:12,360
+that functioned like adult prisons, incapacitation became the mantra and in
+
+85
+00:07:12,360 --> 00:07:16,349
+such a political climate, rehabilitation for youth was sidelined or suspended
+
+86
+00:07:16,349 --> 00:07:20,909
+altogether. During an uptick in violent crime in the 80s and 90s there emerged a
+
+87
+00:07:20,909 --> 00:07:25,500
+hysteria about young criminals, there are brandish super-predators feral
+
+88
+00:07:25,500 --> 00:07:33,270
+teenagers of terrorized society. (Isadora) I saw Vinny and I knew that he was gonna
+
+89
+00:07:33,270 --> 00:07:38,310
+be the subject of a long term project, but I was struck by what he was saying
+
+90
+00:07:38,310 --> 00:07:44,430
+about his brother and how his brother wasn't good but he wasn't bad and he was
+
+91
+00:07:44,430 --> 00:07:49,979
+somebody that he loved and admired. He spoke of his brother as a kind of father
+
+92
+00:07:49,979 --> 00:07:56,580
+figure and I wanted to know this brother just from hearing about him. I don't think
+
+93
+00:07:56,580 --> 00:08:01,500
+that you can shoot for an audience particularly when working on a long term
+
+94
+00:08:01,500 --> 00:08:07,740
+series, you have to shoot for the subject and you have to shoot in relation to the
+
+95
+00:08:07,740 --> 00:08:12,810
+curiosity that you have about that subject, because at the end of the day,
+
+96
+00:08:12,810 --> 00:08:17,740
+the person most impacted is gonna be the subject.
+
+97
+00:08:17,840 --> 00:08:26,340
+When I met Vinny I knew that he was somebody that I wanted to know, I wanted to know
+
+98
+00:08:26,340 --> 00:08:31,230
+about him, I wanted to know about his mother, I wanted to know about his
+
+99
+00:08:31,230 --> 00:08:37,440
+brother. It was a curiosity, it was a connection that I felt burning inside of
+
+100
+00:08:37,440 --> 00:08:44,180
+me that I had to pursue. I had been looking for a family that bared the
+
+101
+00:08:44,180 --> 00:08:50,340
+dynamics that I was trying to tell in the juvenile detention facility but I
+
+102
+00:08:50,340 --> 00:08:56,010
+couldn't tell their story within the confines of a carceral setting because
+
+103
+00:08:56,010 --> 00:09:01,110
+that's setting in and of itself defines the subject. You're not able visually to
+
+104
+00:09:01,110 --> 00:09:04,950
+see the subject anywhere else but in that facility if you're only shooting
+
+105
+00:09:04,950 --> 00:09:10,680
+there and to me that was limiting. Of course the images of time spent in there
+
+106
+00:09:10,680 --> 00:09:17,790
+are fundamental to the story but they're not the entirety of the story. Had I just
+
+107
+00:09:17,790 --> 00:09:22,170
+photographed Vinnie, I would have simplified the story, I would have
+
+108
+00:09:22,170 --> 00:09:28,670
+reduced the story. The fact that the body of work contains multiple narratives
+
+109
+00:09:28,670 --> 00:09:39,560
+allows for multiple conversations from an audience. People are able to relate to
+
+110
+00:09:39,560 --> 00:09:46,260
+the experience of being a brother, a sister a mother and that is what my
+
+111
+00:09:46,260 --> 00:09:50,790
+intention has been from the beginning. I think that people need to see this
+
+112
+00:09:50,790 --> 00:09:59,850
+family as family first, as brothers first and as incarcerated people second.
+
+113
+00:09:59,850 --> 00:10:07,740
+Can you describe the first time that you saw the photograph that I took of you?
+ (Vinnie) The first time I had actually seen
+
+114
+00:10:07,740 --> 00:10:16,700
+a photograph of me was in the visitation room with my mother, we were both crying.
+
+115
+00:10:16,840 --> 00:10:22,020
+I couldn't go home with my mother and, and in the experience of that visit
+
+116
+00:10:22,020 --> 00:10:27,710
+that was my first visit with my mom, I really felt that I let my mom down
+
+117
+00:10:27,710 --> 00:10:34,220
+even though she felt she let me down because I couldn't go back to have that
+
+118
+00:10:34,220 --> 00:10:40,980
+peace of mind and my mom that I was there to protect her.  (Isadora) What was it like to have like a document of that moment?
+
+119
+00:10:41,140 --> 00:10:46,700
+It gives me something to look back on the moment of the photo makes me think
+
+120
+00:10:46,700 --> 00:10:54,410
+that from where I was to where I am now I've learned from that. (Peter DiCampo) I mean I think
+
+121
+00:10:54,410 --> 00:11:01,010
+the responsibility that she feels to the to the subjects in this case is directly
+
+122
+00:11:01,010 --> 00:11:06,050
+tied in to the idea of long form journalism. (Jonathan) Everyday Africa co-founder
+
+123
+00:11:06,050 --> 00:11:11,840
+Peter DiCampo: of sort of responding to or rather protecting their, not
+
+124
+00:11:11,840 --> 00:11:15,200
+protecting but respecting their
+vulnerability, respecting the power that
+
+125
+00:11:15,200 --> 00:11:19,190
+she has in this situation. Some interesting sort of comparison to
+
+126
+00:11:19,190 --> 00:11:22,160
+Everyday Africa, I mean because you know we're, we're we're not dealing with a
+
+127
+00:11:22,160 --> 00:11:26,300
+with a family structure, we're not dealing with any one sort of subject
+
+128
+00:11:26,300 --> 00:11:31,610
+matter, you know, we're we're trying to broaden their perspective, isn't of an
+
+129
+00:11:31,610 --> 00:11:37,580
+entire continent and in that way it is its own form of a long term story. I was
+
+130
+00:11:37,580 --> 00:11:43,670
+really struck by her saying that you don't shoot a long-term project for an
+
+131
+00:11:43,670 --> 00:11:47,480
+audience, you do it you know thinking thinking only of the subject and and of
+
+132
+00:11:47,480 --> 00:11:50,560
+course I completely understand what she's saying you know, she's, her
+
+133
+00:11:50,560 --> 00:11:57,050
+predominant concern is whether she is treating her subject fairly, whether
+
+134
+00:11:57,050 --> 00:12:01,610
+she's showing them in a way that is fair
+and positive to them. But it's
+
+135
+00:12:01,610 --> 00:12:06,260
+interesting to me because to me her work is so much about what it can teach to an
+
+136
+00:12:06,260 --> 00:12:11,420
+audience, what, what we can learn from it, you know the degree to which humanizing
+
+137
+00:12:11,420 --> 00:12:18,290
+these characters helps us understand more about the system of incarceration
+
+138
+00:12:18,290 --> 00:12:25,280
+as a broader issue. And so presumably perhaps those choices come up in the
+
+139
+00:12:25,280 --> 00:12:30,530
+editing process, once she sort of is able to, you know, have the headspace to say
+
+140
+00:12:30,530 --> 00:12:34,190
+okay now I'm just thinking about how I'm going to present this work and then of
+
+141
+00:12:34,190 --> 00:12:38,779
+course she's choosing the images that, that move the narrative
+
+142
+00:12:38,779 --> 00:12:42,860
+along but also the images that give us sort of a lot of the most intimate
+
+143
+00:12:42,860 --> 00:12:48,470
+moments, at times the most sort of everyday life moments again all of those
+
+144
+00:12:48,470 --> 00:12:52,760
+things that help us humanize the characters, that help us, you know,
+
+145
+00:12:52,760 --> 00:12:57,290
+identify with them and help us learn who they are and so from that
+
+146
+00:12:57,290 --> 00:13:01,520
+perspective it seems to be very much
+about what can, you know, what can the
+
+147
+00:13:01,520 --> 00:13:05,300
+photographer deliver to the audience, what can the photographer teach the audience.
+
+148
+00:13:05,500 --> 00:13:10,860
+So much of what she's trying to accomplish here is a degree of context,
+
+149
+00:13:10,860 --> 00:13:15,860
+a degree of the why basically, you know why do these things happen, why this
+
+150
+00:13:15,860 --> 00:13:20,570
+particular boy, the social factors that lead up to this, the family factors that
+
+151
+00:13:20,570 --> 00:13:26,029
+lead up to this, you know if you, if you showed incarceration purely as, as people
+
+152
+00:13:26,029 --> 00:13:29,390
+in prison I mean that's not a, I mean that shows what life and prisoners like
+
+153
+00:13:29,390 --> 00:13:34,130
+or in this case life in a youth facility but, but it doesn't show, it doesn't
+
+154
+00:13:34,130 --> 00:13:39,080
+answer any of our questions of how did we get to this point in a way that long
+
+155
+00:13:39,080 --> 00:13:44,720
+form and, and more in-depth journalism of any genre or any medium can accomplish.
+
+156
+00:13:44,720 --> 00:13:51,200
+And so you know to me it's, it's once you sort of start to think about her
+
+157
+00:13:51,200 --> 00:13:55,580
+motivations and hear from her why she did the body of work and of course she
+
+158
+00:13:55,580 --> 00:14:00,290
+moved out of what she calls the carceral setting because you have to get into the
+
+159
+00:14:00,290 --> 00:14:04,730
+family life. It draws us into who they are as characters in addition to
+
+160
+00:14:04,730 --> 00:14:12,410
+providing us some of the answers for, you know, what does this all mean, I mean what
+
+161
+00:14:12,410 --> 00:14:15,860
+her work accomplishes is, it's sort of breaking down that barrier of just
+
+162
+00:14:15,860 --> 00:14:19,130
+assuming people in any kind of Correctional Facility must have sort of
+
+163
+00:14:19,130 --> 00:14:22,520
+done something to to get there, right, done something to deserve it and of
+
+164
+00:14:22,520 --> 00:14:26,990
+course once you get into their family life and, and you know the broader
+
+165
+00:14:26,990 --> 00:14:33,500
+situation and once you kind of see them become sort of humanized by, you know,
+
+166
+00:14:33,500 --> 00:14:37,760
+through following her photo essay, it just teaches you that there's so much
+
+167
+00:14:37,760 --> 00:14:41,550
+more to the situation.
+
+168
+00:14:41,900 --> 00:14:51,040
+(Isadora) When I sat down in Albuquerque New Mexico with Vinny when he was 18 in
+
+169
+00:14:51,040 --> 00:14:56,440
+order to conduct an interview of him about his experience of being the
+
+170
+00:14:56,440 --> 00:15:03,400
+subject of my long-term project, I was able to hear his experience of the
+
+171
+00:15:03,400 --> 00:15:09,070
+project which I have not heard before. I didn't know that they cried when they
+
+172
+00:15:09,070 --> 00:15:15,250
+saw the article, the first article through time. I didn't know that they
+
+173
+00:15:15,250 --> 00:15:26,050
+cried when they would look at the photos that I sent and that has changed the way
+
+174
+00:15:26,050 --> 00:15:35,460
+that I look at my subjects because I feel seen, I feel seen now that I know
+
+175
+00:15:35,460 --> 00:15:44,140
+that the photos and the process have impacted them. (Felicia) My first impression of you
+
+176
+00:15:44,160 --> 00:15:48,850
+honestly was, I thought wow people just aren't that amazing and nice and
+
+177
+00:15:48,850 --> 00:15:55,540
+generous and sweet and just beautiful. When you said it or when I asked why are
+
+178
+00:15:55,540 --> 00:16:00,640
+you always taking pictures she said that's what I do I'm a photographer and I
+
+179
+00:16:00,640 --> 00:16:06,339
+really fell in love. I am with you, there
+was something I always wanted to do and
+
+180
+00:16:06,339 --> 00:16:10,839
+have a career in because taking pictures was always so like meaningful to me and
+
+181
+00:16:10,839 --> 00:16:15,690
+I got to see you do it and you got to do it for a living and travel and just
+
+182
+00:16:15,690 --> 00:16:24,760
+enjoy it. That first day I met you, you took us from the motel to McDonald's to
+
+183
+00:16:24,760 --> 00:16:29,520
+buy the kids food and we got out at McDonald's you started taking pictures
+
+184
+00:16:29,520 --> 00:16:33,390
+and I just thought,
+
+185
+00:16:33,800 --> 00:16:38,610
+what does she care about us for like what is this what is her real intention?
+
+186
+00:16:38,610 --> 00:16:49,520
+Like and at the same time I was just like man I wish I could do that. (Isadora) What was the experience like of first being photographed and how did it make you feel?
+
+187
+00:16:49,520 --> 00:16:55,680
+(Felicia) Just became kind of natural, have you take pictures of us, I mean even at some of
+
+188
+00:16:55,680 --> 00:17:01,440
+the worst of the worst baddest times like it was just natural that we'd let
+
+189
+00:17:01,440 --> 00:17:11,400
+you take pictures of us and be there and be a part of the family. (Isadora) Can you describe David's responses when he first saw the photos?
+
+190
+00:17:11,480 --> 00:17:18,080
+(Felicia) He cried. First time he ever saw any of the pictures you took of us and they were the ones of him
+
+191
+00:17:18,089 --> 00:17:23,250
+and Lily in the park, him walking down the street from my mom's house pushing
+
+192
+00:17:23,250 --> 00:17:31,560
+Lily in the stroller. Ones of me and him
+and his mom's crying together in the
+
+193
+00:17:31,560 --> 00:17:36,660
+street, pictures of me at the park being
+pregnant with Lily.
+
+194
+00:17:37,540 --> 00:17:47,320
+He cried, we both cried. (Isadora) What was it like for the family to see the article in TIME?
+
+195
+00:17:47,460 --> 00:17:52,880
+(Felicia) Every single one of anybody in the family that saw it when they saw it
+
+196
+00:17:52,880 --> 00:17:59,450
+cried. I mean they were all, you know, loved it and joyful and happy about it
+
+197
+00:17:59,450 --> 00:18:04,700
+but in the beginning the first time that any of us saw it we cried, all of us,
+
+198
+00:18:04,840 --> 00:18:11,200
+the images that you capture and the way you told their story like through pictures
+
+199
+00:18:11,210 --> 00:18:19,430
+was just amazing, like like who does that? This girl, it was it was truly amazing
+
+200
+00:18:19,430 --> 00:18:23,680
+and it deeply touched everybody especially for everybody in the family.
+
+201
+00:18:23,680 --> 00:18:30,140
+It's just so meaningful and sad but yet it brings so much joy at the same time
+
+202
+00:18:30,140 --> 00:18:35,920
+to know that somebody puts so much effort in to tell their story when it
+
+203
+00:18:35,920 --> 00:18:42,410
+was like we were the lowest of the low like who wants to even be around us, see us,
+
+204
+00:18:42,410 --> 00:18:47,270
+let alone care about what we're going through or photographing us at the
+
+205
+00:18:47,270 --> 00:18:54,010
+lowest of the low like and that that's that's deeper there.
+
+206
+00:18:55,190 --> 00:19:03,500
+(Isadora) I don't, I don't particularly want to
+feel seen because it's vulnerable but I
+
+207
+00:19:03,500 --> 00:19:09,080
+know as a photographer that you have to be vulnerable with your subjects in
+
+208
+00:19:09,080 --> 00:19:13,880
+order for them to be vulnerable with you. Not only do they see themselves in the
+
+209
+00:19:13,880 --> 00:19:20,750
+photos, they also see me and I very much overlook the fact that I am even a
+
+210
+00:19:20,750 --> 00:19:26,120
+person sometimes when I'm shooting
+because I have to be a kind of welcoming
+
+211
+00:19:26,120 --> 00:19:32,660
+wall, because I have to withstand painful moments and I cannot react, I cannot act
+
+212
+00:19:32,660 --> 00:19:39,230
+in moments that perhaps other people could because I'm in a capacity of being
+
+213
+00:19:39,230 --> 00:19:45,950
+witness, of bearing witness and of using the photographs to create larger change
+
+214
+00:19:45,950 --> 00:19:51,800
+than I would be able to in a moment of reaction in that space with that family.
+
+215
+00:19:51,800 --> 00:20:01,490
+This family sees me that I am someone in their lives and people listening this
+
+216
+00:20:01,490 --> 00:20:08,660
+may seem odd but in the process that I go through as a photojournalist I try
+
+217
+00:20:08,660 --> 00:20:14,180
+and overlook that I feel that I am invisible and when I showed the photos
+
+218
+00:20:14,180 --> 00:20:23,870
+to Vinnie in 2014 before it went live on time.com, I asked him if the photo essay,
+
+219
+00:20:23,870 --> 00:20:29,960
+the edit, not the photos in general, the edit that was going to be published was
+
+220
+00:20:29,960 --> 00:20:36,410
+true to his experience and he said yes and that's when I knew it was ready to
+
+221
+00:20:36,410 --> 00:20:41,870
+be shown. He said 99% and I said what would give
+
+222
+00:20:41,870 --> 00:20:51,590
+me that 1% authenticity or truthfulness? He said, well, you could never know what I
+
+223
+00:20:51,590 --> 00:21:00,080
+feel like, so I can't give you a hundred percent, I can only give you 99%. I don't
+
+224
+00:21:00,080 --> 00:21:06,200
+feel that I need Vinnie, David or Felicia and I don't feel that
+
+225
+00:21:06,200 --> 00:21:12,110
+they need me whatsoever. It's a healthy dynamic, it is a complex
+
+226
+00:21:12,110 --> 00:21:22,789
+dynamic between my subjects and I, between that family and my identity as a
+
+227
+00:21:22,789 --> 00:21:29,029
+photographer. I don't need them and they don't need me but I want them and they
+
+228
+00:21:29,029 --> 00:21:38,260
+want me which is, I believe, a normal response to a long-term relationship.
+
+229
+00:21:38,260 --> 00:21:45,799
+I know that Vinnie mentioned that he feels that I've somewhat inspired him to have
+
+230
+00:21:45,799 --> 00:21:53,630
+a healthy life, I don't know if that's entirely true, David said to me, I've
+
+231
+00:21:53,630 --> 00:22:04,540
+never really liked pictures, pictures don't lie, a photo is evidence.
+
+232
+00:22:04,540 --> 00:22:11,200
+That's something that has stuck with me as I've worked with that family, that I needed
+
+233
+00:22:11,200 --> 00:22:19,880
+to make photos into catalysts for compassion because visual media had been
+
+234
+00:22:19,880 --> 00:22:27,260
+used and is used as a way to incarcerate people, photography is used as a weapon
+
+235
+00:22:27,260 --> 00:22:34,070
+against families like Vinnie and David's family. Do you think that people
+
+236
+00:22:34,070 --> 00:22:36,610
+empathize with you through this photos?
+
+237
+00:22:36,890 --> 00:22:42,710
+(Vinnie) As a matter of fact, the sympathy I have had for some of the
+
+238
+00:22:42,710 --> 00:22:48,740
+photos I got, for example, I got pulled over and a cop ran my name and he
+
+239
+00:22:48,740 --> 00:22:52,970
+and came back to my vehicle he goes: you're on the internet for defending
+
+240
+00:22:52,970 --> 00:22:55,700
+your mom and I didn't know that that was what that was for
+
+241
+00:22:55,700 --> 00:23:03,440
+and I said yeah, he goes well good job and that brought me confidence. I knew at
+
+242
+00:23:03,440 --> 00:23:20,320
+that point that there, it was no greater than it could get.
+
+243
+00:23:20,320 --> 00:23:24,100
+(Jonathan) One of the participants commented that these conversations between the subject and
+
+244
+00:23:24,100 --> 00:23:27,260
+photographer may be more humanizing than photographs alone.
+
+245
+00:23:27,260 --> 00:23:30,740
+How does listening to Vincent and Felicia affect your reading of the work?
+
+246
+00:23:30,740 --> 00:23:34,130
+Do you think the images are an accurate reflection of the relationships you've
+
+247
+00:23:34,130 --> 00:23:38,990
+heard described? Isadora talks about overlooking her own impact. In the full
+
+248
+00:23:38,990 --> 00:23:42,650
+interview she talks of being a part of the fabric of the moment and that's
+
+249
+00:23:42,650 --> 00:23:46,970
+probably a convenient oversight that most, perhaps all, photographers make to
+
+250
+00:23:46,970 --> 00:23:52,220
+some degree. Isadora says that she shoots for her subjects and her, that her
+
+251
+00:23:52,220 --> 00:23:55,490
+subjects become her friends or by her commitment to the relationship her
+
+252
+00:23:55,490 --> 00:24:00,230
+friends become her subjects. She says she doesn't shoot for an audience or more
+
+253
+00:24:00,230 --> 00:24:04,100
+accurately that she isn't cognizant of the audience when she's shooting.
+
+254
+00:24:04,100 --> 00:24:07,540
+We shouldn't take away from that, that she isn't mindful of them, I mean, she's not
+
+255
+00:24:07,540 --> 00:24:11,120
+saying that she's photographing in a creative vacuum because she's not.
+
+256
+00:24:11,120 --> 00:24:15,100
+If anything she's hyper aware of the audience, she might not be shooting for
+
+257
+00:24:15,110 --> 00:24:18,620
+an audience but she's certainly editing a vision of the world for one.
+
+258
+00:24:18,620 --> 00:24:22,790
+Isadora says that she couldn't limit her images of Vinnie to a castle setting,
+
+259
+00:24:22,790 --> 00:24:26,660
+that the setting would define the subject and she introduces us to the
+
+260
+00:24:26,660 --> 00:24:30,380
+notion of transcarceral and says that she needed to photograph the mother and
+
+261
+00:24:30,380 --> 00:24:34,280
+the brother in order to make photographs that act as catalysts for empathy,
+
+262
+00:24:34,280 --> 00:24:38,450
+bridges between the subject and the audience. We put in mind of advice that
+
+263
+00:24:38,450 --> 00:24:42,540
+the photographer Lisette Model purportedly gave to a young Diane Arbus.
+
+264
+00:24:42,540 --> 00:24:47,179
+She said that the more specific you are, the more general you'll be. In other
+
+265
+00:24:47,180 --> 00:24:51,400
+words if you want to talk about aging then photograph your grandparents
+
+266
+00:24:51,400 --> 00:24:54,420
+because everyone can relate personally to the notion of a grandparent figure.
+
+267
+00:24:54,420 --> 00:24:58,220
+And each of us will have relatable ties, as Isadora calls them,
+
+268
+00:24:58,220 --> 00:25:03,740
+with the idea of a mother, a brother, a girlfriend a boyfriend, just as we will a
+
+269
+00:25:03,740 --> 00:25:08,809
+warm embrace or a tearful hug, and once on the inside of that emotion once drawn
+
+270
+00:25:08,809 --> 00:25:13,640
+in she leads us further into the catastrophic loneliness that must come
+
+271
+00:25:13,640 --> 00:25:17,300
+to an isolated incarcerated thirteen-year-old child.
+
+272
+00:25:17,300 --> 00:25:22,480
+There is also a wake-up call in there for us as audience, our impact.
+
+273
+00:25:22,480 --> 00:25:26,980
+Isadora says that she didn't know the family cried when they saw the pictures,  that's
+
+274
+00:25:26,990 --> 00:25:32,559
+a moment we, us an audience, and the subject shared, they saw their lives
+
+275
+00:25:32,559 --> 00:25:36,940
+recontextualized as or photographic equivalent of an out-of-body experience,
+
+276
+00:25:36,940 --> 00:25:41,240
+looking on the story of that time in
+their lives but through a third set of
+
+277
+00:25:41,240 --> 00:25:46,399
+eyes. But also for the first time
+experiencing those moments without
+
+278
+00:25:46,399 --> 00:25:50,779
+Isadora in front of them, without the photographer present. Think about that:
+
+279
+00:25:50,779 --> 00:25:54,860
+Your subject with whom you've built a trust relationship and who's allowed you
+
+280
+00:25:54,860 --> 00:25:59,419
+to make their picture, will be alone in front of an audience come publication.
+
+281
+00:25:59,419 --> 00:26:04,090
+And on one level, your picture will be a portrait of your relationship with them.
+
+282
+00:26:04,090 --> 00:26:08,659
+Isadora says again in the extended interview that she feels the social
+
+283
+00:26:08,659 --> 00:26:12,529
+resonance of the work comes with the personal connection she forms with those
+
+284
+00:26:12,529 --> 00:26:16,520
+subjects and as photographers ourselves of differing ages and backgrounds,
+
+285
+00:26:16,520 --> 00:26:20,140
+it will be interesting to know if you think that Isadora's age, relative to her
+
+286
+00:26:20,140 --> 00:26:24,700
+subjects, her gender, her race, if all those things affect this story,
+
+287
+00:26:24,820 --> 00:26:30,440
+I'm asking how important is Isadora? Isadora talks about how her approach to
+
+288
+00:26:30,440 --> 00:26:34,760
+photography negates abandonment and both Vinny and Felicia refer to the fact that
+
+289
+00:26:34,760 --> 00:26:38,820
+she returned, that she did what she said she'd do and how important that was for them.
+
+290
+00:26:38,820 --> 00:26:41,960
+And then Isadora builds on that by reflecting on how documentary
+
+291
+00:26:41,960 --> 00:26:47,510
+photography's relatable ties lessen loneliness for her personally and the
+
+292
+00:26:47,510 --> 00:26:52,340
+subject and the audience too. Perhaps that's that's a part of the currency of
+
+293
+00:26:52,340 --> 00:26:56,450
+this work and this way of working the photographer leverages a loneliness
+
+294
+00:26:56,450 --> 00:27:02,240
+that is inherent in us all. Simon Norfolks says that for his work, beauty
+
+295
+00:27:02,240 --> 00:27:06,919
+is a seductive tool, he'll draw the audience in with a beautiful image so he
+
+296
+00:27:06,919 --> 00:27:09,680
+can incite the curiosity about the subject and that's
+
+297
+00:27:09,680 --> 00:27:14,560
+clearly a currency of photography and all visual storytelling. Though a swaging
+
+298
+00:27:14,560 --> 00:27:19,130
+loneliness is something else, I asked Isadora who needed who the most?
+
+299
+00:27:19,130 --> 00:27:23,930
+Was it her needing her subjects or her subjects needing her and her answer is
+
+300
+00:27:23,930 --> 00:27:28,700
+really striking is when she says that neither need each other but I want them
+
+301
+00:27:28,700 --> 00:27:33,380
+and they want me, which is I believe a normal response in a long-term
+
+302
+00:27:33,380 --> 00:27:37,790
+relationship. There's a great deal more to pick up on and once again you've just
+
+303
+00:27:37,790 --> 00:27:41,270
+heard one short edit of a series of interviews, the rest of which you can now
+
+304
+00:27:41,270 --> 00:27:45,800
+access via the extended playlist. There's also an additional deep dive interview
+
+305
+00:27:45,800 --> 00:27:50,720
+with Everyday Africa photographer Nana Kofi Acquah. In that, he addresses the
+
+306
+00:27:50,720 --> 00:27:54,950
+courses key questions and thinks about notions of interpretation. You'll hear
+
+307
+00:27:54,950 --> 00:27:58,850
+him describe why he believes the messenger must tune themselves to become
+
+308
+00:27:58,850 --> 00:28:03,020
+a reflection of the message. Nana also brings a particularly valuable
+
+309
+00:28:03,020 --> 00:28:06,740
+perspective coming as it does from his professional backgrounds in both radio
+
+310
+00:28:06,740 --> 00:28:11,600
+journalism and advertising. Hopefully, we'll see you next week in the webinar
+
+311
+00:28:11,600 --> 00:28:14,660
+and be sure to submit your four corners image in time for it to be included in
+
+312
+00:28:14,660 --> 00:28:18,830
+the review, don't forget to dig around in the class notes, investigate the hotspots
+
+313
+00:28:18,830 --> 00:28:22,610
+and see why particular parts of the conversations are being responded to and
+
+314
+00:28:22,610 --> 00:28:26,570
+by whom. Reach out and connect with people and where you can support those
+
+315
+00:28:26,570 --> 00:28:28,790
+who can't get into a roomful of fellow students.
+
+316
+00:28:28,790 --> 00:28:33,080
+I'm Jonathan Wirth and you can connect with me via twitter at Jonathan
+
+317
+00:28:33,080 --> 00:28:36,280
+underscore Worth.
+

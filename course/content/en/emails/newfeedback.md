@@ -2,14 +2,16 @@
 published: true
 content_type: title
 optional: false
-title: New Feedback
-expectsubmission: false
+title: Connected Academy - New Feedback
 ---
 Hi {{user}}!
 
-You have some new feedback about your submission in Connected Academy
+There is a new piece of feedback in a discussion you are having in Connected Academy.
 
 Visit http://talkingpictures.connectedacademy.io/#/feedback/{{id}} to continue the conversation.
- 
+
+Yours,
+
+Jonathan at Connected Academy
 ----
 _This email was generated automatially at {{date}}_
