@@ -2,28 +2,41 @@
 published: true
 content_type: pre
 optional: false
-title: Introduction to Week 5
-description: This week we are finding out about evidence in photography
-expectsubmission: true
+title: Evidence - Introduction
+description: >-
+  When everyone has the means to make and publish photographic images, what
+  makes some stories more believable than others? What makes some photographers
+  more believable than others? Welcome to the first instalment of **Talking
+  Pictures**, a new kind of photography course where photographers, their
+  subjects and audiences come together. This week sees Lebanese photographer
+  Dalia Khamissy re-united with some of the subjects from her long-term project
+  on the families of people ‘forcibly-disappeared’ during the country’s civil
+  war. @[bio](Dalia Khamissy
+  (@khamissy)|{{site.baseurl}}/course/content/media/Dalia_cropped.jpg|Born and
+  based in Beirut, Dalia Khamissy earned her diploma in photography from USEK,
+  Lebanon in 1999.|https://www.instagram.com/daliakhamissy)
+expectsubmission: false
 ---
-# Week 1 - Evidence
+## Evidence - Introduction
 
-How do we as photographers tell the story of a subject that is missing? How might one tell the story of loss, of the deceased, the invisible?
+We’re used to photographs being evidential. The first hundred years of photography’s history established its reputation as trace representation, a quotation from appearances. It was something that required a human to make, but once the shutter was released, the process became chemical. Even still, the photograph represents a point of view, both literally and figuratively, we still have to choose how to edit the world. We discern between important visual information and extraneous visual noise and we have to do this within messy, chaotic and often very personal situations.
 
-How might these images constitute or inform a body of evidence?
+In this session we hear from **Dalia Khamissy** and subjects from her project; **“The Missing”**. We hear how she tells the stories of people, through their homes, their possessions and their relatives. We hear from those relatives what the process of sharing their stories is like for them, and we hear film-maker Benjamin Chesterton describe the responsibilities of the professional storyteller as well as suggestions for what we, as audience, might reflect on.
 
-How might they and we, be believed?
+As we, the audience, listen, we should reflect on what moves us and interrogate why? How can photographs of absence retain an evidential currency? What case is being built? What is the overall narrative? Is the historical account an unbiased one? What is Dalia’s motivation and how have her outlets for that motivation evolved? What is the motivation of the subjects? Why do they agree to submit to such a painful procedure? And what does Benjamin hope to achieve? What or who is the common-ground for these various stakeholders? In a world where everyone in this piece can theoretically publish their own story, what are the various roles of Dalia and the 21st century photographer?
 
-What role does trust have, and how do we as storytellers gain that trust and imbue our work with it?
+Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
-----
+@[bio](Benjamin Chesterton|{{site.baseurl}}/course/content/media/thumb/benjamin.jpg)
 
-## Preparation
+@[bio](Dalia Khamissy|{{site.baseurl}}/course/content/media/thumb/Dalia_cropped.jpg)
 
-In advance of this Class, Using the **Four Corners** template, produce an image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
+@[bio](Lina-Geadah|{{site.baseurl}}/course/content/media/thumb/Lina-Geadah.jpg)
 
-Follow [the instructions](/fourcorners.md) to create and upload your submission.
+@[bio](Jeanette-Youssef|{{site.baseurl}}/course/content/media/thumb/Jeanette-Youssef.jpg)
 
-**Put the link to your submission here**
+@[bio](Aida-Geadah|{{site.baseurl}}/course/content/media/thumb/Aida-Geadah.jpg)
 
-@[submission](fourcorners)
+@[bio](Saree Makdis|{{site.baseurl}}/course/content/media/thumb/saree_cropped.jpg)
+
+@[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/thumb/jw_by_gw-768x774.jpg)

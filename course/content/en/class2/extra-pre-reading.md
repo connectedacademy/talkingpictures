@@ -2,66 +2,41 @@
 published: true
 content_type: pre
 optional: true
-title: Extra Pre-Reading
-description: >-
-  We have selected 5 key photographs from the World Press Photo Foundation
-  archive and made them into Four Corners images to demonstrate how to use
-  evidence as part of your work. Check them out.
+title: From the Archive - Four Corners Examples
 expectsubmission: false
+thumbnails:
+  '1':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture1.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-1.md
+    caption: 1960s
+  '2':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture5.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-2.md
+    caption: 1970s
+  '3':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture3.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-4.md
+    caption: 1980s
+  '4':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture2.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-3.md
+    caption: 1990s
+  '5':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture4.jpg
+    link: /markdown/class1%2Fexamples%2Fexample-5.md
+    caption: 2000s
+description: >-
+  The World Press Photo Foundation Archive contains over sixty years of iconic
+  images. We have selected photographs from each decade that relate to the
+  issues being covered in the session, and reimagined them as Four Corners
+  Images. It is an example of how 4C can be creatively adapted to add rich
+  meta-date to historical images. Below are images that span the entire archive.
+  Each has been reimagined as a 4C image, though instead of the frames before
+  and after, we have included contemporaneous and subject-related images. For
+  the codes of ethics we have instead substituted the competition rules
 ---
-Those images from the World Press Photo’s archive relate to Module 2: interpretation. We’ve chosen five images that addresses similar themes than Isadora's long term project dealing with community, family, relationships, societal stigmatisation, love, loss, intimacy and trust. With her project, Isadora challenges societal stereotypes of how we understand and represent juvenile incarceration. She chooses to focus on the relationships of her subjects, their vulnerability, their love, their everyday life, in summary, what makes them human. Sometimes the most powerful stories are the ones depicting the everyday life of our families and communities. Stories that address themes that we all understand and relate to such as family and love. Isadora is offering us a beautiful and intimate connection into the lives of a family that is going through hardship and loss but also hope and resilience.  
-
-In those five images from World Press Photo’s archive, we also enter the very personal and private space of the subjects. We can see scenes from everyday life and intimate interactions which we relate to very easily. Those images, with their universal characters, trigger our empathy and understanding. But those daily life scenes address larger social issues such as stigmatization, exclusion, homosexuality or death. They all, in a way, challenge our perceptions and own interpretation of the world we live in. In the picture 5, we see a lesbian couple in the intimacy of their bed, both of them are pregnant. This image invites us to understand their situation and experience. While homosexuality still generates intense debate nowadays, this personal image humanises homesexuality and can challenge our preconceptions. 
-
-In picture 4, we enter into the homes of the Sanchez family living in one of the colonias in Texas. This picture depicts a banal family scene, and by just looking at the picture, one does not fully understand the seriousness of the topic. Contextual information are vital to understand the story behind this image and therefore to shape our interpretation. The photographer consciously chose a dignified, human, respectful image to speak about their social exclusion. The subjects have allowed the photographer into their private space. Such an intimacy has to be gained through respect and long-term interactions. Jokela’s 10 years project (picture 3) is a good example of working in a community over years, and therefore, gaining the trust of his subjects. 
-
-Such long-term projects often involve the photographer to the point where the line between the subject and the photographer are blurred; the photographer becomes part of the subject’s lives and vice-versa. Several photographers also focuses on their own stories, such as Nancy who documented both of her parents dying of cancer. Instead of adopting a fatalist approach, she chose to focus on the love and appreciation of life that her parents shared, capturing tender moments. Here again, the photographer offers us a dignifying and touching story that speaks about a broader issue. 
-
-
-1) Nancy Borowick, 2016 2nd prize Long Term Projects 
-
-Key words: family, love, loss, challenging stereotypes, relationships, long-term project (+5 years), personal story, intimacy, vulnerability 
-
-<script type="text/json" data-4c-meta="caca6670-ebfa-bfd7-a308-d37d13008fa9">
-{"context":[{"credit":"World Press Photo","youtube_id":"https://vimeo.com/165108759"}],"links":[{"title":"'A life in Death'","url":"https://www.worldpressphoto.org/collection/photo/2016/long-term-projects/nancy-borowick"},{"title":"'In Sickness and in Health: A Wedding in the Shadow of Cancer'","url":"http://www.nytimes.com/2013/10/20/nyregion/in-sickness-and-in-health-a-wedding-in-the-shadow-of-cancer.html"}],"backStory":{"text":"Laurel and Howie Borowick lived out the final year of their 34-year-long marriage fighting cancer together. Laurel had been diagnosed with breast cancer some 17 years earlier, Howie was told he had terminal pancreatic cancer in December 2012. They chose to spend their last months creating new memories, rather than becoming preoccupied with their troubles. Their family used the time they all had left together to the fullest. Howie died on 7 December 2013, a year and a day after his cancer was discovered. After that, Laurel’s cancer worsened and she passed away on 6 December 2014.\n\nThe photographer is Laurel and Howie’s daughter. She chose to document her parents’ final chapters in order to hold on to their memory, and to capture their essence and strength in a trying time. She wanted to focus on their love, both individually and for each other. She says that everyone wants to find purpose in their lives, and that Laurel and Howie’s final purpose was found in this moment, in the gift they gave her of allowing her to tell their story. This is their legacy.","author":"Nancy Borowick","magazine":"New York Times Lens Blog","magazineUrl":"https://lens.blogs.nytimes.com/2016/03/14/cancer-family-nancy-borowick-kickstarter-book/","date":"March 14, 2016"},"creativeCommons":{"copyright":"Nancy Borowick © 2013","codeOfEthics":"World Press Photo Code of Ethics: entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled. This means that entrants: Should be aware of the influence their presence can exert on a scene they photograph, and should resist being misled by staged photo opportunities. Must not intentionally contribute to, or alter, the scene they picture by re-enacting or staging events. Must maintain the integrity of the picture by ensuring there are no material changes to content. Must ensure captions are accurate. Must ensure the editing of a picture story provides an accurate and fair representation of its context. Must be open and transparent about the entire process through which their pictures are made, and be accountable to the World Press Photo Foundation for their practice.","description":"Howie and Laurel embrace in their bedroom at home."}}
-</script> 
-
-2) John J. Kim, 3rd prize Contemporary Issues
-https://www.worldpressphoto.org/collection/photo/2017/long-term-projects/markus-jokela
-
-Key words: US racial discrimination, police state, incarceration, youth
-
-This picture refers to Pete Brook's contextual information on racial discrimination in the incarceration system in the US. 
-
-<script type="text/json" data-4c-meta="09092c82-6473-a189-a5a1-dfc39e8c2e3f">
-{"context":[{"credit":"Jonathan Bachman","src":"https://www.worldpressphoto.org/sites/default/files/styles/gallery_main_image/public/archive/2017/singles/CI/1/ymjnlaib5ziiiz0xka6c.jpg?itok=iFuYa4Yy"}],"links":[{"title":"March Against Police Violence","url":"http://www.chicagotribune.com/82547354-132.html"},{"title":"March Against Police Violence (World Press Photo Photo Contest)","url":"https://www.worldpressphoto.org/collection/photo/2016/contemporary-issues/john-j-kim"}],"backStory":{"text":"Protests had taken place almost daily after the release of a police car dashcam video showing 17-year-old Laquan McDonald being fatally shot by a Chicago police officer. McDonald, who was armed with a knife, was shot 16 times by the officer, who said he feared for his life. The protest was one of a number that occurred throughout the year, following episodes elsewhere in the country where police were accused of using excessive force against black men, often involving fatal shootings.","author":"John J. Kim","magazine":"Chicago Tribune","magazineUrl":"http://www.chicagotribune.com/photos/chi-laquan25protest-ct0032560140-20151125-photo.html","date":"November 15, 2015"},"creativeCommons":{"copyright":"John J. Kim © 2015","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled. This means that entrants: Should be aware of the influence their presence can exert on a scene they photograph, and should resist being misled by staged photo opportunities. Must not intentionally contribute to, or alter, the scene they picture by re-enacting or staging events. Must maintain the integrity of the picture by ensuring there are no material changes to content. Must ensure captions are accurate. Must ensure the editing of a picture story provides an accurate and fair representation of its context. Must be open and transparent about the entire process through which their pictures are made, and be accountable to the World Press Photo Foundation for their practice.","description":"Lamon Reccord stares down a police sergeant during a march against police racial violence."}}
-</script>
-
-
-3) Markus Jokela, 2017 3rd prize Long Term Projects
-https://www.worldpressphoto.org/collection/photo/2017/long-term-projects/markus-jokela 
-
-Key words: long term project (+5 years), everyday life, US small town, family, community, intimacy, trust
-
-<script type="text/json" data-4c-meta="871ddf78-1e9b-7f64-32cc-bc770ce7437a">
-{"context":[{"credit":"Markus Jokela","src":"https://wetransfer.com/culture/wp-content/uploads/2017/02/LTP3-XAD2.jpg"}],"links":[{"title":"WORLD PRESS PHOTO 2017 – MARKUS JOKELA: TABLE ROCK, NEBRASKA","url":"https://wetransfer.com/thisworks/2017/02/13/world-press-photo-markus-jokela-table-rock-nebraska/"},{"title":"Table Rock, Nebraska","url":"https://www.worldpressphoto.org/collection/photo/2017/long-term-projects/markus-jokela"}],"backStory":{"text":"Table Rock is a small rural community in the northeast part of Pawnee County, Nebraska, in the USA. It was named for a unique rock formation near the Nemaha River. In 1992, Table Rock had 308 citizens; in a 2015 census the population was 255. Most people living in Table Rock spend their whole lives there. Some try moving to larger places, but often return to raise their children in their hometown. As with many other Midwestern towns, work is difficult to find. Farms around Table Rock provide employment for some, others seek jobs in neighboring communities.\n\nThe photographer is interested in the mundane aspects of everyday life. He first went to Table Rock in 1992. He and a colleague had been commissioned to do a story on American life, and the colleague closed his eyes and put his finger on a point he thought was the middle of the map. That turned out to be Table Rock. In 2009, the photographer became curious about what was happening in the town and so returned. He made a few further visits in the years that followed. For the most part, little had changed.","author":"Markus Jokela","magazine":"Helsingin Sanomat","magazineUrl":"http://www.hs.fi/kulttuuri/art-2000005086065.html","date":"February 13, 2017"},"creativeCommons":{"copyright":"Markus Jokela © 2013","codeOfEthics":"This means that entrants: Should be aware of the influence their presence can exert on a scene they photograph, and should resist being misled by staged photo opportunities. Must not intentionally contribute to, or alter, the scene they picture by re-enacting or staging events. Must maintain the integrity of the picture by ensuring there are no material changes to content. Must ensure captions are accurate. Must ensure the editing of a picture story provides an accurate and fair representation of its context. Must be open and transparent about the entire process through which their pictures are made, and be accountable to the World Press Photo Foundation for their practice.","description":"Leslie Blank takes her son Joe home from a music lesson."}}
-</script> 
-
-
-4) Lara Jo Regan, 2001 World Press Photo of the Year
-https://www.worldpressphoto.org/collection/photo/2001/world-press-photo-year/lara-jo-regan 
-
-Key words: family, community, exclusion, stigma, US policies 
-
-<script type="text/json" data-4c-meta="4c372fe2-0374-d23f-0b14-07204029ce4d">
-{"context":[{"credit":"Shaghayegh Tajvidi/Al Jazeera","src":"http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/11/3/495c23206cee4126babe1be31ab4396d_18.jpg"}],"links":[{"title":"Forgotten Americans","url":"http://www.galaninc.com/site/filmography/2000/03/forgotten-americans/"},{"title":"Health and Conditions in Texas' Colonias","url":"https://www.texastribune.org/2011/07/08/video-health-and-conditions-in-texas-colonias/"},{"title":"Living Edges Colonias Texas","url":"http://www.aljazeera.com/indepth/features/2016/11/living-edges-life-colonias-texas-161103082854630.html"}],"backStory":{"text":"The Sanchez family at home in a Texas colonia. They live in one of the state’s many colonias - unincorporated residential areas without basic infrastructure near the US-Mexico border. The mother, an immigrant from Mexico, makes paper-mâché piñatas to help support herself and her children. Her family numbers among the millions of Americans uncounted by the national census. Officially, they do not exist in the population records that determine not only Texas’ political representation in the United States Congress, but also where new schools, hospitals, firehouses and critical social services are needed.","author":"Lara Jo Regan","magazine":"LIFE","magazineUrl":"https://www.worldpressphoto.org/collection/photo/2001/world-press-photo-year/lara-jo-regan","date":"December 3, 2000"},"creativeCommons":{"copyright":"Lara Jo Regan © 2000","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled.\nThis means that entrants: Should be aware of the influence their presence can exert on a scene they photograph, and should resist being misled by staged photo opportunities. Must not intentionally contribute to, or alter, the scene they picture by re-enacting or staging events. Must maintain the integrity of the picture by ensuring there are no material changes to content. Must ensure captions are accurate. Must ensure the editing of a picture story provides an accurate and fair representation of its context. Must be open and transparent about the entire process through which their pictures are made, and be accountable to the World Press Photo Foundation for their practice.","description":"The Sanchez family at home in a Texas colonia."}}
-</script> 
-
-5) Sara Lewkowicz, 2016 3rd prize Contemporary Issues 
-https://www.worldpressphoto.org/collection/photo/2016/contemporary-issues/sara-naomi-lewkowicz
-
-Key words: family, love, relationships, challenging stereotypes, intimacy, long term project, personal story 
-
-<script type="text/json" data-4c-meta="5c12c748-e7f0-c915-9485-0ca15b9ed791">
-{"context":[{"credit":"Sara Lewkowicz","src":"http://pixel.nymag.com/imgs/fashion/daily/2016/12/22/cut-cover-kate-emily/cut-cover-kate-emily-16.nocrop.w1024.h2147483647.2x.jpg"}],"links":[{"title":"A Funny Dance Interview with Sara Lewbowicz","url":"http://www.gupmagazine.com/articles/a-funny-dance-an-interview-with-sara-lewkowicz"},{"title":"A Year Ago I Had a Baby. So Did My Wife.","url":"http://nymag.com/thecut/2016/12/dual-pregnancy-update.html?mid=refinery29fb"}],"backStory":{"text":"Emily and Kate are married to each other, and live in Maplewood, New Jersey. Both became pregnant at the same time, though that had not initially been their plan. Kate had been undergoing in vitro fertilization, but it appeared not to be working when she asked Emily to try, using the donor they had chosen together. Emily became pregnant almost immediately and while Kate was winding down her treatment, so did she. Emily gave birth to Reid, and Kate to Eddie, just four days apart. Kate and Emily embraced pregnancy, childbirth, and motherhood in tandem, as two women experiencing the challenges, intimacy, and transformations together.","author":"Sara Lewkowicz","magazine":"New York Magazine","magazineUrl":"http://nymag.com/thecut/2016/01/dual-pregnancy-c-v-r.html#","date":"December 6, 2015"},"creativeCommons":{"copyright":"Sara Lewkowicz © 2015","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled.This means that entrants: Should be aware of the influence their presence can exert on a scene they photograph, and should resist being misled by staged photo opportunities. Must not intentionally contribute to, or alter, the scene they picture by re-enacting or staging events. Must maintain the integrity of the picture by ensuring there are no material changes to content. Must ensure captions are accurate. Must ensure the editing of a picture story provides an accurate and fair representation of its context. Must be open and transparent about the entire process through which their pictures are made, and be accountable to the World Press Photo Foundation for their practice.","description":"Kate touches Emily’s belly and talks to Reid. “Come on out little guy, we can’t wait to meet you!\" Emily was a week overdue, and every day had become dedicated to the waiting game. “Isn’t her belly perfect looking?” Kate asked. “Seriously, it looks like a prop belly in the movies. It’s just smooth and perfect.”"}}
-</script>

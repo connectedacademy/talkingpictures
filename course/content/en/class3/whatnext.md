@@ -1,9 +1,8 @@
 ---
 published: true
-content_type: postwebinar
+content_type: nextclass
 optional: false
 expectsubmission: false
 title: What Next
-description: Prepare for next week's class by reading the introduction...
 ---
-
+TODO
