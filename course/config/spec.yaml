@@ -268,3 +268,10 @@ classes:
       -
         url: intro.md
         slug: intro
+      -
+        url: review.md
+        slug: review
+      -
+        url: certificate.md
+        slug: certificate
+
