@@ -7,6 +7,9 @@ description: >-
  TODO
 duration: '1780'
 expectsubmission: false
+media:
+  - L1-8k.mp3
+  - L1-8k.ogg
 transcript: transcripts/liveclass-transcript.json
 images: transcripts/liveclass-media.json
 prompts: transcripts/liveclass-prompts.json
