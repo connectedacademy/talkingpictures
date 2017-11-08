@@ -1,65 +1,106 @@
 registration:
   -
     id: 1
-    text: Summerise your thoughts on about online courses? Do you prefer them over traditional lectures?
-    response_type: text
+    text: What kind of lecture style do you prefer?
+    response_type: scale
+    response_min: Traditional Lectures
+    response_max: Online Learning
   -
     id: 2
-    text: Do you prefer a learning setting where you get information delivered by an expert, or do you prefer it to be more discussion-based?
-    response_type: text
+    text: What kind of learning environment do you prefer?
+    response_type: scale
+    response_min: Expert-led
+    response_max: Discussion based
   - 
     id: 3
-    text: How often do you usually make notes when studying? 0 - Never, 5 - Always
+    text: How often do you usually make notes when studying?
     response_type: scale
+    response_min: Never
+    response_max: Always
   -
     id: 4
-    text:  Do you take notes using pen and paper or electronically?
-    response_type: boolean
+    text:  How do you normally take notes?
+    response_type: multi
+    response_options:
+      - Pen and paper
+      - Electronically
   -
     id: 5
-    text: Do you normally share notes with others? 0 - Never, 5 - Always
+    text: How often do you share notes with others?
     response_type: scale
+    response_min: Never
+    response_max: Always
   -
     id: 6
-    text: Which service, if any, do you use to share pictures and who owns the rights to these images once they’ve been posted?
-    response_type: text
-  - 
-    id: 7
-    text: What copyright license, if any, would you usually use? (e.g. All Rights Reserved, CC BY, CC BY-SA, CC BY-ND, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND)
-    response_type: text
+    text: How do you engage with online videos/podcasts?
+    response_type: multi
+    response_options:
+      - Watch
+      - Discuss
+      - Neither
   -
-    id: 8
-    text: How often do you do further research around an image or the story to which it relates? 0 - Never, 5 - Always)
-    response_type: scale
-  - 
-    id: 9
-    text: How often do you include descriptive captions with your images? 0 - Never, 5 - Always
-    response_type: scale
+    id: 7
+    text:  Would you be interested in a certificate of participation?
+    response_type: multi
+    response_options:
+      - Yes
+      - Yes (with grade)
+      - Nope
 during:
   -
-    id: 10
-    text: How often have you contributed to a shared online document, such as a Google Doc? 0 - Never, 5 - Everyday)
-    response_type: scale
-  -
-    id: 11
-    text: Prior to this course, how often have you engaged in live online discussion around an event (radio show, tv program, sports event or webinar)? 0 - Never, 1 - Everyday
-    response_type: scale
+    id: 8
+    text: Which services, if any, do you share pictures on and are you aware of who owns the rights images once posted?
+    response_type: text
   - 
+    id: 9
+    text: Do you know what a Creative Commons Copyright License is?
+    response_type: text
+  -
+    id: 10
+    text: How often do you do further research around an image or the story to which it relates?
+    response_type: scale
+    response_min: Never
+    response_max: Always
+  - 
+    id: 11
+    text: How often do you include descriptive captions with your images?
+    response_type: scale
+    response_min: Never
+    response_max: Always
+  -
     id: 12
+    text: How often have you contributed to a shared online document, such as a Google Doc?
+    response_type: scale
+    response_min: Never
+    response_max: Everyday
+  -
+    id: 13
+    text: Prior to this course, have you engaged in live online discussion around an event?
+    response_type: text
+    response_placeholder: (radio show, tv program, sports event or webinar)
+  - 
+    id: 14
     text: How many online courses have you taken?
     response_type: scale
   -
-    id: 13
+    id: 15
     text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
+    response_type: multi
+    response_options:
+      - Graded
+      - Assignment based
+  - 
+    id: 16
+    text: Would you be interested in a certificate of attendance?
     response_type: boolean
   - 
-    id: 14
-    text: Would you be interested in a certificate of attendance? Would you prefer if that certificate were graded?
+    id: 17
+    text: Would you prefer if that certificate were graded?
     response_type: boolean
 
 post:
   -
-    id: 15
+    id: 18
     text: How long did you take to listen to this class?
     response_type: scale
 
