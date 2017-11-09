@@ -47,56 +47,59 @@ registration:
       - Yes (with grade)
       - Nope
 during:
-  -
-    id: 8
-    text: Which services, if any, do you share pictures on and are you aware of who owns the rights images once posted?
-    response_type: text
-  - 
-    id: 9
-    text: Do you know what a Creative Commons Copyright License is?
-    response_type: text
-  -
-    id: 10
-    text: How often do you do further research around an image or the story to which it relates?
-    response_type: scale
-    response_min: Never
-    response_max: Always
-  - 
-    id: 11
-    text: How often do you include descriptive captions with your images?
-    response_type: scale
-    response_min: Never
-    response_max: Always
-  -
-    id: 12
-    text: How often have you contributed to a shared online document, such as a Google Doc?
-    response_type: scale
-    response_min: Never
-    response_max: Everyday
-  -
-    id: 13
-    text: Prior to this course, have you engaged in live online discussion around an event?
-    response_type: text
-    response_placeholder: (radio show, tv program, sports event or webinar)
-  - 
-    id: 14
-    text: How many online courses have you taken?
-    response_type: scale
-  -
-    id: 15
-    text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
-    response_type: multi
-    response_options:
-      - Graded
-      - Assignment based
-  - 
-    id: 16
-    text: Would you be interested in a certificate of attendance?
-    response_type: boolean
-  - 
-    id: 17
-    text: Would you prefer if that certificate were graded?
-    response_type: boolean
+
+  firstpost:
+    -
+      id: 8
+      text: Which services, if any, do you share pictures on and are you aware of who owns the rights images once posted?
+      response_type: text
+    - 
+      id: 9
+      text: Do you know what a Creative Commons Copyright License is?
+      response_type: text
+    -
+      id: 10
+      text: How often do you do further research around an image or the story to which it relates?
+      response_type: scale
+      response_min: Never
+      response_max: Always
+  firstsubmission:
+    - 
+      id: 11
+      text: How often do you include descriptive captions with your images?
+      response_type: scale
+      response_min: Never
+      response_max: Always
+    -
+      id: 12
+      text: How often have you contributed to a shared online document, such as a Google Doc?
+      response_type: scale
+      response_min: Never
+      response_max: Everyday
+    -
+      id: 13
+      text: Prior to this course, have you engaged in live online discussion around an event?
+      response_type: text
+      response_placeholder: (radio show, tv program, sports event or webinar)
+    - 
+      id: 14
+      text: How many online courses have you taken?
+      response_type: scale
+    -
+      id: 15
+      text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
+      response_type: multi
+      response_options:
+        - Graded
+        - Assignment based
+    - 
+      id: 16
+      text: Would you be interested in a certificate of attendance?
+      response_type: boolean
+    - 
+      id: 17
+      text: Would you prefer if that certificate were graded?
+      response_type: boolean
 
 post:
   -
