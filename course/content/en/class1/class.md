@@ -8,8 +8,8 @@ description: >-
 duration: '1780'
 expectsubmission: false
 audio:
-  - L1-8k.mp3
-  - L1-8k.ogg
+  - L1-22k.mp3
+  - L1-22k.ogg
 transcript: transcripts/liveclass-transcript.json
 images: transcripts/liveclass-media.json
 prompts: transcripts/liveclass-prompts.json
