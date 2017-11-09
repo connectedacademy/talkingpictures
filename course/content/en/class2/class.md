@@ -4,8 +4,8 @@ content_type: class
 optional: false
 title: Live Classroom
 audio:
-  - L2-8k.mp3
-  - L2-8k.ogg
+  - L1-22k.mp3
+  - L1-22k.ogg
 description: >-
  TBC
 duration: 30
