@@ -165,7 +165,7 @@ post:
       - No
   -
     id: post-11
-    text: Did you access other additional resources nt directly linked from your session?
+    text: Did you access other additional resources not directly linked from your session?
     response_type: multi
     response_options:
       - Yes
