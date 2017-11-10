@@ -103,9 +103,110 @@ during:
 
 post:
   -
-    id: 18
-    text: How long did you take to listen to this class?
+    id: post-1
+    text: How was your experience taking the course?
     response_type: scale
+    response_min: Terrible
+    response_max: Excellent
+  -
+    id: post-2
+    text: What kind of learning environment do you prefer?
+    response_type: scale
+    response_min: Expert-led
+    response_max: Discussion based
+  -
+    id: post-3
+    text: How did enaging with the class "live" compare to revisiting it later? Which approach offers the best learning experience?
+    response_type: text
+  -
+    id: post-4
+    text: On avereage, how much time do you think you spent on the interviews? Was there enough time to listen to the interview?
+    response_type: text
+  -
+    id: post-5
+    text: How did you take notes/comment during the course?
+    response_type: multi
+    response_options:
+      - Written (paper)
+      - Online (here)
+      - Online (elsewhere)
+      - None
+  -
+    id: post-6
+    text: Did you revise or reflect on your notes?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-7
+    text: When researching, did you use other people's notes and external sources to augment your own?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-8
+    text: Did you revist your original FourCorners submission and change it? Did you submit a new image?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-9
+    text: Did you access extra learning resources?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-10
+    text: Did you access resources linked from your session?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-11
+    text: Did you access other additional resources nt directly linked from your session?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-12
+    text: If applicable, did the learning resources affect your decision to resubmit?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+      - N/A
+  -
+    id: post-13
+    text: Did you tune into the live webinars? How was your experience?
+    response_type: text
+  -
+    id: post-14
+    text: Would you still complete the course if there was no certification?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-15
+    text: Which copyright license do you normally use?
+    response_type: multi
+    response_options:
+      - None
+      - Depends
+      - All rights reserved
+      - CC BY
+      - CC BY-SA
+      - CC BY-ND
+      - CC BY-NC
+      - CC BY-NC-SA
+      - CC BY-NC-ND
+
 
 release: >-
   Please read these terms of use carefully before using the services offered by University of Newcastle Upon Tyne (&quot;Newcastle University&quot;, &quot;University of Newcastle Upon Tyne&quot;, &quot;we&quot;, &quot;us&quot;). These terms of use set forth the legally binding terms and conditions for your use of the website at https://connectedacademy.io (the &quot;Service&quot;) and the services, features, content, applications or widgets offered by Newcastle University (collectively with the Service, the &quot;Service&quot;).
