@@ -1,0 +1,13 @@
+---
+published: true
+content_type: pre
+optional: false
+expectsubmission: false
+title: 'Charlie Cole, 1990'
+---
+Caption TBC
+
+<img src="https://talkingpictures.connectedacademy.io/course/content/media/large/week6-example1.jpg" data-4c="5c764a80-5804-99c8-6c63-912f42e109d0">
+<script type="text/json" data-4c-meta="5c764a80-5804-99c8-6c63-912f42e109d0">
+{"context":[{"credit":"LIU HEUNG SHING/AP","src":"http://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2014/06/02/6.6fe0223tiananmen01.jpg"},{"credit":"CNN","src":"http://i2.cdn.cnn.com/cnnnext/dam/assets/140527041719-tam-goddess-2-horizontal-large-gallery.jpg"},{"credit":"JEFF WIDENER/AP","src":"http://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2014/06/03/6.3tiananmen05.jpg"},{"credit":"ALON REININGER/CONTACT PRESS IMAGES","src":"http://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2014/06/02/6.6fe0223tiananmen05.jpg"}],"links":[{"title":"Behind the Scenes: Tank Man of Tiananmen","url":"https://lens.blogs.nytimes.com/2009/06/03/behind-the-scenes-tank-man-of-tiananmen/"},{"title":"PHOTO ESSAY: 25TH ANNIVERSARY OF THE BRUTAL CRACKDOWN IN TIANANMEN SQUARE","url":"http://www.newsweek.com/photo-essay-25th-anniversary-brutal-crackdown-tiananmen-square-253377"},{"title":"Picture power: Tiananmen stand-off","url":"http://news.bbc.co.uk/2/hi/4313282.stm"},{"title":"1989 Raw Video: Man vs. Chinese tank Tiananmen square","url":"https://www.youtube.com/watch?v=YeFzeNAHEhU"}],"backStory":{"text":"Tiananmen Square--the very heart of the Middle Kingdom, where students had demonstrated in 1919 [as part of the “May Fourth Movement”]; where Mao had proclaimed a “People’s Republic” in 1949 on behalf of the Chinese people who had “stood up”; and where leaders customarily inspect their People’s Liberation Army troops—is a virtual monument to People Power in the abstract. In the spring of 1989, more than one million Chinese students and workers occupied Beijing's Tiananmen Square and began the largest political protest in communist China's history. Six weeks of protests ended with the Beijing massacre of 3-4 June.","author":"Charlie Cole","publication":"World Press Photo","publicationUrl":"https://www.worldpressphoto.org/collection/photo/1990/world-press-photo-year/charlie-cole","date":"5/6/1989"},"creativeCommons":{"credit":"Charlie Cole","year":"1989","copyright":"All rights reserved","codeOfEthics":"Photojournalist","description":"A demonstrator confronts a line of People's Liberation Army tanks on Chang'an Avenue, Beijing, during protests for democratic reform on Tianganmen Square."}}
+</script>

@@ -1,0 +1,13 @@
+---
+published: true
+content_type: pre
+optional: false
+expectsubmission: false
+title: 'Malcolm W. Browne, 1963'
+---
+Caption TBC
+
+<img src="https://talkingpictures.connectedacademy.io/course/content/media/large/week6-example4.jpg" data-4c="989102ee-de6f-0bdf-0961-de10dd34364a">
+<script type="text/json" data-4c-meta="989102ee-de6f-0bdf-0961-de10dd34364a">
+{"context":[{"credit":"Malcolm Wilde Browne","src":"https://www.ap.org/explore/the-burning-monk/assets/img/3_ThePhotograph_slideshow_9.jpg"},{"credit":"Malcolm Wilde Browne","src":"https://www.ap.org/explore/the-burning-monk/assets/img/3_ThePhotograph_slideshow_10.jpg"},{"credit":"Malcolm Wilde Browne","src":"https://www.ap.org/explore/the-burning-monk/assets/img/3_ThePhotograph_slideshow_11.jpg"}],"links":[{"title":"The Burning Monk","url":"http://100photos.time.com/photos/malcolm-browne-burning-monk"},{"title":"Malcolm Browne: The Story Behind The Burning Monk","url":"http://time.com/3791176/malcolm-browne-the-story-behind-the-burning-monk/"}],"backStory":{"text":"The self-immolation of Thich Quang Duc occurred during the Buddhist crisis in Vietnam, the civilian upheaval against the predominantly Catholic government of President Ngo Dinh Diem, which was supported by the United States. Although the Buddhists constituted a majority of the Vietnamese, Catholics enjoyed special privileges under Diem’s regime. These privileges were resented by the Buddhists, who began establishing religious and secular organizations to create and activate more political and social awareness. The crisis was precipitated by the shootings of nine unarmed civilians on 8 May 1963 in Hue during a demonstration. Following this incident, street demonstrations by Buddhist monks and nuns demanding political reform and religious freedom became frequent and were violently suppressed by the government. President Kennedy later commented, “No news picture in history has generated so much emotion around the world as that one.” Browne’s photo forced people to question the U.S.’s association with ­Diem’s government, and soon resulted in the Administration’s decision not to interfere with a coup that November.","author":"Malcolm Browne","publication":"World Press Photo","publicationUrl":"https://www.worldpressphoto.org/collection/photo/1963/world-press-photo-year/malcolm-w-browne","date":"11/6/1963"},"creativeCommons":{"credit":"Malcolm W. Browne","year":"1963","copyright":"All rights reserved","codeOfEthics":"Photojournalist","description":"Saigon, Vietnam Buddhist monk Thich Quang Duc sets himself ablaze to protest the South Vietnamese government’s persecution of Buddhists."}}
+</script>
