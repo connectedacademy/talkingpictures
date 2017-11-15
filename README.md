@@ -1,12 +1,13 @@
-# Test Class Course
+# IMPORTANT NOTICE
 
-[![CircleCI](https://circleci.com/gh/connectedacademy/testclass/tree/master.svg?style=svg)](https://circleci.com/gh/connectedacademy/talkingpictures/tree/master)
+Copyright and rights for content in this repository is mixed.
 
+Textual content, including all Markdown and class content is Creative Commons BY.
 
-Structure and content for the Test Class, for Connected Academy development.
+Rights to image content for display or distribution other than through the Connected Academy platform is held solely by the photographer.
 
-## Build Step
+# Talking Pictires
 
-The files in this repo should be edited using http://prose.io.
+[![CircleCI](https://circleci.com/gh/connectedacademy/talkingpictures/tree/master.svg?style=svg)](https://circleci.com/gh/connectedacademy/talkingpictures/tree/master)
 
-After each commit, the build script runs and checks the content is valid, then deploys the content to the gh-pages branch, which is hosted on GitHub pages, and served by a CDN.
+Structure and content for the Talking Pictures course, for Connected Academy development.
