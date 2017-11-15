@@ -7,27 +7,27 @@ expectsubmission: false
 thumbnails:
   '1':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture1.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week1-picture1.jpg
     link: /markdown/class1%2Fexamples%2Fexample-1.md
     caption: 1960s
   '2':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture5.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week1-picture5.jpg
     link: /markdown/class1%2Fexamples%2Fexample-2.md
     caption: 1970s
   '3':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture3.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week1-picture3.jpg
     link: /markdown/class1%2Fexamples%2Fexample-4.md
     caption: 1980s
   '4':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture2.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week1-picture2.jpg
     link: /markdown/class1%2Fexamples%2Fexample-3.md
     caption: 1990s
   '5':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week1-picture4.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week1-picture4.jpg
     link: /markdown/class1%2Fexamples%2Fexample-5.md
     caption: 2000s
 description: >-
