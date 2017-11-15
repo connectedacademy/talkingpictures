@@ -5,6 +5,11 @@ optional: true
 title: From the Archive - Four Corners Examples
 expectsubmission: false
 thumbnails:
+  '4':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example4.jpg
+    link: /markdown/class2%2Fexamples%2Fexample-4.md
+    caption: 2001
   '1':
     image: >-
       https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example1.jpg
@@ -20,11 +25,6 @@ thumbnails:
       https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example3.jpg
     link: /markdown/class2%2Fexamples%2Fexample-3.md
     caption: 2017
-  '4':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example4.jpg
-    link: /markdown/class2%2Fexamples%2Fexample-4.md
-    caption: 2001
   
 description: >-
   The World Press Photo Foundation Archive contains over sixty years of iconic

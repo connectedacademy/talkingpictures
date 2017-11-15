@@ -5,27 +5,27 @@ optional: true
 title: From the Archive - Four Corners Examples
 expectsubmission: false
 thumbnails:
-  '1':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example1.jpg
-    link: /markdown/class6%2Fexamples%2Fexample-1.md
-    caption: 1990
-  '2':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example2.jpg
-    link: /markdown/class6%2Fexamples%2Fexample-2.md
-    caption: 1973
-  '3':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example3.jpg
-    link: /markdown/class6%2Fexamples%2Fexample-3.md
-    caption: 2011
   '4':
     image: >-
       https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example4.jpg
     link: /markdown/class6%2Fexamples%2Fexample-4.md
     caption: 1963
-  
+  '2':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example2.jpg
+    link: /markdown/class6%2Fexamples%2Fexample-2.md
+    caption: 1973
+  '1':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example1.jpg
+    link: /markdown/class6%2Fexamples%2Fexample-1.md
+    caption: 1990
+  '3':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week6-example3.jpg
+    link: /markdown/class6%2Fexamples%2Fexample-3.md
+    caption: 2011
+    
 description: >-
   The World Press Photo Foundation Archive contains over sixty years of iconic
   images. We have selected photographs from each decade that relate to the

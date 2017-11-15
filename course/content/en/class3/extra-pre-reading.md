@@ -5,26 +5,27 @@ optional: true
 title: From the Archive - Four Corners Examples
 expectsubmission: false
 thumbnails:
-  '1':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example4.jpg
-    link: /markdown/class3%2Fexamples%2Fexample-1.md
-    caption: 2016
-  '2':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example3.jpg
-    link: /markdown/class3%2Fexamples%2Fexample-2.md
-    caption: 2011
-  '3':
-    image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example2.jpg
-    link: /markdown/class3%2Fexamples%2Fexample-3.md
-    caption: 2017
   '4':
     image: >-
       https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example1.jpg
     link: /markdown/class3%2Fexamples%2Fexample-4.md
     caption: 2001
+  '2':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example3.jpg
+    link: /markdown/class3%2Fexamples%2Fexample-2.md
+    caption: 2011
+  '1':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example4.jpg
+    link: /markdown/class3%2Fexamples%2Fexample-1.md
+    caption: 2016
+  '3':
+    image: >-
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week3-example2.jpg
+    link: /markdown/class3%2Fexamples%2Fexample-3.md
+    caption: 2017
+
   
 description: >-
   The World Press Photo Foundation Archive contains over sixty years of iconic
