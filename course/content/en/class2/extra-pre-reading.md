@@ -7,22 +7,22 @@ expectsubmission: false
 thumbnails:
   '1':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week2-example1.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example1.jpg
     link: /markdown/class2%2Fexamples%2Fexample-1.md
     caption: 2016
   '2':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week2-example2.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example2.jpg
     link: /markdown/class2%2Fexamples%2Fexample-2.md
     caption: 2017
   '3':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week2-example3.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example3.jpg
     link: /markdown/class2%2Fexamples%2Fexample-3.md
     caption: 2017
   '4':
     image: >-
-      https://talkingpictures.connectedacademy.io/course/content/media/thumb/week2-example4.jpg
+      https://talkingpictures.connectedacademy.io/course/content/media/small/week2-example4.jpg
     link: /markdown/class2%2Fexamples%2Fexample-4.md
     caption: 2001
   
