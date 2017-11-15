@@ -1,0 +1,1649 @@
+1
+00:00:00,020 --> 00:00:02,840
+Hello, I'm Jonathan Worth and as well as
+being a freelance photographer
+
+2
+00:00:02,840 --> 00:00:07,160
+I'm also a Senior Researcher at Newcastle
+University's Open Lab in the UK.
+
+3
+00:00:07,580 --> 00:00:11,260
+The interviews you're about to hear are part of a series that along with the web platform
+
+4
+00:00:11,260 --> 00:00:14,360
+and connected classes, seeks to create a space for a more
+
+5
+00:00:14,370 --> 00:00:16,501
+critical engagement with visual storytelling.
+
+6
+00:00:16,501 --> 00:00:18,869
+The audio montage is of several separate interviews
+
+7
+00:00:18,869 --> 00:00:21,810
+of people variously representing the perspectives of the
+
+8
+00:00:21,810 --> 00:00:24,420
+photographer, their subject and the audience.
+
+9
+00:00:24,800 --> 00:00:30,200
+Our starting point today is "Fiction" as we reflect on the many storytelling devices at our disposal.
+
+10
+00:00:30,580 --> 00:00:34,120
+The photographer for this session unfortunately couldn't be with us.
+
+11
+00:00:34,560 --> 00:00:38,240
+Tim Hetherington died alongside fellow photographer Chris Hondros whilst they
+
+12
+00:00:38,240 --> 00:00:41,700
+were covering the conflict in Misrata,
+Libya in 2011.
+
+13
+00:00:42,220 --> 00:00:45,700
+If you don't already know Sleeping Soldiers or Tim's Diary pieces,
+
+14
+00:00:45,700 --> 00:00:51,180
+then you might be familiar with the Sundance winning documentary film Restrepo which Tim co-produced
+
+15
+00:00:51,180 --> 00:00:55,260
+and co-directed with Sebastian Junger. Stephen Mayes knew Tim well, having first
+
+16
+00:00:55,260 --> 00:00:57,820
+reviewed his portfolio when Tim was a student.
+
+17
+00:00:58,080 --> 00:01:00,820
+He agreed to talk about his work in this interview.
+
+18
+00:01:01,080 --> 00:01:04,100
+Stephens own career has spanned the full gamut of photography.
+
+19
+00:01:04,100 --> 00:01:08,980
+From news to stock, fine art, and fashion, both as a maker and as a manager.
+
+20
+00:01:09,100 --> 00:01:12,299
+He is the director of the Tim Hetherington Trust, as well as writing
+
+21
+00:01:12,300 --> 00:01:15,979
+and commenting widely on both the
+industry and the practice of photography.
+
+22
+00:01:16,320 --> 00:01:20,520
+Mexico City based photographer Dominic Bracco, who we'll also hear from,
+
+23
+00:01:20,520 --> 00:01:24,659
+was awarded the 2016 Tim Hetherington Visionary Award, and he talks to us about how,
+
+24
+00:01:24,660 --> 00:01:30,620
+using fiction as a storytelling device enables him to both protect his subjects and himself.
+
+25
+00:01:31,020 --> 00:01:33,900
+Susie Linfield is professor of criticism at New York University,
+
+26
+00:01:33,900 --> 00:01:37,470
+and although she only features briefly in here, there is a full conversation between her and Stephen
+
+27
+00:01:37,470 --> 00:01:40,840
+in the extended playlist.
+
+28
+00:01:41,300 --> 00:01:44,720
+Likewise there's also a deeper dive interview with the gay rights activist
+
+29
+00:01:44,729 --> 00:01:47,220
+Peter Tatchell who reflects on a lifetime of being the
+
+30
+00:01:47,220 --> 00:01:51,479
+subject of media stories that range from him being vilified to being described as
+
+31
+00:01:51,480 --> 00:01:52,400
+a national treasure.
+
+32
+00:01:52,800 --> 00:01:53,420
+[Jonathan] Stephen
+
+33
+00:01:53,960 --> 00:01:55,740
+[Stephen] I think what's happening at the moment is a
+
+34
+00:01:55,740 --> 00:02:00,060
+really interesting turning point in photography and the problem we have is
+
+35
+00:02:00,060 --> 00:02:03,360
+that we are trying to understand what is effectively a new medium, that works in a new way,
+
+36
+00:02:03,660 --> 00:02:09,240
+in the terms of the photography that we understood and knew
+
+37
+00:02:09,320 --> 00:02:11,020
+in the 20th century and in the first decade of this century.
+
+38
+00:02:11,360 --> 00:02:12,880
+But it's not. It's a different medium,
+
+39
+00:02:13,160 --> 00:02:15,460
+and it works a different way and to give you one example of this,
+
+40
+00:02:15,460 --> 00:02:18,440
+I look again at Instagram feed and there's this river of images,
+
+41
+00:02:18,450 --> 00:02:24,750
+this cascade of images which people stress about. [Suzan] The way that many
+
+42
+00:02:24,750 --> 00:02:28,920
+people get many images now, which is through their phones, which is in a very
+
+43
+00:02:28,920 --> 00:02:35,370
+personalized individual way, is part of this whole bubble thing. Each person can
+
+44
+00:02:35,370 --> 00:02:41,640
+sort of create their own world and their own reality. I'm not on like Instagram or
+
+45
+00:02:41,640 --> 00:02:48,510
+any of those things but my students are and I see that they just get this flood
+
+46
+00:02:48,510 --> 00:02:54,570
+of images all day that are totally deracinated. I mean some of them are just,
+
+47
+00:02:54,570 --> 00:02:59,490
+you know, their friends and their dogs and their meals but I assume that
+
+48
+00:02:59,490 --> 00:03:03,570
+they're also getting you know news images and different things and I don't
+
+49
+00:03:03,570 --> 00:03:10,190
+know how they make sense of any of that or if they do because I feel it's so
+
+50
+00:03:10,190 --> 00:03:15,630
+separated from context. And I'm not, you know, going back to the nostalgic days
+
+51
+00:03:15,630 --> 00:03:23,610
+when the whole country watched Walter Cronkite, but I do wonder if there is a
+
+52
+00:03:23,610 --> 00:03:31,890
+connection between that kind of individualism and the really intense and
+
+53
+00:03:31,890 --> 00:03:37,470
+dangerous fragmentation of the population now. And the ability that
+
+54
+00:03:37,470 --> 00:03:45,150
+people have to just completely x-out any news that they don't like or they don't
+
+55
+00:03:45,150 --> 00:03:50,250
+believe or they're not interested in. And I wonder if there's a connection between
+
+56
+00:03:50,250 --> 00:03:55,019
+those things.  [Stephen ] Traditionally, we have put a lot of our trust in the title of
+
+57
+00:03:55,020 --> 00:03:59,580
+of the magazine or the newspaper, and it increasingly was happening these days.
+
+58
+00:03:59,580 --> 00:04:04,040
+If the magazines and newspapers are falling into a different roles, social media is
+
+59
+00:04:04,040 --> 00:04:06,560
+picking up, we have people finding all sorts of ways of acquiring information
+
+60
+00:04:06,570 --> 00:04:10,080
+out, beyond their traditional channels. The integrity is moving on to the
+
+61
+00:04:10,080 --> 00:04:14,940
+journalists themselves personally, so that as a photographer, people have to
+
+62
+00:04:14,940 --> 00:04:19,560
+really pick up ownership of that story. It's no longer possible to hide behind
+
+63
+00:04:19,560 --> 00:04:23,190
+the, the editor and the title that you're working for, you have to stand up and
+
+64
+00:04:23,190 --> 00:04:26,340
+take that responsibility because you will be visible. In a world that's too
+
+65
+00:04:26,340 --> 00:04:29,880
+full of information, we, we don't properly understand the
+
+66
+00:04:29,880 --> 00:04:33,630
+most valuable thing is integrity, is belief in the author. You have to be
+
+67
+00:04:33,630 --> 00:04:36,570
+credible in a world where there's too much information that we don't
+
+68
+00:04:36,570 --> 00:04:40,950
+understand. It is a highly valuable position. People who have traditionally worked in
+
+69
+00:04:40,950 --> 00:04:44,460
+photography consider each and every picture to be precious, they have a place
+
+70
+00:04:44,460 --> 00:04:48,750
+in the value and need to be archived, indexed, understood et cetera et cetera.
+
+71
+00:04:48,750 --> 00:04:54,270
+And this doesn't really apply anymore, that people read pictures very very
+
+72
+00:04:54,270 --> 00:04:58,050
+quickly and they are reading from the code, they're not they're not just
+
+73
+00:04:58,050 --> 00:05:01,590
+looking at the content of the picture, they're looking at the, the, the
+
+74
+00:05:01,590 --> 00:05:05,040
+metaphorical meaning of it. So when people photograph a picture of their,
+
+75
+00:05:05,040 --> 00:05:09,450
+their meal and they put it on Instagram, you know a lot of professional
+
+76
+00:05:09,450 --> 00:05:13,200
+photographers get very dismissive of it, oh just photographing a meal, but the point is
+
+77
+00:05:13,200 --> 00:05:17,160
+that nobody specifically wants you to know that they have peas and carrots for
+
+78
+00:05:17,160 --> 00:05:21,480
+lunch, they want you to understand the circumstances they were in, and the food
+
+79
+00:05:21,480 --> 00:05:25,020
+becomes a terrific metaphor for where you are. So you know food becomes a code
+
+80
+00:05:25,020 --> 00:05:30,720
+for where I am, the access to nutrients, the social position I'm in. Usually, when
+
+81
+00:05:30,720 --> 00:05:33,570
+you're traveling at an airport, you know, food looks very different than if you're
+
+82
+00:05:33,570 --> 00:05:37,800
+at a birthday party. You know food becomes a metaphorical representation, it
+
+83
+00:05:37,800 --> 00:05:43,110
+becomes a coded encounter with who you are and who is your place in society.
+
+84
+00:05:43,110 --> 00:05:46,920
+It becomes actually very powerful. So far from being banal, I see pictures of food
+
+85
+00:05:46,920 --> 00:05:51,560
+as actually been very expressive, they are a metaphorical encoded
+
+86
+00:05:51,560 --> 00:05:55,680
+representation of who I am, how I relate to my friends, what I want
+
+87
+00:05:55,680 --> 00:05:59,010
+them to know about me and it becomes actually a very rich form of
+
+88
+00:05:59,010 --> 00:06:06,480
+communication. And more than communication, it's, it's a sharing, so you
+
+89
+00:06:06,480 --> 00:06:10,320
+know, communication suggests, I just sending out, I want you to note I'm
+
+90
+00:06:10,320 --> 00:06:13,800
+having lunch, end of story. It's not, it's not the end of the story,
+
+91
+00:06:13,800 --> 00:06:16,260
+you're looking for feedback at the same time, which social media does so
+
+92
+00:06:16,260 --> 00:06:20,010
+brilliantly. So you, you, you put out the message 'here I am, having lunch, I'm in an
+
+93
+00:06:20,010 --> 00:06:23,520
+airport' and people write back and they say 'cool where you going?' you know or
+
+94
+00:06:23,520 --> 00:06:26,550
+'I was on my way to Istanbul just last year and I was at the same restaurant'.
+
+95
+00:06:26,550 --> 00:06:30,870
+People share the experience, in all sorts of ways, they share it with their friends,
+
+96
+00:06:30,870 --> 00:06:35,400
+they pass it on, they report back to the person who posted the message. So the, the
+
+97
+00:06:35,400 --> 00:06:38,729
+photograph, far from being a document of memory, becomes
+
+98
+00:06:38,729 --> 00:06:44,699
+an actual element in current experience. So you know the photograph itself is the
+
+99
+00:06:44,699 --> 00:06:49,139
+experience, not the meal, curiously. But for everyone who receives the picture is
+
+100
+00:06:49,139 --> 00:06:53,430
+the photograph which is current and that's their, their, what we all used in
+
+101
+00:06:53,430 --> 00:06:57,779
+fact, in commentary and sharing with our friends. So you know the photograph
+
+102
+00:06:57,779 --> 00:07:01,919
+itself becomes part of the current experience, it's not documenting the
+
+103
+00:07:01,919 --> 00:07:06,180
+current experience, it is the current experience. And that puts the picture in
+
+104
+00:07:06,180 --> 00:07:11,580
+a very very different place, and looking a little bit beyond that, what you then
+
+105
+00:07:11,580 --> 00:07:17,399
+realize that, you know, every current experience soon turns into a memory, soon
+
+106
+00:07:17,399 --> 00:07:23,580
+turns into a blur, is soon forgotten and we're on to the next thing. But what's
+
+107
+00:07:23,580 --> 00:07:27,509
+significant is that we, we have learnt something from that and what we learned
+
+108
+00:07:27,509 --> 00:07:33,449
+stays with us. We learned that our friend travel to Istanbul through their picture
+
+109
+00:07:33,449 --> 00:07:37,169
+of the meal and we may forget what exactly the meal was but we remember
+
+110
+00:07:37,169 --> 00:07:40,319
+that our friend went to Istanbul or they went somewhere where was it oh yes
+
+111
+00:07:40,319 --> 00:07:44,370
+Istanbul, you know we can work backwards through that. So we take knowledge, we
+
+112
+00:07:44,370 --> 00:07:49,620
+take, you know, from the experience of sharing these imagery, we accumulate
+
+113
+00:07:49,620 --> 00:07:54,360
+knowledge and even though the picture itself becomes ignorable, it has enlarged us,
+
+114
+00:07:54,360 --> 00:07:58,889
+it stays with us, as you listen to this, you probably won't remember the exact
+
+115
+00:07:58,889 --> 00:08:02,430
+words that I'm using, but I hope you'll take some of the meaning with you. And
+
+116
+00:08:02,430 --> 00:08:06,029
+that's really the point, that's very much where we are with photography, is that
+
+117
+00:08:06,029 --> 00:08:10,020
+it's not to worry about each individual word, each individual image, we don't need
+
+118
+00:08:10,020 --> 00:08:12,360
+to do that. What we need to do is listen to the
+
+119
+00:08:12,360 --> 00:08:16,770
+meaning, take the meaning onboard, make it ours and move on. And that's I think,
+
+120
+00:08:16,770 --> 00:08:21,209
+it takes photography to a much richer place. It doesn't abandon the evidential
+
+121
+00:08:21,209 --> 00:08:25,709
+place that had before, the formation of record, you know the eyewitness roles
+
+122
+00:08:25,709 --> 00:08:29,039
+that, you know, the photograph had. It still has those values, it can
+
+123
+00:08:29,039 --> 00:08:33,329
+still be applied but, but, now it has this additional role which is richer,
+
+124
+00:08:33,329 --> 00:08:38,669
+more fluid, allows for joined-up communication not just statements, it's a
+
+125
+00:08:38,669 --> 00:08:41,990
+tremendous place to be with imagery.
+
+126
+00:08:43,450 --> 00:08:47,899
+What Instagram is doing is, it is effectively inverting all the
+
+127
+00:08:47,899 --> 00:08:53,570
+expectations of the image so, in Everyday Africa for example, there is a, a famously an
+
+128
+00:08:53,570 --> 00:08:58,850
+example of a child playing in a pool of muddy water in Africa and the, the
+
+129
+00:08:58,850 --> 00:09:03,529
+Instagram responses of that were of pity and concern about the poverty of this
+
+130
+00:09:03,529 --> 00:09:08,149
+child and the circumstances she was growing up in. What we then realized is,
+
+131
+00:09:08,149 --> 00:09:12,589
+it becomes an unrealistic burden on that child to represent the circumstances of
+
+132
+00:09:12,589 --> 00:09:16,700
+a continent but that's, that's where we've come to with photojournalism, that
+
+133
+00:09:16,700 --> 00:09:20,450
+we use these these codes which are really valuable, but they can also
+
+134
+00:09:20,450 --> 00:09:24,770
+restrict our understanding, that you know not everything is a code, sometimes it is
+
+135
+00:09:24,770 --> 00:09:29,930
+actually a representation. And what is happening more with this river of images
+
+136
+00:09:29,930 --> 00:09:34,610
+through Instagram is much more about representations, about little details of
+
+137
+00:09:34,610 --> 00:09:42,020
+life, which individually have very little import, you know, the woman hanging out
+
+138
+00:09:42,020 --> 00:09:47,329
+laundry, somebody standing in line at the bank for get some cash, these are in a
+
+139
+00:09:47,329 --> 00:09:51,320
+sense particularly interesting things but what happens is because it's a
+
+140
+00:09:51,320 --> 00:09:54,579
+stream they're not individual statements, they're part of a stream that
+
+141
+00:09:54,579 --> 00:10:00,560
+collectively we are listening to, we are watching a conversation about Africa.
+
+142
+00:10:00,560 --> 00:10:04,790
+You know all these incidental details turn out to be incredibly important and the
+
+143
+00:10:04,790 --> 00:10:08,390
+key here is that it moves the responsibility for understanding from
+
+144
+00:10:08,390 --> 00:10:12,350
+the photographer, it moves onto the viewer, you know, we are in a position now
+
+145
+00:10:12,350 --> 00:10:15,950
+where we have to look at what we're seeing, think about it and understand it.
+
+146
+00:10:15,950 --> 00:10:20,510
+And this is quite the opposite of photojournalism, where the role of
+
+147
+00:10:20,510 --> 00:10:23,990
+photojournalist is to exclude all that different, different information
+
+148
+00:10:23,990 --> 00:10:28,490
+and to focus only on the subject in-hand. The news photographer, the newspaper
+
+149
+00:10:28,490 --> 00:10:32,329
+photographer or magazine photographer looks at the all the chaos of the world
+
+150
+00:10:32,329 --> 00:10:35,600
+and they try to simplify it down to the core elements of a story they're
+
+151
+00:10:35,600 --> 00:10:41,089
+covering, so you're covering famine, you eliminate all the pictures of shopping
+
+152
+00:10:41,089 --> 00:10:44,720
+around you, because people run shops and have markets and you know even in a
+
+153
+00:10:44,720 --> 00:10:48,680
+famine area, these daily life happens and all you do is focus on
+
+154
+00:10:48,680 --> 00:10:52,340
+famine. You distract me, you exclude all the distracting information.
+
+155
+00:10:52,340 --> 00:10:58,910
+The notion of the photograph as a as a transient, transient experience if you
+
+156
+00:10:58,910 --> 00:11:03,050
+like, actually works very well for the documentary photographer and that,
+
+157
+00:11:03,050 --> 00:11:06,890
+although if you think traditionally of, in terms of supplying a magazine
+
+158
+00:11:06,890 --> 00:11:10,970
+creating a cover story all that kind of stuff, you know Instagram can be very
+
+159
+00:11:10,970 --> 00:11:14,450
+threatening. If instead of that you embrace the Instagram way of thinking,
+
+160
+00:11:14,450 --> 00:11:19,880
+you can go to a lot of very interesting places beyond Instagram, so you can turn
+
+161
+00:11:19,880 --> 00:11:25,190
+the picture into an experiential process which engages the imagination as much as
+
+162
+00:11:25,190 --> 00:11:31,550
+it tells about the facts of the situation. [Suzan] I think in this time, you're
+
+163
+00:11:31,550 --> 00:11:39,860
+right that I think people, journalists, photographers, activists, citizens, we
+
+164
+00:11:39,860 --> 00:11:44,029
+really need to think about new ways of communication and new ways of
+
+165
+00:11:44,029 --> 00:11:47,360
+storytelling. Not just new ways of reaching people but new ways of
+
+166
+00:11:47,360 --> 00:11:53,120
+understanding people's emotional worlds [Stephen] I think here of Tim Hetherington for a
+
+167
+00:11:53,120 --> 00:11:58,280
+number of reasons. One is that Tim in the last few years of his life started
+
+168
+00:11:58,280 --> 00:12:01,700
+talking about the image bank, he is talking literally about with the bank of
+
+169
+00:12:01,700 --> 00:12:06,440
+images that we hold in our head and the more images we see of the world, the
+
+170
+00:12:06,440 --> 00:12:11,960
+easier it becomes to reference the codes, you know, included in today's
+
+171
+00:12:11,960 --> 00:12:15,380
+picture that you're looking at. So Tim referred very much to the image bank as
+
+172
+00:12:15,380 --> 00:12:19,130
+being a very inclusive thing, about growing wisdoms, about accumulating
+
+173
+00:12:19,130 --> 00:12:23,780
+knowledge, the bank of images that we've always seen, witnessed, you shared
+
+174
+00:12:23,780 --> 00:12:28,820
+and have understood becomes a tool to
+more rapid and more effective
+
+175
+00:12:28,820 --> 00:12:32,930
+communication moving forward. So, for example, if we think about sleeping
+
+176
+00:12:32,930 --> 00:12:38,690
+soldiers, Tim at a certain point, when he was in Afghanistan, he, he started
+
+177
+00:12:38,690 --> 00:12:43,580
+photographing soldiers asleep and this was in the Korengal Valley which, at that
+
+178
+00:12:43,580 --> 00:12:49,550
+time, had more ordnance, had more bombs and, you, know explosives loaded into it
+
+179
+00:12:49,550 --> 00:12:54,200
+than any other place in Afghanistan that year, a highly, highly violent part of the
+
+180
+00:12:54,200 --> 00:13:00,350
+world. And Tim is photographing soldiers asleep, how bizarre. But of course, there's,
+
+181
+00:13:00,350 --> 00:13:05,600
+there's absolutely a theory behind this and it really works, at very
+
+182
+00:13:05,600 --> 00:13:08,920
+visceral level, you look at those pictures of men asleep,
+
+183
+00:13:08,920 --> 00:13:12,710
+there, there are no guns, they're not wearing the uniforms, some of them
+
+184
+00:13:12,710 --> 00:13:16,400
+completely naked, but you know that there are soldiers in Afghanistan because we
+
+185
+00:13:16,400 --> 00:13:20,390
+have that context and immediately being to think, why are we looking at this?
+
+186
+00:13:20,390 --> 00:13:25,280
+And immediately you move into a kind of a metaphorical realm and what, what you
+
+187
+00:13:25,280 --> 00:13:30,080
+realize at a certain point is that Tim is not using a reportage here, it's not
+
+188
+00:13:30,080 --> 00:13:33,170
+important that at, you know, five o'clock on the Saturday
+
+189
+00:13:33,170 --> 00:13:37,670
+2008 the soldier was asleep, it's not documentary in that sense. It's moving
+
+190
+00:13:37,670 --> 00:13:42,440
+you more into a place of meditation and it's about, yes this soldier is in
+
+191
+00:13:42,440 --> 00:13:45,590
+Afghanistan, he is sleeping, and immediately then you moved thoughts
+
+192
+00:13:45,590 --> 00:13:50,630
+about vulnerability. But here's the aggressor who is vulnerable, you deal
+
+193
+00:13:50,630 --> 00:13:53,960
+with these contradictions, so what is that? He's a man, he's a man who was both
+
+194
+00:13:53,960 --> 00:13:58,250
+vulnerable, this is a picture of a man who might, as he might have been seen by
+
+195
+00:13:58,250 --> 00:14:03,200
+his mother, by his lover, completely other context. But he's in conflict, and we
+
+196
+00:14:03,200 --> 00:14:06,800
+begin to think about the role of men in conflict, that one can be vulnerable and
+
+197
+00:14:06,800 --> 00:14:09,680
+aggressive at the same time. Obviously there's a metaphor between sleep and
+
+198
+00:14:09,680 --> 00:14:13,160
+death, which has been you know a staple of literature for for hundreds of years,
+
+199
+00:14:13,160 --> 00:14:18,250
+it's that notion is, is what we bring to it, is what we create around that picture,
+
+200
+00:14:18,250 --> 00:14:23,450
+which is not factually depicted in the photograph, which becomes so interesting.
+
+201
+00:14:23,450 --> 00:14:27,500
+Now, if it's not factually the picture than the photograph and we're imposing
+
+202
+00:14:27,500 --> 00:14:32,030
+our meaning on it, is that fiction? It is a fact that the soldier is asleep, but
+
+203
+00:14:32,030 --> 00:14:36,740
+what we bring to it is so much richer, from our experience we are weaving in
+
+204
+00:14:36,740 --> 00:14:42,500
+meaning, we are weaving in significance and that's not really documentary, it's
+
+205
+00:14:42,500 --> 00:14:45,710
+really hard to think of those pictures as documentary, as in recording of
+
+206
+00:14:45,710 --> 00:14:51,530
+facts, it doesn't make it fiction but at the same time it's using stories that we
+
+207
+00:14:51,530 --> 00:14:56,330
+make up, it's a very interesting area to be in and it allows for a rich, rich
+
+208
+00:14:56,330 --> 00:15:01,820
+interpretation of the world. The Tim Hetherington trust, one of the
+
+209
+00:15:01,820 --> 00:15:05,300
+core difficulties we have to deal with is, we don't know what Tim would be
+
+210
+00:15:05,300 --> 00:15:08,840
+thinking at this point and we have no interest in speculating, we we can't do
+
+211
+00:15:08,840 --> 00:15:12,260
+that we shouldn't do that, but what we can do is, we can we can look for people
+
+212
+00:15:12,260 --> 00:15:17,480
+who are bringing similar creativity in, in their thinking to documentary work.
+
+213
+00:15:17,480 --> 00:15:22,970
+And this is what we do with our annual award, and in 2016 the visionary award
+
+214
+00:15:22,970 --> 00:15:30,460
+was won by Dominic Bracco. [Dominic] So I'm primarily a documentary photographer,
+
+215
+00:15:30,470 --> 00:15:35,980
+originally from South Texas and that's actually what The Backs of Men project is
+
+216
+00:15:35,990 --> 00:15:41,180
+about, is looking at this region that I grew up in and looking at issues of
+
+217
+00:15:41,180 --> 00:15:48,650
+migration and sort of the the day-to-day things that we encounter being from that
+
+218
+00:15:48,650 --> 00:15:54,320
+region. And then in the last seven years, I've lived in Mexico, right now I'm based
+
+219
+00:15:54,320 --> 00:16:00,950
+in Mexico City and I've covered cartel violence and human trafficking issues
+
+220
+00:16:00,950 --> 00:16:06,500
+here in the region and also in Central America. After some time of covering
+
+221
+00:16:06,500 --> 00:16:11,030
+those topics as a kind of a strictly photojournalist, documentary photographer,
+
+222
+00:16:11,030 --> 00:16:17,780
+I've started to get frustrated by the limitations of what I was doing, mostly
+
+223
+00:16:17,780 --> 00:16:25,450
+because before I spent a lot of time on one particular project, like, for example,
+
+224
+00:16:25,450 --> 00:16:29,570
+each of these things that I've done I've spent many many years like digging in
+
+225
+00:16:29,570 --> 00:16:34,340
+and photographing the same people, and I just didn't feel like enough to come
+
+226
+00:16:34,340 --> 00:16:39,380
+home with a set of 30 select images or whatever to represent what I had spent
+
+227
+00:16:39,380 --> 00:16:44,510
+multiple years on. I guess I just was questioning how I could do a better
+
+228
+00:16:44,510 --> 00:16:48,890
+justice to this story and I felt like it was always right in front of me I mean,
+
+229
+00:16:48,890 --> 00:16:52,670
+I studied literature in college, specifically I studied a lot of a
+
+230
+00:16:52,670 --> 00:16:56,600
+Mexican literature and I felt like Mexican literature actually taught me a
+
+231
+00:16:56,600 --> 00:17:02,060
+lot more cultural aspects of Mexico for example then, then reading any history
+
+232
+00:17:02,060 --> 00:17:07,910
+book or journalism piece. I've always tried to be like an intimate
+
+233
+00:17:07,910 --> 00:17:11,450
+photographer and I've always felt like the best way of
+
+234
+00:17:11,450 --> 00:17:17,120
+being true to my subjects or the people that I encountered was to try to become
+
+235
+00:17:17,120 --> 00:17:21,290
+very close to them. Which also poses like all kinds of issues because then as you
+
+236
+00:17:21,290 --> 00:17:25,790
+get deeper, you know these people become friends and those relationships change
+
+237
+00:17:25,790 --> 00:17:30,830
+and your objectivity changes and there's all kinds of like not real ideas about
+
+238
+00:17:30,830 --> 00:17:34,160
+the way journalism is supposed to work in the field. And when you're doing
+
+239
+00:17:34,160 --> 00:17:38,840
+projects that hopefully are more profound or deeper, you're gonna run into
+
+240
+00:17:38,840 --> 00:17:43,700
+all of these ethical quote-unquote ethical issues and that was kind of one
+
+241
+00:17:43,700 --> 00:17:47,780
+of the reasons I'd like to work with fiction is that you just don't have all
+
+242
+00:17:47,780 --> 00:17:54,020
+that shit to deal with. In a way, because you're not tied down by these rules that
+
+243
+00:17:54,020 --> 00:17:58,130
+we've designed for ourselves, quite frankly in a market, in a time that was
+
+244
+00:17:58,130 --> 00:18:02,690
+very different than we're living in now, you're almost able to tell a truer story
+
+245
+00:18:02,690 --> 00:18:07,580
+in a kind of weird way. You get into some tricky territory here because it's also
+
+246
+00:18:07,580 --> 00:18:11,150
+not to say that they're not worth telling, right, because those stories
+
+247
+00:18:11,150 --> 00:18:14,630
+are worth telling and there are obviously conflicts around the world and
+
+248
+00:18:14,630 --> 00:18:17,780
+there's these like darker sides of humanity that are very important and
+
+249
+00:18:17,780 --> 00:18:21,980
+it's always like how do you tell those and have representation and then how
+
+250
+00:18:21,980 --> 00:18:25,700
+does that representation fair? And the way I dealt with that previously was
+
+251
+00:18:25,700 --> 00:18:28,520
+just should become very close to the subjects that I photographed and like
+
+252
+00:18:28,520 --> 00:18:32,020
+sticking around for a long time and trying not to do like the quote-unquote
+
+253
+00:18:32,020 --> 00:18:36,710
+parachute journalism. But then you're also confronted with this issue once you
+
+254
+00:18:36,710 --> 00:18:40,430
+spend you know multiple years photographing the same folks over and
+
+255
+00:18:40,430 --> 00:18:44,090
+over again, it's like you have like a wealth of knowledge and information that
+
+256
+00:18:44,090 --> 00:18:48,740
+you just can't distill into a tiny little photo essay on a slideshow.
+
+257
+00:18:48,740 --> 00:18:57,200
+When you're doing these stories, people trust you and and you trust them and that's a
+
+258
+00:18:57,200 --> 00:19:01,520
+big responsibility, I mean, I think that, for example, if you're talking to
+
+259
+00:19:01,520 --> 00:19:05,750
+somebody who has committed a crime and they're being very open with you about
+
+260
+00:19:05,750 --> 00:19:09,110
+it and they might not necessarily understand where the story is going to be
+
+261
+00:19:09,110 --> 00:19:13,880
+published or run, or whatever, it can be a difficult ethical conundrum, right,
+
+262
+00:19:13,880 --> 00:19:17,420
+because you could get this person kill, you could get this person arrested,
+
+263
+00:19:17,420 --> 00:19:21,170
+maybe the circumstances of the crime that they committed are very grey and
+
+264
+00:19:21,170 --> 00:19:25,510
+it's not such an easy thing. And that's actually a perfect example of a place
+
+265
+00:19:25,510 --> 00:19:31,960
+where fiction gives you, creates latitude. Another good example is violence against
+
+266
+00:19:31,960 --> 00:19:36,040
+women, kidnapping and killing of women. And this is a phenomenon that's been
+
+267
+00:19:36,040 --> 00:19:40,510
+going on in what has been famous for it since the 90s and it's been part of the
+
+268
+00:19:40,510 --> 00:19:44,350
+sort of pop narrative of what is, but there was a lot of questions about what
+
+269
+00:19:44,350 --> 00:19:48,880
+actually happened to a lot of these girls and I covered it one of the first
+
+270
+00:19:48,880 --> 00:19:54,700
+open court hearings where they had just implemented this new oral testimony into
+
+271
+00:19:54,700 --> 00:19:59,560
+the Mexican court system in Chihuahua, it was the first state to do it. So I went
+
+272
+00:19:59,560 --> 00:20:08,680
+to a lot of these hearings and listened to the testimony of these folks who did
+
+273
+00:20:08,680 --> 00:20:13,750
+the investigation, I was able to tie in some of the details about what happened
+
+274
+00:20:13,750 --> 00:20:19,390
+to these girls into the fiction story of a character that I invented, based on
+
+275
+00:20:19,390 --> 00:20:23,620
+reality, you know, there's you know where they went, what they ate, how long they
+
+276
+00:20:23,620 --> 00:20:27,190
+spent, bare what happened to them afterwards, the fact that they were in
+
+277
+00:20:27,190 --> 00:20:31,360
+hotels or whatever. These sort of details that I got as a journalist, you know,
+
+278
+00:20:31,360 --> 00:20:36,070
+listening to this but then to tell a story of a person and try, to try to make
+
+279
+00:20:36,070 --> 00:20:42,040
+that human. [Stephen] He also, in his photography, began introducing peripheral elements,
+
+280
+00:20:42,040 --> 00:20:46,210
+little details about personal lives, which place these people as individuals,
+
+281
+00:20:46,210 --> 00:20:52,390
+and from that position allows the viewer to really identify in extraordinary ways.
+
+282
+00:20:52,390 --> 00:20:56,800
+It's one of the strange contradictions, is that the more specific you make a
+
+283
+00:20:56,800 --> 00:21:00,970
+photograph, the more people understand it. And that the problem is that if you try
+
+284
+00:21:00,970 --> 00:21:05,650
+to, if you try to create a generic general view of something, nobody
+
+285
+00:21:05,650 --> 00:21:09,400
+recognizes it, cannot, none of us none of us is generic, you know, we all have live,
+
+286
+00:21:09,400 --> 00:21:14,020
+we all live specific lives and we don't recognize the generic because it doesn't
+
+287
+00:21:14,020 --> 00:21:18,280
+exist in our lives, what we do recognize is the detail and, you know, I recognized
+
+288
+00:21:18,280 --> 00:21:22,390
+the place of detail in people's lives and so the more specific you become, and
+
+289
+00:21:22,390 --> 00:21:27,560
+the more details you include, in point of fact, the more believable the, the story becomes.
+
+290
+00:21:27,560 --> 00:21:32,220
+This sounds kind of contradictory because we expect more detail would
+
+291
+00:21:32,230 --> 00:21:36,010
+separate people but it does quite the opposite, that brings us in and it gives
+
+292
+00:21:36,010 --> 00:21:39,220
+us a point of reference we then allows us to fill in the rest of
+
+293
+00:21:39,220 --> 00:21:43,120
+the story. [Dominic ] One of the most privileged things that we have as journalists,
+
+294
+00:21:43,120 --> 00:21:46,510
+working in the field, is that we get to know the world from lots of different
+
+295
+00:21:46,510 --> 00:21:54,340
+perspectives and understand people in a way that I don't think the average
+
+296
+00:21:54,340 --> 00:21:58,480
+person on the street really gets to feel, because they just don't have that many
+
+297
+00:21:58,480 --> 00:22:04,809
+personal interactions with people from different classes, races, societies than
+
+298
+00:22:04,809 --> 00:22:09,580
+maybe a journalist does. Which is cool about fiction is that you can kind of go after
+
+299
+00:22:09,580 --> 00:22:16,300
+everyone equally, you can throw in the sort of sexism, machismo and the
+
+300
+00:22:16,300 --> 00:22:20,440
+racial slurs that people use and you can also like, try to create a character that
+
+301
+00:22:20,440 --> 00:22:23,920
+people like, that uses all those things and then all of a sudden you just feel
+
+302
+00:22:23,920 --> 00:22:28,360
+like a very confused and, I find that great uncomfortable space to be like a
+
+303
+00:22:28,360 --> 00:22:34,450
+really fun way to start conversations about culture. The drawback is obvious
+
+304
+00:22:34,450 --> 00:22:41,290
+and that you can create
+misunderstandings or you run the risk of
+
+305
+00:22:41,290 --> 00:22:46,210
+misrepresenting something but I think that you run that same risk as a
+
+306
+00:22:46,210 --> 00:22:50,290
+journalist. It may be even more because like when you're doing it as a
+
+307
+00:22:50,290 --> 00:22:53,620
+journalist, you know, if you're quoting someone I mean everybody who's ever been
+
+308
+00:22:53,620 --> 00:22:56,950
+quoted always feels a little bit like an ass afterwards because they're like, wait
+
+309
+00:22:56,950 --> 00:23:01,090
+a minute, I felt, you know, we're having a whole conversation that you know brief
+
+310
+00:23:01,090 --> 00:23:06,730
+moment of what I said or, you know, has become the definition of who I am to
+
+311
+00:23:06,730 --> 00:23:11,530
+this writer. But, in fiction, you can interview somebody and then you can use
+
+312
+00:23:11,530 --> 00:23:16,660
+like, the fact that security guards and, and the prison, like, all really like to
+
+313
+00:23:16,660 --> 00:23:22,360
+eat Polish sausages on Sundays or whatever, those are like real like details,
+
+314
+00:23:22,360 --> 00:23:25,300
+I'm not creative enough to make up but that are even better because they're
+
+315
+00:23:25,340 --> 00:23:30,250
+real. Fiction also had ability to obviously blockbuster skill to move a
+
+316
+00:23:30,250 --> 00:23:34,740
+lot of people but it also has an ability to move people in a way that sometimes,
+
+317
+00:23:34,740 --> 00:23:40,660
+sometimes we can't necessarily do as strictly documentary.
+
+318
+00:23:40,660 --> 00:23:45,880
+(Stephen) Interestingly again, another contradiction is that by creating your fictionalized or
+
+319
+00:23:45,880 --> 00:23:51,340
+embellished representation of that person's life in a non documentary form,
+
+320
+00:23:51,340 --> 00:23:56,340
+we can actually generate a greater
+trust. (Suzan) Of course there's a big difference
+
+321
+00:23:56,340 --> 00:24:01,840
+between fiction and untruth. Fiction can be in fact a kind of truth, a very
+
+322
+00:24:01,840 --> 00:24:06,910
+illuminating kind of truth. Fiction is not a form of lying, the Tim
+
+323
+00:24:06,910 --> 00:24:11,620
+Hetherington piece which I found very moving and very powerful, I don't know if
+
+324
+00:24:11,620 --> 00:24:20,100
+I would exactly call that fiction. (Stephen) Abstracting it into a fictional place
+
+325
+00:24:20,100 --> 00:24:27,159
+makes it, it makes it a) real because we can talk about details and things which
+
+326
+00:24:27,159 --> 00:24:31,780
+going on in all our lives, it makes it safe for the subject and it makes it
+
+327
+00:24:31,780 --> 00:24:35,470
+credible for the the viewer and in all of that there's a number of
+
+328
+00:24:35,470 --> 00:24:40,000
+contradictions but it all needs the same thing which is, through fiction one can
+
+329
+00:24:40,000 --> 00:24:46,570
+create deeper truth. Of course, the, the core here is to display where you're
+
+330
+00:24:46,570 --> 00:24:51,700
+coming from, that to create a fiction and pass that off as fact would be a
+
+331
+00:24:51,700 --> 00:24:56,350
+misrepresentation. But to say I went to
+this situation and I understood what's
+
+332
+00:24:56,350 --> 00:25:01,120
+happening and here's what I saw, here's
+what I understood, I I think takes us to
+
+333
+00:25:01,120 --> 00:25:05,140
+a much richer place. And I've talked elsewhere and often about Martha
+
+334
+00:25:05,140 --> 00:25:10,000
+Gellhorn who was working as a journalist in the 1930s, covering the Great
+
+335
+00:25:10,000 --> 00:25:16,919
+Depression and she eventually reported her, her experiences in the dust bowls of
+
+336
+00:25:16,919 --> 00:25:21,970
+of America during the Depression in the series of short novels. Having read those
+
+337
+00:25:21,970 --> 00:25:26,710
+novels, I now have a deeper understanding of what happened then, then I have had
+
+338
+00:25:26,710 --> 00:25:30,130
+from all the statistics I read, all the history books which tell me the facts of
+
+339
+00:25:30,130 --> 00:25:34,299
+what happened, through Martha Gellhorn I understand why people behave like that,
+
+340
+00:25:34,299 --> 00:25:39,250
+what pressures were on them, what, what emotional drivers put them in positions
+
+341
+00:25:39,250 --> 00:25:45,640
+or forced them to work in certain ways. And so you know, the fiction can lead to
+
+342
+00:25:45,640 --> 00:25:47,980
+a greater truth. Gellhorn didn't present those fictions
+
+343
+00:25:47,980 --> 00:25:51,940
+as a newspaper articles, she said these are novels based on my experience.
+
+344
+00:25:51,940 --> 00:25:56,980
+(Suzan) A lot of her journalism reads like short stories because she's employing a lot,
+
+345
+00:25:56,980 --> 00:26:04,269
+a lot, a lot of fictional techniques; character, interior, monologue,
+
+346
+00:26:04,269 --> 00:26:10,850
+conversation, I don't think that she was making things up, but they really read
+
+347
+00:26:10,850 --> 00:26:16,730
+like little short stories. (Stephen) And so context is key, and as with Dominic you know here
+
+348
+00:26:16,730 --> 00:26:20,929
+is a stage play, it's not a transcript of conversation, it's my interpretation of
+
+349
+00:26:20,929 --> 00:26:25,009
+all the conversations I've been part of, all the things I've witnessed, so I think
+
+350
+00:26:25,009 --> 00:26:29,570
+that you know, declaring your position is fundamental to all of this.
+
+351
+00:26:29,570 --> 00:26:33,470
+It comes back by the way to the notion of, you know, the integrity of the
+
+352
+00:26:33,470 --> 00:26:36,500
+photographer of, you know, the more exposed we are these days, we're no
+
+353
+00:26:36,500 --> 00:26:41,000
+longer able to hide behind other people and other production agencies, you know,
+
+354
+00:26:41,000 --> 00:26:45,289
+we are representing our version of the world, we have to stand behind that,
+
+355
+00:26:45,289 --> 00:26:51,110
+therefore identifying ourselves, not only it generates, if you like, market value for who
+
+356
+00:26:51,110 --> 00:26:57,289
+we are, it also generates, you know, documentary value, it, it gives us
+
+357
+00:26:57,289 --> 00:27:02,809
+credibility as reporters and it's that, that honesty is really core, and one
+
+358
+00:27:02,809 --> 00:27:06,950
+shouldn't be shy of it, one should embrace it. (Jonathan) This set of interviews set
+
+359
+00:27:06,950 --> 00:27:10,220
+out to address the theme of fiction in storytelling and in doing so, the
+
+360
+00:27:10,220 --> 00:27:14,059
+participants really dug into the nature of photography itself, they're talking
+
+361
+00:27:14,059 --> 00:27:17,389
+about this thing we refer to as photography as having shifted and
+
+362
+00:27:17,389 --> 00:27:22,460
+changed. Steven says that this change doesn't negate photography's evidential
+
+363
+00:27:22,460 --> 00:27:27,259
+history, but the flow of Instagram adds an experiential quality, a coded one,
+
+364
+00:27:27,259 --> 00:27:32,389
+where the message of the image isn't necessarily what it depicts. The language
+
+365
+00:27:32,389 --> 00:27:37,429
+of Instagram may denote one thing but the connotation is quite another. Just as
+
+366
+00:27:37,429 --> 00:27:41,210
+when we look at a picture of a heart, we know it denotes an internal organ but
+
+367
+00:27:41,210 --> 00:27:44,269
+the fairly universal connotation is one of love or endearment.
+
+368
+00:27:44,269 --> 00:27:49,980
+The Instagram food image is not necessarily a nutritional message.
+
+369
+00:27:49,980 --> 00:27:53,860
+Suzie talks of a need to address new and bewildering situations that require new
+
+370
+00:27:53,870 --> 00:27:57,679
+ways of storytelling and we might argue that as Stephen intimates??? they're already
+
+371
+00:27:57,679 --> 00:28:01,580
+here, we already know that the image of food shared is not just a record of our
+
+372
+00:28:01,580 --> 00:28:06,470
+diet. As Steven says social media is a feedback machine that invites engagement.
+
+373
+00:28:06,470 --> 00:28:10,820
+The airport shared lunch is the beginning of a conversation, not the end.
+
+374
+00:28:10,820 --> 00:28:13,940
+For many people this is going to be stating the obvious, of course it's not
+
+375
+00:28:13,940 --> 00:28:17,419
+about food, just like the disappearing selfies of snapchat are not meant as
+
+376
+00:28:17,419 --> 00:28:19,470
+record what I look like for future posterity.
+
+377
+00:28:19,470 --> 00:28:24,000
+For those people this might feel like a non-issue, which puts me in mind of
+
+378
+00:28:24,000 --> 00:28:27,480
+something the Canadian philosopher Marshall McLuhan once said: 'We don't know
+
+379
+00:28:27,480 --> 00:28:32,250
+who discovered the water, but we know it wasn't the fish. In other words, one
+
+380
+00:28:32,250 --> 00:28:37,290
+cannot understand wet if one has never been dry. Many people listening to this
+
+381
+00:28:37,290 --> 00:28:41,100
+will not have known a time before digital photography and social media,
+
+382
+00:28:41,100 --> 00:28:45,050
+a time where the published photograph did not invite a response from the audience.
+
+383
+00:28:45,050 --> 00:28:49,650
+But for those who do remember and who are bewildered, McLuhan had another
+
+384
+00:28:49,650 --> 00:28:52,920
+message. He said that anxiety is in great part
+
+385
+00:28:52,920 --> 00:28:56,730
+the result of trying to do today's jobs with yesterday's tools, with
+
+386
+00:28:56,730 --> 00:29:00,840
+yesterday's concepts. So in this ranging series of interviews and you should
+
+387
+00:29:00,840 --> 00:29:05,280
+investigate the extended individual recordings, Stephen and Susie begin by
+
+388
+00:29:05,280 --> 00:29:09,180
+discussing the ways the images are experienced through social media, what
+
+389
+00:29:09,180 --> 00:29:14,060
+that means for us as consumers and what that might afford us as producers.
+
+390
+00:29:14,060 --> 00:29:17,850
+Stephen introduces us to the work of Martha Gellhorn, Tim Hetherington
+
+391
+00:29:17,850 --> 00:29:22,050
+and Dominic Bracco who in turn invites us not to be tied down by rules that
+
+392
+00:29:22,050 --> 00:29:25,800
+we've designed for ourselves in a market and time that was very different to the
+
+393
+00:29:25,800 --> 00:29:31,080
+one we're living in now. They show us how consolidating a wealth of factual
+
+394
+00:29:31,080 --> 00:29:36,450
+experience, within fictional narratives was and is a useful and appropriate
+
+395
+00:29:36,450 --> 00:29:41,010
+device for the visual storyteller. Not everyone is going to agree, the use of
+
+396
+00:29:41,010 --> 00:29:45,240
+stock photographs in news is a related issue and it's a polarizing one, but
+
+397
+00:29:45,240 --> 00:29:48,930
+there are strong arguments on either side. The deep dive interview with Guy
+
+398
+00:29:48,930 --> 00:29:53,130
+Martin is particularly pertinent to this session, it builds on some of those
+
+399
+00:29:53,130 --> 00:29:56,880
+themes from a unique perspective coming as it does from someone whose path drew
+
+400
+00:29:56,880 --> 00:30:01,020
+very close to Tim's. Guy set the task for this session and listening to his
+
+401
+00:30:01,020 --> 00:30:04,860
+interview helps us to think about fiction in a more nuanced way. He pushes
+
+402
+00:30:04,860 --> 00:30:07,740
+us to think more deeply about some of the more performative relationships
+
+403
+00:30:07,740 --> 00:30:12,090
+between the photographer and the subject and also to reflect on how the tropes of
+
+404
+00:30:12,090 --> 00:30:16,350
+popular culture could become lenses through which we both perceive and as
+
+405
+00:30:16,350 --> 00:30:21,120
+photographers describe the world. Don't forget to investigate the class notes,
+
+406
+00:30:21,120 --> 00:30:24,630
+see why particular parts of the conversation are being responded to and
+
+407
+00:30:24,630 --> 00:30:28,680
+by whom, reach out and connect with people and where possible support those
+
+408
+00:30:28,680 --> 00:30:31,410
+who can't get into a roomful of fellow students.
+
+409
+00:30:31,410 --> 00:30:36,120
+My name is Jonathan Worth and you can connect with me via Twitter at Jonathan
+
+410
+00:30:36,120 --> 00:30:39,350
+underscore Worth.
+

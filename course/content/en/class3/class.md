@@ -8,5 +8,6 @@ audio:
   - L3-8k.ogg
 description: >-
  TBC
-duration: 30
+duration: 1839
+transcript: transcripts/liveclass-transcript.json
 ---

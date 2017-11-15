@@ -8,5 +8,6 @@ audio:
   - L1-22k.ogg
 description: >-
  TBC
-duration: 30
+duration: 1715
+transcript: transcripts/liveclass-transcript.json
 ---
