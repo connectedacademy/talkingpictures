@@ -14,17 +14,17 @@ thumbnails:
     image: >-
       https://talkingpictures.connectedacademy.io/course/content/media/small/week5-example2.jpg
     link: /markdown/class5%2Fexamples%2Fexample-2.md
-    caption: 2017
+    caption: 2016
   '3':
     image: >-
       https://talkingpictures.connectedacademy.io/course/content/media/small/week5-example3.jpg
     link: /markdown/class5%2Fexamples%2Fexample-3.md
-    caption: 2017
+    caption: 2016
   '4':
     image: >-
       https://talkingpictures.connectedacademy.io/course/content/media/small/week5-example4.jpg
     link: /markdown/class5%2Fexamples%2Fexample-4.md
-    caption: 2001
+    caption: 2016
   
 description: >-
   The World Press Photo Foundation Archive contains over sixty years of iconic
