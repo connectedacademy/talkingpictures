@@ -8,7 +8,7 @@ title: 'Françoise Demulder, 1977'
 
 Caption TBC
 
-<img src="{{site.baseurl}}/course/content/media/medium/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
+<img src="{{site.baseurl}}/course/content/media/large/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
 
 
 <script type="text/json" data-4c-meta="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620">
