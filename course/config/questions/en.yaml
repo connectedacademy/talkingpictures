@@ -1,37 +1,37 @@
 registration:
   -
-    id: 1
+    id: registration-1
     text: What kind of lecture style do you prefer?
     response_type: scale
     response_min: Traditional Lectures
     response_max: Online Learning
   -
-    id: 2
+    id: registration-2
     text: What kind of learning environment do you prefer?
     response_type: scale
     response_min: Expert-led
     response_max: Discussion based
   - 
-    id: 3
+    id: registration-3
     text: How often do you usually make notes when studying?
     response_type: scale
     response_min: Never
     response_max: Always
   -
-    id: 4
+    id: registration-4
     text:  How do you normally take notes?
     response_type: multi
     response_options:
       - Pen and paper
       - Electronically
   -
-    id: 5
+    id: registration-5
     text: How often do you share notes with others?
     response_type: scale
     response_min: Never
     response_max: Always
   -
-    id: 6
+    id: registration-6
     text: How do you engage with online videos/podcasts?
     response_type: multi
     response_options:
@@ -39,7 +39,7 @@ registration:
       - Discuss
       - Neither
   -
-    id: 7
+    id: registration-7
     text:  Would you be interested in a certificate of participation?
     response_type: multi
     response_options:
@@ -47,66 +47,163 @@ registration:
       - Yes (with grade)
       - Nope
 during:
-
-  firstpost:
-    -
-      id: 8
-      text: Which services, if any, do you share pictures on and are you aware of who owns the rights images once posted?
-      response_type: text
-    - 
-      id: 9
-      text: Do you know what a Creative Commons Copyright License is?
-      response_type: text
-    -
-      id: 10
-      text: How often do you do further research around an image or the story to which it relates?
-      response_type: scale
-      response_min: Never
-      response_max: Always
   firstsubmission:
+    -
+      id: firstsubmission-1
+      text: Which service do you use to share pictures? Who owns the rights to the images you post?
+      response_type: text
     - 
-      id: 11
+      id: firstsubmission-2
+      text: Which copyright license do you normally use?
+      response_type: multi
+      response_options:
+        - None
+        - Depends
+        - All rights reserved
+        - CC BY
+        - CC BY-SA
+        - CC BY-ND
+        - CC BY-NC
+        - CC BY-NC-SA
+        - CC BY-NC-ND
+    -
+      id: firstsubmission-3
+      text: How often do you do further research around an image or the story to which it relates?
+      response_type: text
+      response_options:
+        - Never
+        - Sometimes
+        - Usually
+        - Always
+    - 
+      id: firstsubmission-4
       text: How often do you include descriptive captions with your images?
       response_type: scale
       response_min: Never
       response_max: Always
-    -
-      id: 12
-      text: How often have you contributed to a shared online document, such as a Google Doc?
-      response_type: scale
-      response_min: Never
-      response_max: Everyday
-    -
-      id: 13
-      text: Prior to this course, have you engaged in live online discussion around an event?
-      response_type: text
-      response_placeholder: (radio show, tv program, sports event or webinar)
-    - 
-      id: 14
-      text: How many online courses have you taken?
-      response_type: scale
 
+  firstengagement:
+    -
+      id: firstengagement-1
+      text: How often do you watch/listen to any kind of video/podcast online?
+      response_type: multi
+      response_options:
+        - Never
+        - Once a year
+        - Once a month
+        - Every week
+        - Everyday
+    - 
+      id: firstengagement-2
+      text: Do you know what a Creative Commons Copyright License is?
+      response_type: text
 
 post:
   -
-    id: 18
-    text: How long did you take to listen to this class?
+    id: post-1
+    text: How was your experience taking the course?
     response_type: scale
+    response_min: Terrible
+    response_max: Excellent
   -
-    id: 15
-    text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
+    id: post-2
+    text: What kind of learning environment do you prefer?
+    response_type: scale
+    response_min: Expert-led
+    response_max: Discussion based
+  -
+    id: post-3
+    text: How did enaging with the class "live" compare to revisiting it later? Which approach offers the best learning experience?
+    response_type: text
+  -
+    id: post-4
+    text: On avereage, how much time do you think you spent on the interviews? Was there enough time to listen to the interview?
+    response_type: text
+  -
+    id: post-5
+    text: How did you take notes/comment during the course?
     response_type: multi
     response_options:
-      - Graded
-      - Assignment based
-  - 
-    id: 16
-    text: Would you be interested in a certificate of attendance?
-    response_type: boolean
-  - 
-    id: 17
-    text: Would you prefer if that certificate were graded?
-    response_type: boolean
+      - Written (paper)
+      - Online (here)
+      - Online (elsewhere)
+      - None
+  -
+    id: post-6
+    text: Did you revise or reflect on your notes?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-7
+    text: When researching, did you use other people's notes and external sources to augment your own?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-8
+    text: Did you revist your original FourCorners submission and change it? Did you submit a new image?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-9
+    text: Did you access extra learning resources?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-10
+    text: Did you access resources linked from your session?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-11
+    text: Did you access other additional resources not directly linked from your session?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-12
+    text: If applicable, did the learning resources affect your decision to resubmit?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+      - N/A
+  -
+    id: post-13
+    text: Did you tune into the live webinars? How was your experience?
+    response_type: text
+  -
+    id: post-14
+    text: Would you still complete the course if there was no certification?
+    response_type: multi
+    response_options:
+      - Yes
+      - No
+  -
+    id: post-15
+    text: Which copyright license do you normally use?
+    response_type: multi
+    response_options:
+      - None
+      - Depends
+      - All rights reserved
+      - CC BY
+      - CC BY-SA
+      - CC BY-ND
+      - CC BY-NC
+      - CC BY-NC-SA
+      - CC BY-NC-ND
+
 
 release: >-
   Please read these terms of use carefully before using the services offered by University of Newcastle Upon Tyne (&quot;Newcastle University&quot;, &quot;University of Newcastle Upon Tyne&quot;, &quot;we&quot;, &quot;us&quot;). These terms of use set forth the legally binding terms and conditions for your use of the website at https://connectedacademy.io (the &quot;Service&quot;) and the services, features, content, applications or widgets offered by Newcastle University (collectively with the Service, the &quot;Service&quot;).

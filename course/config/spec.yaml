@@ -272,6 +272,6 @@ classes:
         url: review.md
         slug: review
       -
-        url: certificate.md
-        slug: certificate
+        url: survey.md
+        slug: survey
 
