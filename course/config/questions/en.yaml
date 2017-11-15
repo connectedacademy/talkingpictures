@@ -85,27 +85,28 @@ during:
       id: 14
       text: How many online courses have you taken?
       response_type: scale
-    -
-      id: 15
-      text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
-      response_type: multi
-      response_options:
-        - Graded
-        - Assignment based
-    - 
-      id: 16
-      text: Would you be interested in a certificate of attendance?
-      response_type: boolean
-    - 
-      id: 17
-      text: Would you prefer if that certificate were graded?
-      response_type: boolean
+
 
 post:
   -
     id: 18
     text: How long did you take to listen to this class?
     response_type: scale
+  -
+    id: 15
+    text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
+    response_type: multi
+    response_options:
+      - Graded
+      - Assignment based
+  - 
+    id: 16
+    text: Would you be interested in a certificate of attendance?
+    response_type: boolean
+  - 
+    id: 17
+    text: Would you prefer if that certificate were graded?
+    response_type: boolean
 
 release: >-
   Please read these terms of use carefully before using the services offered by University of Newcastle Upon Tyne (&quot;Newcastle University&quot;, &quot;University of Newcastle Upon Tyne&quot;, &quot;we&quot;, &quot;us&quot;). These terms of use set forth the legally binding terms and conditions for your use of the website at https://connectedacademy.io (the &quot;Service&quot;) and the services, features, content, applications or widgets offered by Newcastle University (collectively with the Service, the &quot;Service&quot;).
