@@ -31,6 +31,7 @@ else
     cp ~/connectedacademy/branding/images/* /repos/elevator/src/assets/images/
     cp ~/connectedacademy/branding/fonts/* /repos/elevator/src/assets/fonts/
     cp ~/connectedacademy/branding/components/* /repos/elevator/src/components/
+    cp ~/connectedacademy/branding/static/* /repos/elevator/static/
 
     cd /repos/elevator
     npm i --silent
