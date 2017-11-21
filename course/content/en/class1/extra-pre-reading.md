@@ -38,5 +38,5 @@ description: >-
   meta-date to historical images. Below are images that span the entire archive.
   Each has been reimagined as a 4C image, though instead of the frames before
   and after, we have included contemporaneous and subject-related images. For
-  the codes of ethics we have instead substituted the competition rules
+  the codes of ethics we have substituted the competition rules
 ---
