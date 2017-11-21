@@ -6,7 +6,7 @@ expectsubmission: false
 title: Extended Content
 description: >-
   Access the extended versions of the
-  interviews.@[bio](Aida-Geadah|{{site.baseurl}}/course/content/media/thumb/Aida-Geadah.jpg)
+  interviews({{site.baseurl}}/course/content/media/Imm-Aziz07.jpg)
 ---
 Here you can access the original extended interviews individually.
 
