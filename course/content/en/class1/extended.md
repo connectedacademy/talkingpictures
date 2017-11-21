@@ -4,7 +4,9 @@ content_type: postclass
 optional: true
 expectsubmission: false
 title: Extended Content
-description: Access the extended versions of the interviews.
+description: >-
+  Access the extended versions of the
+  interviews.@[bio](Aida-Geadah|{{site.baseurl}}/course/content/media/thumb/Aida-Geadah.jpg)
 ---
 Here you can access the original extended interviews individually.
 
