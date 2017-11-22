@@ -2,7 +2,7 @@
 published: true
 content_type: pre
 optional: false
-title: TBC
+title: Interpretation
 expectsubmission: false
 description: >-
   “I didn’t know they cried when they saw the photographs” Photographer Isadora
