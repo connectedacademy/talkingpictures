@@ -32,11 +32,10 @@ thumbnails:
     caption: 2000s
 description: >-
   The World Press Photo Foundation Archive contains over sixty years of iconic
-  images. We have selected photographs from each decade that relate to the
-  issues being covered in the session, and reimagined them as Four Corners
-  Images. It is an example of how 4C can be creatively adapted to add rich
-  meta-date to historical images. Below are images that span the entire archive.
-  Each has been reimagined as a 4C image, though instead of the frames before
-  and after, we have included contemporaneous and subject-related images. For
-  the codes of ethics we have substituted the competition rules
+  images. We have selected photographs that relate in osme way to the issues
+  being covered in the session, and reimagined them as Four Corners Images. It
+  is an example of how 4C can be creatively adapted to add rich meta-date to
+  historical images. Instead of the frames before and after, we have included
+  contemporaneous and subject-related images. For the codes of ethics we have
+  substituted the World Press Photo Foundation Competition rules.
 ---
