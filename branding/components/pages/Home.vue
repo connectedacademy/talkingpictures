@@ -40,8 +40,8 @@
       .abstract-background
       .fixed-width
         .tile.padded-tile.darkest-grey-tile
-          h1 Future Learning
-          p Experience a new learning experience
+          h1 About the Course
+          p ‘Talking Pictures’ is World Press Photo Foundation’s first fully inclusive course in critical visual storytelling. It addresses this moment of digital disruption. A moment where the roles of the 21st century photographer, the post-digital subject and the social-media audience are being redefined. It recreates and explores some of those tensions through a series of edited conversations with photographers, their subjects, people representing the audience and a series of socio-historical experts.
 
     .row#stats-row
       .fixed-width
