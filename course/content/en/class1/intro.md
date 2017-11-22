@@ -6,7 +6,7 @@ title: Introduction
 description: >-
   When everyone has the means to make and publish photographic images, what
   makes some stories more believable than others? What makes some photographers
-  more believable than others? Welcome to The Owlrd Press Photo Foundation's
+  more believable than others? Welcome to The Wolrd Press Photo Foundation's
   **Talking Pictures**, a new kind of photography course where photographers,
   their subjects and audiences come together. This week sees Lebanese
   photographer Dalia Khamissy re-united with some of the subjects from her
