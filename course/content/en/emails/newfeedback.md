@@ -8,10 +8,11 @@ Hi {{user}}!
 
 There is a new piece of feedback in a discussion you are having in Connected Academy.
 
-Visit http://talkingpictures.connectedacademy.io/#/feedback/{{id}} to continue the conversation.
+Visit http://talkingpictures.connectedacademy.io/#/feedback/browse/{{class}}/{{content}}/{{id}} to continue the conversation.
 
 Yours,
 
 Jonathan at Connected Academy
+
 ----
 _This email was generated automatially at {{date}}_

@@ -12,7 +12,7 @@ We encourage you to visit the area where you can submit your work, and provide f
 
 To make sure everyone gets a chance for feedback, you will have to provide feedback on other work to unlock the feedback on yours.
 
-https://talkingpictures.connectedacademy.io
+https://talkingpictures.connectedacademy.io/#/feedback/browse/{{class}}/{{content}}
 
 Happy discussions!
 
