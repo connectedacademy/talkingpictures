@@ -27,11 +27,11 @@ then
     echo "Using Stock colors"
 else
     echo "Using Brand customisation"
-    cp ~/connectedacademy/branding/stylus/* /repos/elevator/src/assets/stylus/buildvariant/
-    cp ~/connectedacademy/branding/images/* /repos/elevator/src/assets/images/
-    cp ~/connectedacademy/branding/fonts/* /repos/elevator/src/assets/fonts/
-    cp ~/connectedacademy/branding/components/* /repos/elevator/src/components/
-    cp ~/connectedacademy/branding/static/* /repos/elevator/static/
+    cp -R ~/connectedacademy/branding/stylus/* /repos/elevator/src/assets/stylus/buildvariant/
+    cp -R ~/connectedacademy/branding/images/* /repos/elevator/src/assets/images/
+    cp -R ~/connectedacademy/branding/fonts/* /repos/elevator/src/assets/fonts/
+    cp -R ~/connectedacademy/branding/components/* /repos/elevator/src/components/
+    cp -R ~/connectedacademy/branding/static/* /repos/elevator/static/
 
     cd /repos/elevator
     npm i --silent
