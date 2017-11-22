@@ -6,8 +6,8 @@ title: Live Classroom
 audio:
   - L1-22k.mp3
   - L1-22k.ogg
-description: >-
- TBC
-duration: 1715
+description: Image by Isadora Kosofsky from "Life and Incarceration of a Family"
+duration: '1715'
 transcript: transcripts/liveclass-transcript.json
+expectsubmission: false
 ---
