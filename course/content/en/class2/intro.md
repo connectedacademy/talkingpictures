@@ -5,12 +5,20 @@ optional: false
 title: Interpretation
 expectsubmission: false
 description: >-
-  “I didn’t know they cried when they saw the photographs” Photographer Isadora
-  Kosofsky for this project. Welcome to The World Press Photo Foundation's
-  Talking Pictures, a new kind of photography course where photographers, their
-  subjects and audiences come together. This week sees US based Photographer
-  Isadora Kosofsky in conversation with subjects from her long term project
-  Vinny and David: Life and Incarceration of a Family
+  “I didn’t know they cried when they saw the photographs” - Photographer
+  Isadora Kosofsky for this project.
+
+  Welcome to The World Press Photo Foundation's Talking Pictures, a new kind of
+  photography course where photographers, their subjects and audiences come
+  together and invite you to join the conversation. This week sees US based
+  Photographer Isadora Kosofsky in conversation with subjects from her long term
+  project Vinny and David: Life and Incarceration of a Family.
+
+  @[bio](Isadora Kosofsky (@IsadoraKosofsky
+  )|{{site.baseurl}}/course/content/media/portraitik.jpg) Multiple award-winning
+  Los Angeles-based documentary photographer and filmmaker. Isadora takes an
+  immersive approach to
+  photojournalism.|https://www.instagram.com/daliakhamissy)
 ---
 ## Interpretation: Introduction
 
