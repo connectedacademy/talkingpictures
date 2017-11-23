@@ -64,7 +64,7 @@
         .tile.padded-tile.red-tile
           h1 Join the Course
           p The course is now available, dive in by clicking the button below.
-          router-link.button(v-bind:to="{ name: 'schedule' }") Course Schedule
+          router-link.button(v-bind:to="{ name: 'schedule' }") Get Started
 
 </template>
 
