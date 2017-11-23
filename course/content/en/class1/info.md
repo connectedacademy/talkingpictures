@@ -3,5 +3,9 @@ published: true
 content_type: title
 optional: false
 title: Evidence
-description: Learning about the role of evidence in telling your story
+description: >-
+  When everyone has the means to make and publish photographic images, what
+  makes some stories more believable than others? What makes some photographers
+  more believable than others?
+expectsubmission: false
 ---
