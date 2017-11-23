@@ -5,7 +5,6 @@ optional: false
 title: Evidence
 description: >-
   When everyone has the means to make and publish photographic images, what
-  makes some stories more believable than others? What makes some photographers
-  more believable than others?
+  makes some stories more believable than others?
 expectsubmission: false
 ---
