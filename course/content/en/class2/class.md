@@ -10,4 +10,5 @@ description: >-
  TBC
 duration: 1715
 transcript: transcripts/liveclass-transcript.json
+images: transcripts/liveclass-media.json
 ---
