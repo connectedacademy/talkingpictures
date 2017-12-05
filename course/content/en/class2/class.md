@@ -7,8 +7,9 @@ audio:
   - L1-22k.mp3
   - L1-22k.ogg
 description: >-
- TBC
-duration: 1715
+  Image by Isadora Kosofsky from "Vinny and David: Life and Incarceration of a
+  Family"
+duration: '1715'
 transcript: transcripts/liveclass-transcript.json
 images: transcripts/liveclass-media.json
 ---
