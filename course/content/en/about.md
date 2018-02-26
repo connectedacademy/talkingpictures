@@ -10,17 +10,14 @@ Connected Academy is an online, socially driven learning platform developed by a
 
 **“Talking Pictures”** is an open class in critical visual storytelling and a PhD research project. 
 
-The pedagogy has been designed by Jonathan Worth, Open Lab, Newcastle University, UK, and is run in association with
-- World Press Photo Foundation
-- ArtEZ University, the Netherlands
-- University of California Irvine, USA.
+The pedagogy has been designed by Jonathan Worth, Open Lab, Newcastle University, UK.
 
 The software and infrastructure was designed and provided by Open Lab, Newcastle University.
 
 > Find out more about how you can run your own course at http://connectedacademy.io
 
 
-**“Talking Pictures”** is designed, and run in association with the _World Press Photo Foundation_. The course to which it pertains is made up of seven classes which run every other week, these are accessible online and participation is free. Between the classes are webinar reviews where industry experts discuss the emergent themes and review the work people have submitted.
+**“Talking Pictures”** is made up of seven classes which run every other week, these are accessible online and participation is free. Between the classes are webinar reviews where industry experts discuss the emergent themes and review the work people have submitted.
 
 @[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/small/jw_by_gw-768x774.jpg|Jonathan is a Photographer, a National Teaching Fellow and Senior Research Associate at Newcastle University's Open Lab. He has worked for The New York Times, New Scientist magazine, The Guardian, Stern, Universal Music, Vogue and his work is on permanent collection at the National Portrait Gallery, London.|https://www.about.me/jonathan_worth)
  
