@@ -8,7 +8,7 @@ expectsubmission: false
 ---
 ### Welcome to the Connected Academy!
  
-**"Talking Pictures"** is an open course in critical visual storytelling. It is designed, and run in association with the _World Press Photo Foundation_. It is made up of seven classes which run every other week, these are accessible online and participation is free. Between the classes are webinar reviews where industry experts discuss some of the themes that have emerged and review some of the work that people have submitted.
+**"Talking Pictures"** is an open course in critical visual storytelling. It is made up of seven classes which run every other week, these are accessible online and participation is free. Between the classes are webinar reviews where industry experts discuss some of the themes that have emerged and review some of the work that people have submitted.
 
 @[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/jw_by_gw-768x774.jpg|Insert bio here|https://www.instagram.com/jonathan_worth)
 
