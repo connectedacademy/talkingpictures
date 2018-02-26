@@ -12,7 +12,7 @@ description: >-
   conversation. This week sees Lebanese photographer Dalia Khamissy re-united
   with some of the subjects from her long-term project on the families of people
   ‘forcibly-disappeared’ during the country’s civil war. @[bio](Dalia Khamissy
-  (@khamissy)|{{site.baseurl}}/course/content/media/Dalia_cropped.jpg|Born and
+  (@khamissy)|https://talkingpictures.connectedacademy.io/course/content/media/Dalia_cropped.jpg|Born and
   based in Beirut, Dalia Khamissy earned her diploma in photography from USEK,
   Lebanon in 1999.|https://www.instagram.com/daliakhamissy)
 expectsubmission: false
@@ -27,16 +27,16 @@ As we, the audience, listen, we should reflect on what moves us and interrogate 
 
 Other questions will appear in the transcript and you will have your own, please add them, your answers, your comments and your notes into the platform as you listen.
 
-@[bio](Benjamin Chesterton|{{site.baseurl}}/course/content/media/thumb/benjamin.jpg)
+@[bio](Benjamin Chesterton|https://talkingpictures.connectedacademy.io/course/content/media/thumb/benjamin.jpg)
 
-@[bio](Dalia Khamissy|{{site.baseurl}}/course/content/media/thumb/Dalia_cropped.jpg)
+@[bio](Dalia Khamissy|https://talkingpictures.connectedacademy.io/course/content/media/thumb/Dalia_cropped.jpg)
 
-@[bio](Lina-Geadah|{{site.baseurl}}/course/content/media/thumb/Lina-Geadah.jpg)
+@[bio](Lina-Geadah|https://talkingpictures.connectedacademy.io/course/content/media/thumb/Lina-Geadah.jpg)
 
-@[bio](Jeanette-Youssef|{{site.baseurl}}/course/content/media/thumb/Jeanette-Youssef.jpg)
+@[bio](Jeanette-Youssef|https://talkingpictures.connectedacademy.io/course/content/media/thumb/Jeanette-Youssef.jpg)
 
-@[bio](Aida-Geadah|{{site.baseurl}}/course/content/media/thumb/Aida-Geadah.jpg)
+@[bio](Aida-Geadah|https://talkingpictures.connectedacademy.io/course/content/media/thumb/Aida-Geadah.jpg)
 
-@[bio](Saree Makdis|{{site.baseurl}}/course/content/media/thumb/saree_cropped.jpg)
+@[bio](Saree Makdis|https://talkingpictures.connectedacademy.io/course/content/media/thumb/saree_cropped.jpg)
 
-@[bio](Jonathan Worth|{{site.baseurl}}/course/content/media/thumb/jw_by_gw-768x774.jpg)
+@[bio](Jonathan Worth|https://talkingpictures.connectedacademy.io/course/content/media/thumb/jw_by_gw-768x774.jpg)

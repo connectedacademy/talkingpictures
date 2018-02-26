@@ -14,7 +14,7 @@ description: >-
   and Incarceration of a Family.
 
   @[bio](Isadora Kosofsky (@IsadoraKosofsky
-  )|{{site.baseurl}}/course/content/media/portraitik.jpg) Multiple award-winning
+  )|https://talkingpictures.connectedacademy.io/course/content/media/portraitik.jpg) Multiple award-winning
   Los Angeles-based documentary photographer and filmmaker. Isadora takes an
   immersive approach to
   photojournalism.|https://www.instagram.com/daliakhamissy)
@@ -31,20 +31,20 @@ Together they invite us to ask questions of the work on different levels: what d
 
 These are starting points, other questions will appear in the transcript but please add your own and be sure to share your thoughts, comments and notes as you listen.
 
-@[bio][portraitik.jpg]({{site.baseurl}}/course/content/media/portraitik.jpg)
+@[bio][portraitik.jpg](https://talkingpictures.connectedacademy.io/course/content/media/portraitik.jpg)
 Isadora Kosofsky is a Los Angeles-based documentary photographer and filmmaker. She takes an immersive approach to photojournalism, working with her subjects for years. Her passion is to document American social issues from an intimate stance, particularly looking at the intersection of love and loss. She received the 2012 Inge Morath Award from the Magnum Foundation for her multi-series project on the romantic relationships of senior citizens. She was a participant in the 2014 Joop Swart Masterclass. Her work has received distinctions from the Magenta Foundation, PH Museum, Ian Parry Foundation, IAFOR, Lead Awards and others. Her work has been highlighted in The London Sunday Times Magazine, Slate, TIME, Washington Post, the New York Times, M le Magazine du Monde, VICE and many others. She was a speaker at the 2016 National Geographic Photography Seminar. Her images have been exhibited internationally and her work on juvenile incarceration will be shown at the 2017 Visa Pour L’Image Photojournalism Festival.
 
 Website: http://www.isadorakosofsky.com/
 Twitter: @IsadoraKosofsky
 Instagram: isadorakosofsky
 
-@[bio][isadorakosofsky06.jpg]({{site.baseurl}}/course/content/media/isadorakosofsky06.jpg)
+@[bio][isadorakosofsky06.jpg](https://talkingpictures.connectedacademy.io/course/content/media/isadorakosofsky06.jpg)
 Vinny, now age 18, was incarcerated at the age of 13 for stabbing the man who was assaulting his mother. After meeting Isadora Kosofsky at the juvenile detention center in Albuquerque, New Mexico, Vinny became the subject of her photo documentary entitled, “Vinny and David: Life and Incarceration of a Family,” which chronicles Vinny and his older brother, David’s, lives over 5 years. Vinny now lives in Albuquerque with his 15-month-old daughter, Jordyn, and his girlfriend, Krystle.
 
-@[bio][felicia.jpg]({{site.baseurl}}/course/content/media/felicia.jpg)
+@[bio][felicia.jpg](https://talkingpictures.connectedacademy.io/course/content/media/felicia.jpg)
 Felicia, age 24, is a subject of Isadora Kosofsky’s long-term photo series, “Vinny and David: Life and Incarceration of a Family.” Felicia is the former girlfriend of David whose life and incarceration is a main focus of the photo series. Felicia resides in Albuquerque with her two daughters, Lily and Mary Jane. 
 
-@[bio][m1rb6hOg.jpg]({{site.baseurl}}/course/content/media/m1rb6hOg.jpg)
+@[bio][m1rb6hOg.jpg](https://talkingpictures.connectedacademy.io/course/content/media/m1rb6hOg.jpg)
 Pete Brook is an independent writer and curator focused on prisons, photos and power. In 2008, he founded the website Prison Photography to bring together his research and writing. Pete’s work has been featured by The British Journal of Photography, The New York Times, Los Angeles Times, Vice and ACLU. Pete has curated exhibitions internationally, most recently Prison Obscura (2014 - 2016) which presented images of mass incarceration outside of the documentary tradition. His writing has been published by Aperture, The Atlantic, CNN, International Center for Photography, The Marshall Project, Medium, Time, Truthout and Wired.
 
 Website: https://prisonphotography.org/pete-brook/ 
@@ -52,7 +52,7 @@ Twitter: @brookpete
 Instagram: petebrook
 
 
-@[bio][_42P6075.jpeg]({{site.baseurl}}/course/content/media/_42P6075.jpeg)
+@[bio][_42P6075.jpeg](https://talkingpictures.connectedacademy.io/course/content/media/_42P6075.jpeg)
 Peter DiCampo is a documentary photographer whose goal is to contribute his work to a dialogue on international development and perceptions of Africa. He began his career as a Peace Corps Volunteer and a traditional photojournalist—now, his work seeks to deconstruct that experience. He is a co-founder of Everyday Africa, the Instagram-based project that has blossomed into a global phenomenon, and he is a regular speaker in classrooms and workshops on media stereotypes and the promotion of localized storytelling. He was among the first recipients of the Impact AFRICA grant in 2017 and was on the jury of the first Addis FotoFest Awards in 2016. 
 
 Website: http://www.peterdicampo.com/

@@ -6,7 +6,7 @@ expectsubmission: false
 title: Extended Content
 description: >-
   Access the extended versions of the interviews
-  ({{site.baseurl}}/course/content/media/Imm-Aziz07.jpg)
+  (https://talkingpictures.connectedacademy.io/course/content/media/Imm-Aziz07.jpg)
 ---
 Here you can access the original extended interviews individually.
 

@@ -9,6 +9,6 @@ expectsubmission: false
 ## 
 
 TBC
-![© Trea van Drunen.jpg]({{site.baseurl}}/course/content/media/© Trea van Drunen.jpg)
-![]({{site.baseurl}}/course/content/media/bracco_headshot.jpg)
-![susie.portrait2.bursa.ppg.jpg]({{site.baseurl}}/course/content/media/susie.portrait2.bursa.ppg.jpg)
+![© Trea van Drunen.jpg](https://talkingpictures.connectedacademy.io/course/content/media/© Trea van Drunen.jpg)
+![](https://talkingpictures.connectedacademy.io/course/content/media/bracco_headshot.jpg)
+![susie.portrait2.bursa.ppg.jpg](https://talkingpictures.connectedacademy.io/course/content/media/susie.portrait2.bursa.ppg.jpg)
