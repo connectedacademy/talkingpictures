@@ -1,3 +1,10 @@
+---
+published: true
+content_type: title
+optional: false
+expectsubmission: false
+title: Untitled
+---
 ## Why do I have to log in with Twitter?
 There are multiple reasons; Talking Pictures uses the tools of multi-media storytelling to teach and learn about multi-media storytelling. Twitter is one of those tools, arguably it has emerged as an essential tool for journalists. Twitter’s verification process verifies participants are who they say they are. It also enables us to tap into existing networks of micro conversation, meaning people in our networks who share our interests may hear about, and access the course from our notes (each tweeted note contains a link back to the section of text you referred to).
 
@@ -16,7 +23,7 @@ Talking Pictures is part funded as a PhD research project. One of the goals of t
 No one owns Talking Pictures or the Connected Academy platform. The teaching and learning materials are licensed to be free to access and the platform is open source.
 
 ## Do I need my own website to participate?
-Talking Pictures does not host images. We encourage participants to own their own domain and website, where you are the author of your own terms of service and you retain the rights to your images. If you want to submit images, give and receive feedback and have your work potentially reviewed by the World Press Photo Foundation webinar panel, you will need to submit  a link to a site that is able able to host a context-rich image. 
+Talking Pictures does not host images. We encourage participants to own their own domain and website, where you are the author of your own terms of service and you retain the rights to your images. If you want to submit images and give and receive feedback, you will need to submit  a link to a site that is able able to host a context-rich image. 
 
 ## What data are you collecting on me and how will it be used?
 We collect no personal data other than your email address and Tweets. General data about participants engagement with the platform is collected but your personal identity will not be associated with it. We want to learn which bits people enjoy and spend time on, which bits people skip or leave quickly and if there are any regional differences according to where people tuned in from.
